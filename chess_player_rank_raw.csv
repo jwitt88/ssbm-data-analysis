@@ -1,0 +1,702 @@
+FIELD,YEAR,PLAYER,RANK,CHANGE,SPEC_SCORE,COUNTRY,BIRTH_YEAR
+CHESS,2019,"Carlsen, Magnus",1,,2872,NOR,1990
+CHESS,2019,"Caruana, Fabiano",2,,2822,USA,1992
+CHESS,2019,"Ding, Liren",3,,2801,CHN,1992
+CHESS,2019,"Vachier-Lagrave, Maxime",4,,2780,FRA,1990
+CHESS,2019,"Grischuk, Alexander",5,,2777,RUS,1983
+CHESS,2019,"Aronian, Levon",6,,2775,ARM,1982
+CHESS,2019,"Mamedyarov, Shakhriyar",7,,2772,AZE,1985
+CHESS,2019,"Giri, Anish",8,,2769,NED,1994
+CHESS,2019,"Nepomniachtchi, Ian",9,,2767,RUS,1990
+CHESS,2019,"Radjabov, Teimour",10,,2765,AZE,1987
+CHESS,2019,"So, Wesley",11,,2760,USA,1993
+CHESS,2019,"Duda, Jan-Krzysztof",12,,2758,POL,1998
+CHESS,2019,"Dominguez Perez, Leinier",13,,2758,USA,1983
+CHESS,2019,"Rapport, Richard",14,,2758,HUN,1996
+CHESS,2019,"Anand, Viswanathan",15,,2757,IND,1969
+CHESS,2019,"Wang, Hao",16,,2756,CHN,1989
+CHESS,2019,"Karjakin, Sergey",17,,2754,RUS,1990
+CHESS,2019,"Kramnik, Vladimir",18,,2753,RUS,1975
+CHESS,2019,"Vitiugov, Nikita",19,,2747,RUS,1987
+CHESS,2019,"Yu, Yangyi",20,,2738,CHN,1994
+CHESS,2019,"Topalov, Veselin",21,,2737,BUL,1975
+CHESS,2019,"Nakamura, Hikaru",22,,2736,USA,1987
+CHESS,2019,"Artemiev, Vladislav",23,,2731,RUS,1998
+CHESS,2019,"Wojtaszek, Radoslaw",24,,2725,POL,1987
+CHESS,2019,"Wei, Yi",25,,2725,CHN,1999
+CHESS,2019,"Andreikin, Dmitry",26,,2724,RUS,1990
+CHESS,2019,"Harikrishna, Pentala",27,,2724,IND,1986
+CHESS,2019,"Svidler, Peter",28,,2723,RUS,1976
+CHESS,2019,"Firouzja, Alireza",29,,2723,FID,2003
+CHESS,2019,"Vidit, Santosh Gujrathi",30,,2721,IND,1994
+CHESS,2019,"Le, Quang Liem",31,,2713,VIE,1991
+CHESS,2019,"Xiong, Jeffery",32,,2712,USA,2000
+CHESS,2019,"Navara, David",33,,2707,CZE,1985
+CHESS,2019,"Tomashevsky, Evgeny",34,,2705,RUS,1987
+CHESS,2019,"Bu, Xiangzhi",35,,2705,CHN,1985
+CHESS,2019,"Vallejo Pons, Francisco",36,,2704,ESP,1982
+CHESS,2019,"Alekseenko, Kirill",37,,2704,RUS,1997
+CHESS,2019,"Adams, Michael",38,,2701,ENG,1971
+CHESS,2019,"Matlakov, Maxim",39,,2699,RUS,1991
+CHESS,2019,"Jakovenko, Dmitry",40,,2698,RUS,1983
+CHESS,2019,"Sadler, Matthew D",41,,2692,ENG,1974
+CHESS,2019,"Almasi, Zoltan",42,,2691,HUN,1976
+CHESS,2019,"Maghsoodloo, Parham",43,,2690,IRI,2000
+CHESS,2019,"Dubov, Daniil",44,,2690,RUS,1996
+CHESS,2019,"Ivanchuk, Vassily",45,,2690,UKR,1969
+CHESS,2019,"Li, Chao b",46,,2690,CHN,1989
+CHESS,2019,"Sargissian, Gabriel",47,,2689,ARM,1983
+CHESS,2019,"Cheparinov, Ivan",48,,2687,GEO,1986
+CHESS,2019,"Anton Guijarro, David",49,,2685,ESP,1995
+CHESS,2019,"Rausis, Igors",50,,2685,CZE,1961
+CHESS,2019,"Shirov, Alexei",51,,2684,ESP,1972
+CHESS,2019,"Gelfand, Boris",52,,2684,ISR,1968
+CHESS,2019,"Grandelius, Nils",53,,2683,SWE,1993
+CHESS,2019,"Jones, Gawain C B",54,,2683,ENG,1987
+CHESS,2019,"Shankland, Sam",55,,2683,USA,1991
+CHESS,2019,"Amin, Bassem",56,,2683,EGY,1988
+CHESS,2019,"Kamsky, Gata",57,,2677,USA,1974
+CHESS,2019,"McShane, Luke J",58,,2677,ENG,1984
+CHESS,2019,"Fedoseev, Vladimir",59,,2677,RUS,1995
+CHESS,2019,"Dreev, Aleksey",60,,2677,RUS,1969
+CHESS,2019,"Howell, David W L",61,,2676,ENG,1990
+CHESS,2019,"Predke, Alexandr",62,,2676,RUS,1994
+CHESS,2019,"Kryvoruchko, Yuriy",63,,2675,UKR,1986
+CHESS,2019,"Areshchenko, Alexander",64,,2675,UKR,1986
+CHESS,2019,"Salem, A.R. Saleh",65,,2675,UAE,1993
+CHESS,2019,"Wang, Yue",66,,2674,CHN,1987
+CHESS,2019,"Robson, Ray",67,,2673,USA,1994
+CHESS,2019,"Ragger, Markus",68,,2670,AUT,1988
+CHESS,2019,"Leko, Peter",69,,2670,HUN,1979
+CHESS,2019,"Ni, Hua",70,,2669,CHN,1983
+CHESS,2019,"Bacrot, Etienne",71,,2669,FRA,1983
+CHESS,2019,"Melkumyan, Hrant",72,,2668,ARM,1989
+CHESS,2019,"Nisipeanu, Liviu-Dieter",73,,2668,GER,1976
+CHESS,2019,"Malakhov, Vladimir",74,,2668,RUS,1980
+CHESS,2019,"Korobov, Anton",75,,2668,UKR,1985
+CHESS,2019,"Kuzubov, Yuriy",76,,2667,UKR,1990
+CHESS,2019,"Guseinov, Gadir",77,,2666,AZE,1986
+CHESS,2019,"Sjugirov, Sanan",78,,2665,RUS,1993
+CHESS,2019,"Hou, Yifan",79,,2664,CHN,1994
+CHESS,2019,"Kasimdzhanov, Rustam",80,,2664,UZB,1979
+CHESS,2019,"Sarana, Alexey",81,,2663,RUS,2000
+CHESS,2019,"Abasov, Nijat",82,,2663,AZE,1995
+CHESS,2019,"Eljanov, Pavel",83,,2663,UKR,1983
+CHESS,2019,"Inarkiev, Ernesto",84,,2663,RUS,1985
+CHESS,2019,"Kovalev, Vladislav",85,,2662,BLR,1994
+CHESS,2019,"Najer, Evgeniy",86,,2661,RUS,1977
+CHESS,2019,"Sevian, Samuel",87,,2660,USA,2000
+CHESS,2019,"Nyzhnyk, Illya",88,,2660,UKR,1996
+CHESS,2019,"Mamedov, Rauf",89,,2659,AZE,1988
+CHESS,2019,"Morozevich, Alexander",90,,2659,RUS,1977
+CHESS,2019,"Swiercz, Dariusz",91,,2659,USA,1994
+CHESS,2019,"Berkes, Ferenc",92,,2656,HUN,1985
+CHESS,2019,"Sasikiran, Krishnan",93,,2656,IND,1981
+CHESS,2019,"Lagarde, Maxime",94,,2655,FRA,1994
+CHESS,2019,"Adhiban, B.",95,,2654,IND,1992
+CHESS,2019,"Edouard, Romain",96,,2653,FRA,1990
+CHESS,2019,"Saric, Ivan",97,,2651,CRO,1990
+CHESS,2019,"Cori, Jorge",98,,2651,PER,1995
+CHESS,2019,"Rublevsky, Sergei",99,,2651,RUS,1974
+CHESS,2019,"Oparin, Grigoriy",100,,2650,RUS,1997
+CHESS,2018,"Carlsen, Magnus",1,,2835,NOR,1990
+CHESS,2018,"Caruana, Fabiano",2,,2832,USA,1992
+CHESS,2018,"Mamedyarov, Shakhriyar",3,,2817,AZE,1985
+CHESS,2018,"Ding, Liren",4,,2813,CHN,1992
+CHESS,2018,"Giri, Anish",5,,2783,NED,1994
+CHESS,2018,"Vachier-Lagrave, Maxime",6,,2781,FRA,1990
+CHESS,2018,"Kramnik, Vladimir",7,,2777,RUS,1975
+CHESS,2018,"Anand, Viswanathan",8,,2773,IND,1969
+CHESS,2018,"Grischuk, Alexander",9,,2771,RUS,1983
+CHESS,2018,"Aronian, Levon",10,,2765,ARM,1982
+CHESS,2018,"So, Wesley",11,,2765,USA,1993
+CHESS,2018,"Yu, Yangyi",12,,2764,CHN,1994
+CHESS,2018,"Nepomniachtchi, Ian",13,,2763,RUS,1990
+CHESS,2018,"Radjabov, Teimour",14,,2757,AZE,1987
+CHESS,2018,"Karjakin, Sergey",15,,2753,RUS,1990
+CHESS,2018,"Nakamura, Hikaru",16,,2746,USA,1987
+CHESS,2018,"Topalov, Veselin",17,,2740,BUL,1975
+CHESS,2018,"Duda, Jan-Krzysztof",18,,2738,POL,1998
+CHESS,2018,"Svidler, Peter",19,,2737,RUS,1976
+CHESS,2018,"Naiditsch, Arkadij",20,,2736,AZE,1985
+CHESS,2018,"Navara, David",21,,2736,CZE,1985
+CHESS,2018,"Jakovenko, Dmitry",22,,2735,RUS,1983
+CHESS,2018,"Wojtaszek, Radoslaw",23,,2732,POL,1987
+CHESS,2018,"Rapport, Richard",24,,2732,HUN,1996
+CHESS,2018,"Wang, Hao",25,,2730,CHN,1989
+CHESS,2018,"Wei, Yi",26,,2728,CHN,1999
+CHESS,2018,"Bu, Xiangzhi",27,,2726,CHN,1985
+CHESS,2018,"Harikrishna, Pentala",28,,2725,IND,1986
+CHESS,2018,"Shankland, Samuel",29,,2724,USA,1991
+CHESS,2018,"Vitiugov, Nikita",30,,2719,RUS,1987
+CHESS,2018,"Fedoseev, Vladimir",31,,2719,RUS,1995
+CHESS,2018,"Andreikin, Dmitry",32,,2719,RUS,1990
+CHESS,2018,"Ivanchuk, Vassily",33,,2717,UKR,1969
+CHESS,2018,"Le, Quang Liem",34,,2714,VIE,1991
+CHESS,2018,"Amin, Bassem",35,,2710,EGY,1988
+CHESS,2018,"Cheparinov, Ivan",36,,2709,GEO,1986
+CHESS,2018,"Artemiev, Vladislav",37,,2709,RUS,1998
+CHESS,2018,"Tomashevsky, Evgeny",38,,2705,RUS,1987
+CHESS,2018,"Adams, Michael",39,,2703,ENG,1971
+CHESS,2018,"Dubov, Daniil",40,,2703,RUS,1996
+CHESS,2018,"Li, Chao b",41,,2703,CHN,1989
+CHESS,2018,"Mamedov, Rauf",42,,2703,AZE,1988
+CHESS,2018,"Vidit, Santosh Gujrathi",43,,2701,IND,1994
+CHESS,2018,"Matlakov, Maxim",44,,2700,RUS,1991
+CHESS,2018,"Korobov, Anton",45,,2698,UKR,1985
+CHESS,2018,"Howell, David W L",46,,2696,ENG,1990
+CHESS,2018,"Saric, Ivan",47,,2695,CRO,1990
+CHESS,2018,"Adhiban, B.",48,,2695,IND,1992
+CHESS,2018,"Vallejo Pons, Francisco",49,,2695,ESP,1982
+CHESS,2018,"Inarkiev, Ernesto",50,,2693,RUS,1985
+CHESS,2018,"Sadler, Matthew D",51,,2693,ENG,1974
+CHESS,2018,"Almasi, Zoltan",52,,2689,HUN,1976
+CHESS,2018,"Cori, Jorge",53,,2689,PER,1995
+CHESS,2018,"Sargissian, Gabriel",54,,2689,ARM,1983
+CHESS,2018,"Maghsoodloo, Parham",55,,2688,IRI,2000
+CHESS,2018,"Ragger, Markus",56,,2687,AUT,1988
+CHESS,2018,"Kryvoruchko, Yuriy",57,,2687,UKR,1986
+CHESS,2018,"Bacrot, Etienne",58,,2686,FRA,1983
+CHESS,2018,"Kovalev, Vladislav",59,,2683,BLR,1994
+CHESS,2018,"Ni, Hua",60,,2683,CHN,1983
+CHESS,2018,"Wang, Yue",61,,2683,CHN,1987
+CHESS,2018,"Nisipeanu, Liviu-Dieter",62,,2682,GER,1976
+CHESS,2018,"Jones, Gawain C B",63,,2682,ENG,1987
+CHESS,2018,"Eljanov, Pavel",64,,2680,UKR,1983
+CHESS,2018,"Demchenko, Anton",65,,2679,RUS,1987
+CHESS,2018,"Grandelius, Nils",66,,2678,SWE,1993
+CHESS,2018,"Xiong, Jeffery",67,,2676,USA,2000
+CHESS,2018,"Laznicka, Viktor",68,,2675,CZE,1988
+CHESS,2018,"Rodshtein, Maxim",69,,2675,ISR,1989
+CHESS,2018,"Sasikiran, Krishnan",70,,2673,IND,1981
+CHESS,2018,"Gelfand, Boris",71,,2673,ISR,1968
+CHESS,2018,"Safarli, Eltaj",72,,2671,AZE,1992
+CHESS,2018,"Melkumyan, Hrant",73,,2670,ARM,1989
+CHESS,2018,"Najer, Evgeniy",74,,2670,RUS,1977
+CHESS,2018,"Dreev, Aleksey",75,,2670,RUS,1969
+CHESS,2018,"Nabaty, Tamir",76,,2670,ISR,1991
+CHESS,2018,"Leko, Peter",77,,2669,HUN,1979
+CHESS,2018,"Robson, Ray",78,,2667,USA,1994
+CHESS,2018,"Kamsky, Gata",79,,2666,USA,1974
+CHESS,2018,"Bruzon Batista, Lazaro",80,,2664,CUB,1982
+CHESS,2018,"McShane, Luke J",81,,2664,ENG,1984
+CHESS,2018,"Guseinov, Gadir",82,,2664,AZE,1986
+CHESS,2018,"Sethuraman, S.P.",83,,2664,IND,1993
+CHESS,2018,"Sjugirov, Sanan",84,,2663,RUS,1993
+CHESS,2018,"Ponomariov, Ruslan",85,,2663,UKR,1983
+CHESS,2018,"Hou, Yifan",86,,2662,CHN,1994
+CHESS,2018,"Berkes, Ferenc",87,,2662,HUN,1985
+CHESS,2018,"Salem, A.R. Saleh",88,,2660,UAE,1993
+CHESS,2018,"Lenic, Luka",89,,2659,SLO,1988
+CHESS,2018,"Kasimdzhanov, Rustam",90,,2659,UZB,1979
+CHESS,2018,"Malakhov, Vladimir",91,,2658,RUS,1980
+CHESS,2018,"Van Kampen, Robin",92,,2658,NED,1994
+CHESS,2018,"Kovalenko, Igor",93,,2657,LAT,1988
+CHESS,2018,"Areshchenko, Alexander",94,,2656,UKR,1986
+CHESS,2018,"Mareco, Sandro",95,,2656,ARG,1987
+CHESS,2018,"Morozevich, Alexander",96,,2656,RUS,1977
+CHESS,2018,"Kuzubov, Yuriy",97,,2655,UKR,1990
+CHESS,2018,"Rausis, Igors",98,,2655,CZE,1961
+CHESS,2018,"Hammer, Jon Ludvig",99,,2652,NOR,1990
+CHESS,2018,"Rublevsky, Sergei",100,,2652,RUS,1974
+CHESS,2017,"Carlsen, Magnus",1,,2837,NOR,1990
+CHESS,2017,"Aronian, Levon",2,,2805,ARM,1982
+CHESS,2017,"Mamedyarov, Shakhriyar",3,,2799,AZE,1985
+CHESS,2017,"Caruana, Fabiano",4,,2799,USA,1992
+CHESS,2017,"Vachier-Lagrave, Maxime",5,,2789,FRA,1990
+CHESS,2017,"So, Wesley",6,,2788,USA,1993
+CHESS,2017,"Kramnik, Vladimir",7,,2787,RUS,1975
+CHESS,2017,"Anand, Viswanathan",8,,2782,IND,1969
+CHESS,2017,"Nakamura, Hikaru",9,,2781,USA,1987
+CHESS,2017,"Ding, Liren",10,,2777,CHN,1992
+CHESS,2017,"Grischuk, Alexander",11,,2772,RUS,1983
+CHESS,2017,"Svidler, Peter",12,,2765,RUS,1976
+CHESS,2017,"Karjakin, Sergey",13,,2760,RUS,1990
+CHESS,2017,"Giri, Anish",14,,2752,NED,1994
+CHESS,2017,"Yu, Yangyi",15,,2751,CHN,1994
+CHESS,2017,"Topalov, Veselin",16,,2749,FID,1975
+CHESS,2017,"Radjabov, Teimour",17,,2748,AZE,1987
+CHESS,2017,"Harikrishna, P.",18,,2744,IND,1986
+CHESS,2017,"Wei, Yi",19,,2743,CHN,1999
+CHESS,2017,"Navara, David",20,,2740,CZE,1985
+CHESS,2017,"Le, Quang Liem",21,,2737,VIE,1991
+CHESS,2017,"Wojtaszek, Radoslaw",22,,2736,POL,1987
+CHESS,2017,"Matlakov, Maxim",23,,2735,RUS,1991
+CHESS,2017,"Li, Chao b",24,,2732,CHN,1989
+CHESS,2017,"Jakovenko, Dmitry",25,,2730,RUS,1983
+CHESS,2017,"Bu, Xiangzhi",26,,2730,CHN,1985
+CHESS,2017,"Nepomniachtchi, Ian",27,,2729,RUS,1990
+CHESS,2017,"Ivanchuk, Vassily",28,,2726,UKR,1969
+CHESS,2017,"Bacrot, Etienne",29,,2725,FRA,1983
+CHESS,2017,"Vitiugov, Nikita",30,,2722,RUS,1987
+CHESS,2017,"Fedoseev, Vladimir",31,,2718,RUS,1995
+CHESS,2017,"Duda, Jan-Krzysztof",32,,2717,POL,1998
+CHESS,2017,"Adams, Michael",33,,2715,ENG,1971
+CHESS,2017,"Vidit, Santosh Gujrathi",34,,2715,IND,1994
+CHESS,2017,"Tomashevsky, Evgeny",35,,2713,RUS,1987
+CHESS,2017,"Andreikin, Dmitry",36,,2712,RUS,1990
+CHESS,2017,"Eljanov, Pavel",37,,2711,UKR,1983
+CHESS,2017,"Cheparinov, Ivan",38,,2710,FID,1986
+CHESS,2017,"Wang, Hao",39,,2709,CHN,1989
+CHESS,2017,"Mamedov, Rauf",40,,2709,AZE,1988
+CHESS,2017,"Rapport, Richard",41,,2707,HUN,1996
+CHESS,2017,"Vallejo Pons, Francisco",42,,2707,ESP,1982
+CHESS,2017,"Naiditsch, Arkadij",43,,2705,AZE,1985
+CHESS,2017,"Kuzubov, Yuriy",44,,2699,UKR,1990
+CHESS,2017,"Rodshtein, Maxim",45,,2699,ISR,1989
+CHESS,2017,"Gelfand, Boris",46,,2697,ISR,1968
+CHESS,2017,"Najer, Evgeniy",47,,2696,RUS,1977
+CHESS,2017,"Ponomariov, Ruslan",48,,2694,UKR,1983
+CHESS,2017,"Artemiev, Vladislav",49,,2691,RUS,1998
+CHESS,2017,"Leko, Peter",50,,2691,HUN,1979
+CHESS,2017,"Jobava, Baadur",51,,2690,GEO,1983
+CHESS,2017,"Wang, Yue",52,,2690,CHN,1987
+CHESS,2017,"Inarkiev, Ernesto",53,,2689,RUS,1985
+CHESS,2017,"Kryvoruchko, Yuriy",54,,2689,UKR,1986
+CHESS,2017,"Amin, Bassem",55,,2689,EGY,1988
+CHESS,2017,"Malakhov, Vladimir",56,,2686,RUS,1980
+CHESS,2017,"Sadler, Matthew D",57,,2685,ENG,1974
+CHESS,2017,"Dubov, Daniil",58,,2683,RUS,1996
+CHESS,2017,"Kasimdzhanov, Rustam",59,,2683,UZB,1979
+CHESS,2017,"Rublevsky, Sergei",60,,2683,RUS,1974
+CHESS,2017,"Almasi, Zoltan",61,,2682,HUN,1976
+CHESS,2017,"Onischuk, Alexander",62,,2681,USA,1975
+CHESS,2017,"Sasikiran, Krishnan",63,,2680,IND,1981
+CHESS,2017,"Hou, Yifan",64,,2680,CHN,1994
+CHESS,2017,"Short, Nigel D",65,,2678,ENG,1965
+CHESS,2017,"Kamsky, Gata",66,,2677,USA,1974
+CHESS,2017,"Howell, David W L",67,,2676,ENG,1990
+CHESS,2017,"Motylev, Alexander",68,,2675,RUS,1979
+CHESS,2017,"Sutovsky, Emil",69,,2673,ISR,1977
+CHESS,2017,"Bruzon Batista, Lazaro",70,,2672,CUB,1982
+CHESS,2017,"Kravtsiv, Martyn",71,,2672,UKR,1990
+CHESS,2017,"Sargissian, Gabriel",72,,2672,ARM,1983
+CHESS,2017,"Nisipeanu, Liviu-Dieter",73,,2671,GER,1976
+CHESS,2017,"Krasenkow, Michal",74,,2671,POL,1963
+CHESS,2017,"Ni, Hua",75,,2671,CHN,1983
+CHESS,2017,"Saric, Ivan",76,,2669,CRO,1990
+CHESS,2017,"Moiseenko, Alexander",77,,2667,UKR,1980
+CHESS,2017,"Akopian, Vladimir",78,,2667,ARM,1971
+CHESS,2017,"Anton Guijarro, David",79,,2666,ESP,1995
+CHESS,2017,"Iturrizaga Bonelli, Eduardo",80,,2665,VEN,1989
+CHESS,2017,"Morozevich, Alexander",81,,2665,RUS,1977
+CHESS,2017,"Fressinet, Laurent",82,,2662,FRA,1981
+CHESS,2017,"Shankland, Samuel",83,,2662,USA,1991
+CHESS,2017,"Cori, Jorge",84,,2660,PER,1995
+CHESS,2017,"Demchenko, Anton",85,,2660,RUS,1987
+CHESS,2017,"Ipatov, Alexander",86,,2659,TUR,1993
+CHESS,2017,"Berkes, Ferenc",87,,2658,HUN,1985
+CHESS,2017,"Ragger, Markus",88,,2657,AUT,1988
+CHESS,2017,"Granda Zuniga, Julio E",89,,2657,PER,1967
+CHESS,2017,"Nabaty, Tamir",90,,2657,ISR,1991
+CHESS,2017,"Van Wely, Loek",91,,2657,NED,1972
+CHESS,2017,"Grachev, Boris",92,,2657,RUS,1986
+CHESS,2017,"Negi, Parimarjan",93,,2656,IND,1993
+CHESS,2017,"Lenic, Luka",94,,2655,SLO,1988
+CHESS,2017,"Adhiban, B.",95,,2655,IND,1992
+CHESS,2017,"Jones, Gawain C B",96,,2654,ENG,1987
+CHESS,2017,"Rakhmanov, Aleksandr",97,,2653,RUS,1989
+CHESS,2017,"Dreev, Aleksey",98,,2653,RUS,1969
+CHESS,2017,"Korobov, Anton",99,,2652,UKR,1985
+CHESS,2017,"Kovalyov, Anton",100,,2652,CAN,1992
+CHESS,2016,"Carlsen, Magnus",1,,2840,NOR,1990
+CHESS,2016,"Caruana, Fabiano",2,,2823,USA,1992
+CHESS,2016,"Kramnik, Vladimir",3,,2809,RUS,1975
+CHESS,2016,"Vachier-Lagrave, Maxime",4,,2804,FRA,1990
+CHESS,2016,"So, Wesley",5,,2794,USA,1993
+CHESS,2016,"Karjakin, Sergey",6,,2785,RUS,1990
+CHESS,2016,"Aronian, Levon",7,,2785,ARM,1982
+CHESS,2016,"Anand, Viswanathan",8,,2779,IND,1969
+CHESS,2016,"Nakamura, Hikaru",9,,2779,USA,1987
+CHESS,2016,"Giri, Anish",10,,2771,NED,1994
+CHESS,2016,"Harikrishna, P.",11,,2770,IND,1986
+CHESS,2016,"Mamedyarov, Shakhriyar",12,,2768,AZE,1985
+CHESS,2016,"Nepomniachtchi, Ian",13,,2767,RUS,1990
+CHESS,2016,"Eljanov, Pavel",14,,2762,UKR,1983
+CHESS,2016,"Topalov, Veselin",15,,2760,BUL,1975
+CHESS,2016,"Ding, Liren",16,,2757,CHN,1992
+CHESS,2016,"Svidler, Peter",17,,2753,RUS,1976
+CHESS,2016,"Wojtaszek, Radoslaw",18,,2749,POL,1987
+CHESS,2016,"Adams, Michael",19,,2748,ENG,1971
+CHESS,2016,"Ivanchuk, Vassily",20,,2747,UKR,1969
+CHESS,2016,"Dominguez Perez, Leinier",21,,2739,CUB,1983
+CHESS,2016,"Andreikin, Dmitry",22,,2737,RUS,1990
+CHESS,2016,"Grischuk, Alexander",23,,2737,RUS,1983
+CHESS,2016,"Yu, Yangyi",24,,2729,CHN,1994
+CHESS,2016,"Vitiugov, Nikita",25,,2726,RUS,1987
+CHESS,2016,"Navara, David",26,,2725,CZE,1985
+CHESS,2016,"Gelfand, Boris",27,,2725,ISR,1968
+CHESS,2016,"Li, Chao b",28,,2720,CHN,1989
+CHESS,2016,"Le, Quang Liem",29,,2718,VIE,1991
+CHESS,2016,"Rapport, Richard",30,,2717,HUN,1996
+CHESS,2016,"Tomashevsky, Evgeny",31,,2716,RUS,1987
+CHESS,2016,"Malakhov, Vladimir",32,,2713,RUS,1980
+CHESS,2016,"Vallejo Pons, Francisco",33,,2711,ESP,1982
+CHESS,2016,"Radjabov, Teimour",34,,2710,AZE,1987
+CHESS,2016,"Wang, Yue",35,,2710,CHN,1987
+CHESS,2016,"Inarkiev, Ernesto",36,,2709,RUS,1985
+CHESS,2016,"Ponomariov, Ruslan",37,,2709,UKR,1983
+CHESS,2016,"Wei, Yi",38,,2707,CHN,1999
+CHESS,2016,"Bu, Xiangzhi",39,,2705,CHN,1985
+CHESS,2016,"Jakovenko, Dmitry",40,,2704,RUS,1983
+CHESS,2016,"Almasi, Zoltan",41,,2703,HUN,1976
+CHESS,2016,"Jobava, Baadur",42,,2702,GEO,1983
+CHESS,2016,"Kryvoruchko, Yuriy",43,,2699,UKR,1986
+CHESS,2016,"Van Wely, Loek",44,,2696,NED,1972
+CHESS,2016,"Rodshtein, Maxim",45,,2695,ISR,1989
+CHESS,2016,"Matlakov, Maxim",46,,2694,RUS,1991
+CHESS,2016,"Leko, Peter",47,,2693,HUN,1979
+CHESS,2016,"Korobov, Anton",48,,2692,UKR,1985
+CHESS,2016,"Safarli, Eltaj",49,,2691,AZE,1992
+CHESS,2016,"Kasimdzhanov, Rustam",50,,2691,UZB,1979
+CHESS,2016,"Ragger, Markus",51,,2689,AUT,1988
+CHESS,2016,"Bacrot, Etienne",52,,2689,FRA,1983
+CHESS,2016,"Cheparinov, Ivan",53,,2689,BUL,1986
+CHESS,2016,"Vidit, Santosh Gujrathi",54,,2689,IND,1994
+CHESS,2016,"Mamedov, Rauf",55,,2688,AZE,1988
+CHESS,2016,"Naiditsch, Arkadij",56,,2687,AZE,1985
+CHESS,2016,"Kovalenko, Igor",57,,2684,LAT,1988
+CHESS,2016,"Duda, Jan-Krzysztof",58,,2684,POL,1998
+CHESS,2016,"Rublevsky, Sergei",59,,2681,RUS,1974
+CHESS,2016,"Nisipeanu, Liviu-Dieter",60,,2680,GER,1976
+CHESS,2016,"Najer, Evgeniy",61,,2679,RUS,1977
+CHESS,2016,"Zvjaginsev, Vadim",62,,2679,RUS,1976
+CHESS,2016,"Short, Nigel D",63,,2679,ENG,1965
+CHESS,2016,"Areshchenko, Alexander",64,,2678,UKR,1986
+CHESS,2016,"Wang, Hao",65,,2678,CHN,1989
+CHESS,2016,"Morozevich, Alexander",66,,2676,RUS,1977
+CHESS,2016,"Akopian, Vladimir",67,,2675,ARM,1971
+CHESS,2016,"Robson, Ray",68,,2675,USA,1994
+CHESS,2016,"Shankland, Samuel L",69,,2674,USA,1991
+CHESS,2016,"Shirov, Alexei",70,,2673,LAT,1972
+CHESS,2016,"Movsesian, Sergei",71,,2673,ARM,1978
+CHESS,2016,"Sadler, Matthew D",72,,2672,ENG,1974
+CHESS,2016,"Fressinet, Laurent",73,,2672,FRA,1981
+CHESS,2016,"Zhigalko, Sergei",74,,2671,BLR,1989
+CHESS,2016,"Riazantsev, Alexander",75,,2671,RUS,1985
+CHESS,2016,"Sjugirov, Sanan",76,,2670,RUS,1993
+CHESS,2016,"Negi, Parimarjan",77,,2670,IND,1993
+CHESS,2016,"Smirin, Ilia",78,,2669,ISR,1968
+CHESS,2016,"Ganguly, Surya Shekhar",79,,2668,IND,1983
+CHESS,2016,"Onischuk, Alexander",80,,2668,USA,1975
+CHESS,2016,"Fedoseev, Vladimir",81,,2667,RUS,1995
+CHESS,2016,"Rakhmanov, Aleksandr",82,,2667,RUS,1989
+CHESS,2016,"Jones, Gawain C B",83,,2667,ENG,1987
+CHESS,2016,"Sargissian, Gabriel",84,,2667,ARM,1983
+CHESS,2016,"Xiong, Jeffery",85,,2666,USA,2000
+CHESS,2016,"Adhiban, B.",86,,2666,IND,1992
+CHESS,2016,"Bareev, Evgeny",87,,2666,CAN,1966
+CHESS,2016,"Ni, Hua",88,,2664,CHN,1983
+CHESS,2016,"Motylev, Alexander",89,,2663,RUS,1979
+CHESS,2016,"Amin, Bassem",90,,2662,EGY,1988
+CHESS,2016,"Kamsky, Gata",91,,2661,USA,1974
+CHESS,2016,"Sasikiran, Krishnan",92,,2661,IND,1981
+CHESS,2016,"Laznicka, Viktor",93,,2661,CZE,1988
+CHESS,2016,"Cordova, Emilio",94,,2660,PER,1991
+CHESS,2016,"Markus, Robert",95,,2660,SRB,1983
+CHESS,2016,"Dubov, Daniil",96,,2660,RUS,1996
+CHESS,2016,"Ipatov, Alexander",97,,2660,TUR,1993
+CHESS,2016,"Tkachiev, Vladislav",98,,2660,FRA,1973
+CHESS,2016,"Moiseenko, Alexander",99,,2657,UKR,1980
+CHESS,2016,"Piorun, Kacper",100,,2657,POL,1991
+CHESS,2015,"Carlsen, Magnus",1,,2834,NOR,1990
+CHESS,2015,"Topalov, Veselin",2,,2803,BUL,1975
+CHESS,2015,"Anand, Viswanathan",3,,2796,IND,1969
+CHESS,2015,"Kramnik, Vladimir",4,,2796,RUS,1975
+CHESS,2015,"Nakamura, Hikaru",5,,2793,USA,1987
+CHESS,2015,"Aronian, Levon",6,,2788,ARM,1982
+CHESS,2015,"Caruana, Fabiano",7,,2787,USA,1992
+CHESS,2015,"Giri, Anish",8,,2784,NED,1994
+CHESS,2015,"Ding, Liren",9,,2776,CHN,1992
+CHESS,2015,"So, Wesley",10,,2775,USA,1993
+CHESS,2015,"Vachier-Lagrave, Maxime",11,,2773,FRA,1990
+CHESS,2015,"Karjakin, Sergey",12,,2766,RUS,1990
+CHESS,2015,"Eljanov, Pavel",13,,2763,UKR,1983
+CHESS,2015,"Svidler, Peter",14,,2751,RUS,1976
+CHESS,2015,"Li, Chao b",15,,2750,CHN,1989
+CHESS,2015,"Mamedyarov, Shakhriyar",16,,2748,AZE,1985
+CHESS,2015,"Grischuk, Alexander",17,,2747,RUS,1983
+CHESS,2015,"Tomashevsky, Evgeny",18,,2744,RUS,1987
+CHESS,2015,"Harikrishna, P.",19,,2743,IND,1986
+CHESS,2015,"Adams, Michael",20,,2737,ENG,1971
+CHESS,2015,"Jakovenko, Dmitry",21,,2737,RUS,1983
+CHESS,2015,"Yu, Yangyi",22,,2736,CHN,1994
+CHESS,2015,"Andreikin, Dmitry",23,,2732,RUS,1990
+CHESS,2015,"Dominguez Perez, Leinier",24,,2732,CUB,1983
+CHESS,2015,"Gelfand, Boris",25,,2731,ISR,1968
+CHESS,2015,"Navara, David",26,,2730,CZE,1985
+CHESS,2015,"Wei, Yi",27,,2730,CHN,1999
+CHESS,2015,"Radjabov, Teimour",28,,2726,AZE,1987
+CHESS,2015,"Wang, Yue",29,,2724,CHN,1987
+CHESS,2015,"Vitiugov, Nikita",30,,2724,RUS,1987
+CHESS,2015,"Wojtaszek, Radoslaw",31,,2723,POL,1987
+CHESS,2015,"Le, Quang Liem",32,,2718,VIE,1991
+CHESS,2015,"Rapport, Richard",33,,2715,HUN,1996
+CHESS,2015,"Korobov, Anton",34,,2713,UKR,1985
+CHESS,2015,"Bu, Xiangzhi",35,,2712,CHN,1985
+CHESS,2015,"Kryvoruchko, Yuriy",36,,2711,UKR,1986
+CHESS,2015,"Ivanchuk, Vassily",37,,2710,UKR,1969
+CHESS,2015,"Ponomariov, Ruslan",38,,2710,UKR,1983
+CHESS,2015,"Fressinet, Laurent",39,,2707,FRA,1981
+CHESS,2015,"Nepomniachtchi, Ian",40,,2707,RUS,1990
+CHESS,2015,"Wang, Hao",41,,2707,CHN,1989
+CHESS,2015,"Leko, Peter",42,,2705,HUN,1979
+CHESS,2015,"Sargissian, Gabriel",43,,2702,ARM,1983
+CHESS,2015,"Kasimdzhanov, Rustam",44,,2702,UZB,1979
+CHESS,2015,"Naiditsch, Arkadij",45,,2698,AZE,1985
+CHESS,2015,"Hammer, Jon Ludvig",46,,2695,NOR,1990
+CHESS,2015,"Malakhov, Vladimir",47,,2694,RUS,1980
+CHESS,2015,"Ni, Hua",48,,2693,CHN,1983
+CHESS,2015,"Bacrot, Etienne",49,,2692,FRA,1983
+CHESS,2015,"Morozevich, Alexander",50,,2692,RUS,1977
+CHESS,2015,"Rublevsky, Sergei",51,,2692,RUS,1974
+CHESS,2015,"Almasi, Zoltan",52,,2690,HUN,1976
+CHESS,2015,"Moiseenko, Alexander",53,,2689,UKR,1980
+CHESS,2015,"Howell, David W L",54,,2688,ENG,1990
+CHESS,2015,"Ragger, Markus",55,,2687,AUT,1988
+CHESS,2015,"Granda Zuniga, Julio E",56,,2685,PER,1967
+CHESS,2015,"Short, Nigel D",57,,2684,ENG,1965
+CHESS,2015,"Matlakov, Maxim",58,,2684,RUS,1991
+CHESS,2015,"Hou, Yifan",59,,2683,CHN,1994
+CHESS,2015,"Cheparinov, Ivan",60,,2682,BUL,1986
+CHESS,2015,"Kovalenko, Igor",61,,2680,LAT,1988
+CHESS,2015,"Rodshtein, Maxim",62,,2678,ISR,1989
+CHESS,2015,"Areshchenko, Alexander",63,,2677,UKR,1986
+CHESS,2015,"Vallejo Pons, Francisco",64,,2676,ESP,1982
+CHESS,2015,"Shirov, Alexei",65,,2676,LAT,1972
+CHESS,2015,"Artemiev, Vladislav",66,,2676,RUS,1998
+CHESS,2015,"Nisipeanu, Liviu-Dieter",67,,2675,GER,1976
+CHESS,2015,"Bareev, Evgeny",68,,2675,CAN,1966
+CHESS,2015,"Najer, Evgeniy",69,,2674,RUS,1977
+CHESS,2015,"Jobava, Baadur",70,,2673,GEO,1983
+CHESS,2015,"Postny, Evgeny",71,,2670,ISR,1981
+CHESS,2015,"Kamsky, Gata",72,,2669,USA,1974
+CHESS,2015,"McShane, Luke J",73,,2669,ENG,1984
+CHESS,2015,"Adhiban, B.",74,,2669,IND,1992
+CHESS,2015,"Inarkiev, Ernesto",75,,2668,RUS,1985
+CHESS,2015,"Bruzon Batista, Lazaro",76,,2666,CUB,1982
+CHESS,2015,"Lysyj, Igor",77,,2666,RUS,1987
+CHESS,2015,"Amin, Bassem",78,,2665,EGY,1988
+CHESS,2015,"Fedoseev, Vladimir",79,,2664,RUS,1995
+CHESS,2015,"Negi, Parimarjan",80,,2664,IND,1993
+CHESS,2015,"Onischuk, Alexander",81,,2664,USA,1975
+CHESS,2015,"Duda, Jan-Krzysztof",82,,2663,POL,1998
+CHESS,2015,"Sadler, Matthew D",83,,2662,ENG,1974
+CHESS,2015,"Zvjaginsev, Vadim",84,,2662,RUS,1976
+CHESS,2015,"Tkachiev, Vladislav",85,,2660,FRA,1973
+CHESS,2015,"Meier, Georg",86,,2660,GER,1987
+CHESS,2015,"Ivanisevic, Ivan",87,,2660,SRB,1977
+CHESS,2015,"Movsesian, Sergei",88,,2659,ARM,1978
+CHESS,2015,"Robson, Ray",89,,2659,USA,1994
+CHESS,2015,"Smirin, Ilia",90,,2658,ISR,1968
+CHESS,2015,"Bukavshin, Ivan",91,,2657,RUS,1995
+CHESS,2015,"Laznicka, Viktor",92,,2655,CZE,1988
+CHESS,2015,"Dubov, Daniil",93,,2655,RUS,1996
+CHESS,2015,"Zhigalko, Sergei",94,,2655,BLR,1989
+CHESS,2015,"Melkumyan, Hrant",95,,2654,ARM,1989
+CHESS,2015,"Bologan, Viktor",96,,2654,MDA,1971
+CHESS,2015,"Saric, Ivan",97,,2654,CRO,1990
+CHESS,2015,"Gharamian, Tigran",98,,2654,FRA,1984
+CHESS,2015,"Khismatullin, Denis",99,,2654,RUS,1984
+CHESS,2015,"Safarli, Eltaj",100,,2653,AZE,1992
+CHESS,2014,"Carlsen, Magnus",1,,2862,NOR,1990
+CHESS,2014,"Caruana, Fabiano",2,,2829,ITA,1992
+CHESS,2014,"Grischuk, Alexander",3,,2810,RUS,1983
+CHESS,2014,"Topalov, Veselin",4,,2800,BUL,1975
+CHESS,2014,"Aronian, Levon",5,,2797,ARM,1982
+CHESS,2014,"Anand, Viswanathan",6,,2793,IND,1969
+CHESS,2014,"Nakamura, Hikaru",7,,2775,USA,1987
+CHESS,2014,"Karjakin, Sergey",8,,2773,RUS,1990
+CHESS,2014,"Kramnik, Vladimir",9,,2769,RUS,1975
+CHESS,2014,"Giri, Anish",10,,2768,NED,1994
+CHESS,2014,"Mamedyarov, Shakhriyar",11,,2765,AZE,1985
+CHESS,2014,"So, Wesley",12,,2762,USA,1993
+CHESS,2014,"Vachier-Lagrave, Maxime",13,,2758,FRA,1990
+CHESS,2014,"Adams, Michael",14,,2745,ENG,1971
+CHESS,2014,"Wojtaszek, Radoslaw",15,,2744,POL,1987
+CHESS,2014,"Gelfand, Boris",16,,2743,ISR,1968
+CHESS,2014,"Svidler, Peter",17,,2743,RUS,1976
+CHESS,2014,"Vitiugov, Nikita",18,,2738,RUS,1987
+CHESS,2014,"Andreikin, Dmitry",19,,2737,RUS,1990
+CHESS,2014,"Radjabov, Teimour",20,,2734,AZE,1987
+CHESS,2014,"Jobava, Baadur",21,,2733,GEO,1983
+CHESS,2014,"Jakovenko, Dmitry",22,,2732,RUS,1983
+CHESS,2014,"Ding, Liren",23,,2732,CHN,1992
+CHESS,2014,"Naiditsch, Arkadij",24,,2731,GER,1985
+CHESS,2014,"Li, Chao b",25,,2730,CHN,1989
+CHESS,2014,"Harikrishna, P.",26,,2727,IND,1986
+CHESS,2014,"Navara, David",27,,2727,CZE,1985
+CHESS,2014,"Eljanov, Pavel",28,,2726,UKR,1983
+CHESS,2014,"Dominguez Perez, Leinier",29,,2726,CUB,1983
+CHESS,2014,"Leko, Peter",30,,2723,HUN,1979
+CHESS,2014,"Wang, Yue",31,,2720,CHN,1987
+CHESS,2014,"Bacrot, Etienne",32,,2718,FRA,1983
+CHESS,2014,"Rapport, Richard",33,,2716,HUN,1996
+CHESS,2014,"Ivanchuk, Vassily",34,,2715,UKR,1969
+CHESS,2014,"Nepomniachtchi, Ian",35,,2714,RUS,1990
+CHESS,2014,"Tomashevsky, Evgeny",36,,2714,RUS,1987
+CHESS,2014,"Ponomariov, Ruslan",37,,2713,UKR,1983
+CHESS,2014,"Morozevich, Alexander",38,,2712,RUS,1977
+CHESS,2014,"Wang, Hao",39,,2710,CHN,1989
+CHESS,2014,"Malakhov, Vladimir",40,,2708,RUS,1980
+CHESS,2014,"Fressinet, Laurent",41,,2706,FRA,1981
+CHESS,2014,"Vallejo Pons, Francisco",42,,2705,ESP,1982
+CHESS,2014,"Yu, Yangyi",43,,2705,CHN,1994
+CHESS,2014,"Almasi, Zoltan",44,,2704,HUN,1976
+CHESS,2014,"Kasimdzhanov, Rustam",45,,2703,UZB,1979
+CHESS,2014,"Rublevsky, Sergei",46,,2698,RUS,1974
+CHESS,2014,"Matlakov, Maxim",47,,2695,RUS,1991
+CHESS,2014,"Moiseenko, Alexander",48,,2694,UKR,1980
+CHESS,2014,"Bu, Xiangzhi",49,,2691,CHN,1985
+CHESS,2014,"Kryvoruchko, Yuriy",50,,2688,UKR,1986
+CHESS,2014,"Korobov, Anton",51,,2687,UKR,1985
+CHESS,2014,"Sargissian, Gabriel",52,,2687,ARM,1983
+CHESS,2014,"Lysyj, Igor",53,,2686,RUS,1987
+CHESS,2014,"Riazantsev, Alexander",54,,2684,RUS,1985
+CHESS,2014,"Cheparinov, Ivan",55,,2684,BUL,1986
+CHESS,2014,"Ni, Hua",56,,2683,CHN,1983
+CHESS,2014,"Sasikiran, Krishnan",57,,2682,IND,1981
+CHESS,2014,"Kuzubov, Yuriy",58,,2681,UKR,1990
+CHESS,2014,"Kamsky, Gata",59,,2681,USA,1974
+CHESS,2014,"Inarkiev, Ernesto",60,,2680,RUS,1985
+CHESS,2014,"Motylev, Alexander",61,,2680,RUS,1979
+CHESS,2014,"Saric, Ivan",62,,2679,CRO,1990
+CHESS,2014,"Alekseev, Evgeny",63,,2679,RUS,1985
+CHESS,2014,"Melkumyan, Hrant",64,,2678,ARM,1989
+CHESS,2014,"Le, Quang Liem",65,,2678,VIE,1991
+CHESS,2014,"Tiviakov, Sergei",66,,2677,NED,1973
+CHESS,2014,"Rodshtein, Maxim",67,,2676,ISR,1989
+CHESS,2014,"Shirov, Alexei",68,,2675,LAT,1972
+CHESS,2014,"Polgar, Judit",69,,2675,HUN,1976
+CHESS,2014,"Laznicka, Viktor",70,,2673,CZE,1988
+CHESS,2014,"Hou, Yifan",71,,2673,CHN,1994
+CHESS,2014,"McShane, Luke J",72,,2672,ENG,1984
+CHESS,2014,"Zhigalko, Sergei",73,,2672,BLR,1989
+CHESS,2014,"Howell, David W L",74,,2670,ENG,1990
+CHESS,2014,"Fedorchuk, Sergey A.",75,,2669,UKR,1981
+CHESS,2014,"Berkes, Ferenc",76,,2669,HUN,1985
+CHESS,2014,"Grachev, Boris",77,,2669,RUS,1986
+CHESS,2014,"Negi, Parimarjan",78,,2669,IND,1993
+CHESS,2014,"Khismatullin, Denis",79,,2668,RUS,1984
+CHESS,2014,"Wei, Yi",80,,2668,CHN,1999
+CHESS,2014,"Bruzon Batista, Lazaro",81,,2668,CUB,1982
+CHESS,2014,"Van Wely, Loek",82,,2667,NED,1972
+CHESS,2014,"Sjugirov, Sanan",83,,2666,RUS,1993
+CHESS,2014,"Onischuk, Alexander",84,,2665,USA,1975
+CHESS,2014,"Bartel, Mateusz",85,,2664,POL,1985
+CHESS,2014,"Artemiev, Vladislav",86,,2662,RUS,1998
+CHESS,2014,"Areshchenko, Alexander",87,,2661,UKR,1986
+CHESS,2014,"Fedoseev, Vladimir",88,,2661,RUS,1995
+CHESS,2014,"Jones, Gawain C B",89,,2661,ENG,1987
+CHESS,2014,"Short, Nigel D",90,,2661,ENG,1965
+CHESS,2014,"Edouard, Romain",91,,2659,FRA,1990
+CHESS,2014,"Nguyen, Ngoc Truong Son",92,,2659,VIE,1990
+CHESS,2014,"Nisipeanu, Liviu-Dieter",93,,2658,GER,1976
+CHESS,2014,"Mamedov, Rauf",94,,2658,AZE,1988
+CHESS,2014,"Movsesian, Sergei",95,,2658,ARM,1978
+CHESS,2014,"Sadler, Matthew D",96,,2658,ENG,1974
+CHESS,2014,"Balogh, Csaba",97,,2658,HUN,1987
+CHESS,2014,"Gharamian, Tigran",98,,2658,FRA,1984
+CHESS,2014,"Akopian, Vladimir",99,,2657,ARM,1971
+CHESS,2014,"Baklan, Vladimir",100,,2655,UKR,1978
+CHESS,2013,"Carlsen, Magnus",1,,2872,NOR,1990
+CHESS,2013,"Aronian, Levon",2,,2803,ARM,1982
+CHESS,2013,"Kramnik, Vladimir",3,,2793,RUS,1975
+CHESS,2013,"Nakamura, Hikaru",4,,2786,USA,1987
+CHESS,2013,"Topalov, Veselin",5,,2785,BUL,1975
+CHESS,2013,"Grischuk, Alexander",6,,2783,RUS,1983
+CHESS,2013,"Caruana, Fabiano",7,,2782,ITA,1992
+CHESS,2013,"Gelfand, Boris",8,,2777,ISR,1968
+CHESS,2013,"Anand, Viswanathan",9,,2773,IND,1969
+CHESS,2013,"Svidler, Peter",10,,2758,RUS,1976
+CHESS,2013,"Mamedyarov, Shakhriyar",11,,2757,AZE,1985
+CHESS,2013,"Karjakin, Sergey",12,,2756,RUS,1990
+CHESS,2013,"Adams, Michael",13,,2754,ENG,1971
+CHESS,2013,"Dominguez Perez, Leinier",14,,2754,CUB,1983
+CHESS,2013,"Vachier-Lagrave, Maxime",15,,2745,FRA,1990
+CHESS,2013,"Vitiugov, Nikita",16,,2741,RUS,1987
+CHESS,2013,"Bacrot, Etienne",17,,2740,FRA,1983
+CHESS,2013,"Naiditsch, Arkadij",18,,2737,GER,1985
+CHESS,2013,"Wang, Hao",19,,2735,CHN,1989
+CHESS,2013,"Giri, Anish",20,,2734,NED,1994
+CHESS,2013,"Eljanov, Pavel",21,,2733,UKR,1983
+CHESS,2013,"Ivanchuk, Vassily",22,,2731,UKR,1969
+CHESS,2013,"Ponomariov, Ruslan",23,,2731,UKR,1983
+CHESS,2013,"Leko, Peter",24,,2730,HUN,1979
+CHESS,2013,"Wang, Yue",25,,2723,CHN,1987
+CHESS,2013,"Morozevich, Alexander",26,,2722,RUS,1977
+CHESS,2013,"Jakovenko, Dmitry",27,,2721,RUS,1983
+CHESS,2013,"Kamsky, Gata",28,,2721,USA,1974
+CHESS,2013,"Nepomniachtchi, Ian",29,,2721,RUS,1990
+CHESS,2013,"So, Wesley",30,,2719,PHI,1993
+CHESS,2013,"Malakhov, Vladimir",31,,2716,RUS,1980
+CHESS,2013,"Tomashevsky, Evgeny",32,,2715,RUS,1987
+CHESS,2013,"Moiseenko, Alexander",33,,2713,UKR,1980
+CHESS,2013,"Radjabov, Teimour",34,,2713,AZE,1987
+CHESS,2013,"Korobov, Anton",35,,2713,UKR,1985
+CHESS,2013,"Areshchenko, Alexander",36,,2712,UKR,1986
+CHESS,2013,"Wojtaszek, Radoslaw",37,,2711,POL,1987
+CHESS,2013,"Ding, Liren",38,,2710,CHN,1992
+CHESS,2013,"Andreikin, Dmitry",39,,2709,RUS,1990
+CHESS,2013,"Almasi, Zoltan",40,,2708,HUN,1976
+CHESS,2013,"Navara, David",41,,2708,CZE,1985
+CHESS,2013,"Harikrishna, P.",42,,2708,IND,1986
+CHESS,2013,"Fressinet, Laurent",43,,2707,FRA,1981
+CHESS,2013,"Rublevsky, Sergei",44,,2706,RUS,1974
+CHESS,2013,"Vallejo Pons, Francisco",45,,2705,ESP,1982
+CHESS,2013,"Jobava, Baadur",46,,2705,GEO,1983
+CHESS,2013,"Le, Quang Liem",47,,2703,VIE,1991
+CHESS,2013,"Kasimdzhanov, Rustam",48,,2701,UZB,1979
+CHESS,2013,"Kryvoruchko, Yuriy",49,,2701,UKR,1986
+CHESS,2013,"Matlakov, Maxim",50,,2700,RUS,1991
+CHESS,2013,"Inarkiev, Ernesto",51,,2698,RUS,1985
+CHESS,2013,"Alekseev, Evgeny",52,,2698,RUS,1985
+CHESS,2013,"Shirov, Alexei",53,,2695,LAT,1972
+CHESS,2013,"Polgar, Judit",54,,2693,HUN,1976
+CHESS,2013,"Nisipeanu, Liviu-Dieter",55,,2691,ROU,1976
+CHESS,2013,"Movsesian, Sergei",56,,2689,ARM,1978
+CHESS,2013,"Riazantsev, Alexander",57,,2689,RUS,1985
+CHESS,2013,"Rapport, Richard",58,,2687,HUN,1996
+CHESS,2013,"Bu, Xiangzhi",59,,2685,CHN,1985
+CHESS,2013,"McShane, Luke J",60,,2684,ENG,1984
+CHESS,2013,"Akopian, Vladimir",61,,2684,ARM,1971
+CHESS,2013,"Short, Nigel D",62,,2683,ENG,1965
+CHESS,2013,"Li, Chao b",63,,2683,CHN,1989
+CHESS,2013,"Rodshtein, Maxim",64,,2683,ISR,1989
+CHESS,2013,"Zhigalko, Sergei",65,,2682,BLR,1989
+CHESS,2013,"Laznicka, Viktor",66,,2681,CZE,1988
+CHESS,2013,"Granda Zuniga, Julio E",67,,2680,PER,1967
+CHESS,2013,"Volokitin, Andrei",68,,2678,UKR,1986
+CHESS,2013,"Van Wely, Loek",69,,2678,NED,1972
+CHESS,2013,"Berkes, Ferenc",70,,2677,HUN,1985
+CHESS,2013,"Bruzon Batista, Lazaro",71,,2677,CUB,1982
+CHESS,2013,"Sargissian, Gabriel",72,,2675,ARM,1983
+CHESS,2013,"Khismatullin, Denis",73,,2674,RUS,1984
+CHESS,2013,"Dreev, Aleksey",74,,2673,RUS,1969
+CHESS,2013,"Cheparinov, Ivan",75,,2672,BUL,1986
+CHESS,2013,"Onischuk, Alexander",76,,2672,USA,1975
+CHESS,2013,"Negi, Parimarjan",77,,2671,IND,1993
+CHESS,2013,"Istratescu, Andrei",78,,2670,FRA,1975
+CHESS,2013,"Ni, Hua",79,,2669,CHN,1983
+CHESS,2013,"Grachev, Boris",80,,2669,RUS,1986
+CHESS,2013,"Yu, Yangyi",81,,2667,CHN,1994
+CHESS,2013,"Lysyj, Igor",82,,2666,RUS,1987
+CHESS,2013,"Sasikiran, Krishnan",83,,2666,IND,1981
+CHESS,2013,"Edouard, Romain",84,,2665,FRA,1990
+CHESS,2013,"Bologan, Viktor",85,,2661,MDA,1971
+CHESS,2013,"Fedorchuk, Sergey A.",86,,2660,UKR,1981
+CHESS,2013,"Erdos, Viktor",87,,2658,HUN,1987
+CHESS,2013,"Tiviakov, Sergei",88,,2658,NED,1973
+CHESS,2013,"Socko, Bartosz",89,,2657,POL,1978
+CHESS,2013,"Sutovsky, Emil",90,,2657,ISR,1977
+CHESS,2013,"Mamedov, Rauf",91,,2656,AZE,1988
+CHESS,2013,"Gharamian, Tigran",92,,2656,FRA,1984
+CHESS,2013,"Efimenko, Zahar",93,,2655,UKR,1985
+CHESS,2013,"Romanov, Evgeny",94,,2654,RUS,1988
+CHESS,2013,"Amin, Bassem",95,,2654,EGY,1988
+CHESS,2013,"Jones, Gawain C B",96,,2654,ENG,1987
+CHESS,2013,"Khairullin, Ildar",97,,2653,RUS,1990
+CHESS,2013,"Zvjaginsev, Vadim",98,,2653,RUS,1976
+CHESS,2013,"Nielsen, Peter Heine",99,,2652,DEN,1973
+CHESS,2013,"Lenic, Luka",100,,2651,SLO,1988
+CHESS,2013,"Beliavsky, Alexander G",101,,2651,SLO,1953
