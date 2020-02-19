@@ -1,0 +1,2894 @@
+FIELD,YEAR,PLAYER,RANK,CHANGE,NEW,SPEC_SCORE
+POKER,2019,Stephen Chidwick,1,2.0,False,"3,687.58 pts"
+POKER,2019,William Alex Foxen,2,-1.0,False,"3,595.96 pts"
+POKER,2019,Anthony Zinno,3,16.0,False,"3,387.21 pts"
+POKER,2019,Sean Winter,4,59.0,False,"3,379.65 pts"
+POKER,2019,Manig Loeser,5,23.0,False,"3,369.95 pts"
+POKER,2019,"Joseph ""subiime"" Cheong",6,25.0,False,"3,339.81 pts"
+POKER,2019,Rainer Kempe,7,5.0,False,"3,304.52 pts"
+POKER,2019,"Jeremy ""TheTaker"" Ausmus",8,59.0,False,"3,277.13 pts"
+POKER,2019,Daniel Chi Tang,9,24.0,False,"3,211.35 pts"
+POKER,2019,"Kristen ""Krissyb24"" Bicknell",10,12.0,False,"3,185.05 pts"
+POKER,2019,Michael Addamo,11,2.0,False,"3,168.94 pts"
+POKER,2019,"Almedin ""Ali"" Imsirovic",12,24.0,False,"3,157.27 pts"
+POKER,2019,"Timothy ""Tim0thee"" Adams",13,35.0,False,"3,136.42 pts"
+POKER,2019,"Nick "" "" Pupillo",14,24.0,False,"3,120.51 pts"
+POKER,2019,Adrian Mateos,15,-8.0,False,"3,117.41 pts"
+POKER,2019,Dario Sammartino,16,59.0,False,"3,107.26 pts"
+POKER,2019,Ryan Riess,17,-9.0,False,"3,102.73 pts"
+POKER,2019,"Steve ""Mango"" O'Dwyer",18,-14.0,False,"3,083.15 pts"
+POKER,2019,Anatoly Filatov,19,32.0,False,"3,079.64 pts"
+POKER,2019,"Chris ""Big Huni"" Hunichen",20,81.0,True,"3,070.65 pts"
+POKER,2019,Christopher Michael Soyza,21,-5.0,False,"3,036.47 pts"
+POKER,2019,"Justin ""ZeeJustin"" Bonomo",22,-16.0,False,"3,035.80 pts"
+POKER,2019,Isaac Haxton,23,4.0,False,"3,026.85 pts"
+POKER,2019,James Romero,24,77.0,True,"3,014.25 pts"
+POKER,2019,Stephen Song,25,76.0,True,"2,989.27 pts"
+POKER,2019,Ben Heath,26,71.0,False,"2,978.08 pts"
+POKER,2019,Jason Koon,27,-16.0,False,"2,935.65 pts"
+POKER,2019,"Shannon ""BLUFFforRENT"" Shorr",28,73.0,True,"2,914.12 pts"
+POKER,2019,Brian Altman,29,1.0,False,"2,897.73 pts"
+POKER,2019,Matthias Eibinger,30,71.0,True,"2,885.65 pts"
+POKER,2019,"Sergio ""zcedrick"" Aido",31,15.0,False,"2,880.43 pts"
+POKER,2019,Farid Jattin,32,69.0,True,"2,866.73 pts"
+POKER,2019,Sam Greenwood,33,39.0,False,"2,863.35 pts"
+POKER,2019,Cary Katz,34,39.0,False,"2,856.49 pts"
+POKER,2019,Shaun Deeb,35,-18.0,False,"2,837.05 pts"
+POKER,2019,Julien Martini,36,65.0,True,"2,836.34 pts"
+POKER,2019,Bart Lybaert,37,-3.0,False,"2,823.17 pts"
+POKER,2019,Robert Heidorn,38,63.0,True,"2,812.74 pts"
+POKER,2019,Bryn Kenney,39,15.0,False,"2,809.30 pts"
+POKER,2019,Romain Pierre Lewis,40,2.0,False,"2,803.14 pts"
+POKER,2019,Joao Vieira,41,60.0,True,"2,776.15 pts"
+POKER,2019,David Peters,42,-40.0,False,"2,774.53 pts"
+POKER,2019,Sam Soverel,43,58.0,True,"2,774.51 pts"
+POKER,2019,Jack Salter,44,9.0,False,"2,768.81 pts"
+POKER,2019,Barry Hutter,45,2.0,False,"2,764.93 pts"
+POKER,2019,Dylan Linde,46,38.0,False,"2,748.07 pts"
+POKER,2019,"Alan ""Ari"" Engel",47,2.0,False,"2,744.37 pts"
+POKER,2019,Joseph McKeehen,48,-33.0,False,"2,739.20 pts"
+POKER,2019,Orpen Kisacikoglu,49,52.0,True,"2,722.34 pts"
+POKER,2019,Andrey Pateychuk,50,51.0,True,"2,712.52 pts"
+POKER,2019,Daniel Dvoress,51,50.0,True,"2,695.52 pts"
+POKER,2019,"David ""'ODB'"" Baker",52,49.0,True,"2,694.47 pts"
+POKER,2019,Benjamin Yu,53,-32.0,False,"2,686.46 pts"
+POKER,2019,Matas Cimbolas,54,47.0,True,"2,640.38 pts"
+POKER,2019,Tobias Peters,55,46.0,True,"2,638.56 pts"
+POKER,2019,Marton Czuczor,56,45.0,True,"2,631.16 pts"
+POKER,2019,Benjamin Pollak,57,-48.0,False,"2,627.44 pts"
+POKER,2019,Joe Kuether,58,-17.0,False,"2,621.93 pts"
+POKER,2019,Michael Tureniec,59,42.0,True,"2,619.43 pts"
+POKER,2019,Jerry Robinson,60,41.0,True,"2,619.08 pts"
+POKER,2019,Florian Duta,61,18.0,False,"2,616.24 pts"
+POKER,2019,Adam Hendrix,62,39.0,True,"2,607.75 pts"
+POKER,2019,Sergi Reixach,63,38.0,True,"2,605.17 pts"
+POKER,2019,Fahredin Mustafov,64,37.0,True,"2,594.10 pts"
+POKER,2019,Jake Schindler,65,-60.0,False,"2,585.25 pts"
+POKER,2019,Ludovic Geilich,66,-5.0,False,"2,578.84 pts"
+POKER,2019,Jake Schwartz,67,34.0,True,"2,578.73 pts"
+POKER,2019,Kahle Burns,68,33.0,True,"2,559.53 pts"
+POKER,2019,Elio Fox,69,32.0,True,"2,556.65 pts"
+POKER,2019,Zachary Donovan,70,22.0,False,"2,546.00 pts"
+POKER,2019,"Yan Shing ""Anson"" Tsang",71,-36.0,False,"2,541.74 pts"
+POKER,2019,Upeshka De Silva,72,29.0,True,"2,539.53 pts"
+POKER,2019,Seth Davies,73,28.0,True,"2,534.48 pts"
+POKER,2019,Phillip Hui,74,27.0,True,"2,529.82 pts"
+POKER,2019,Ryan Laplante,75,26.0,True,"2,521.15 pts"
+POKER,2019,Guillaume Nolet,76,25.0,True,"2,509.56 pts"
+POKER,2019,Darren Elias,77,-37.0,False,"2,505.46 pts"
+POKER,2019,Timothy Miles,78,-54.0,False,"2,501.86 pts"
+POKER,2019,Justin Liberto,79,3.0,False,"2,500.99 pts"
+POKER,2019,Ping Liu,80,21.0,True,"2,497.71 pts"
+POKER,2019,Igor Yaroshevskyy,81,20.0,True,"2,489.37 pts"
+POKER,2019,Ivan Deyra,82,19.0,True,"2,485.59 pts"
+POKER,2019,Joao Pires Simao,83,4.0,False,"2,476.18 pts"
+POKER,2019,Chance Kornuth,84,-32.0,False,"2,476.17 pts"
+POKER,2019,Jack Sinclair,85,-23.0,False,"2,469.25 pts"
+POKER,2019,Erik Seidel,86,15.0,True,"2,468.48 pts"
+POKER,2019,Daniel Strelitz,87,14.0,True,"2,463.83 pts"
+POKER,2019,"Anatoliy ""Dykalis"" Zyrin",88,13.0,True,"2,459.87 pts"
+POKER,2019,Yang Zhang,89,12.0,True,"2,459.24 pts"
+POKER,2019,Thomas Boivin,90,11.0,True,"2,456.75 pts"
+POKER,2019,Alexandre Reard,91,-31.0,False,"2,456.01 pts"
+POKER,2019,Chin Wei Lim,92,9.0,True,"2,452.72 pts"
+POKER,2019,Preben Stokkan,93,-22.0,False,"2,451.74 pts"
+POKER,2019,Sonny Franco,94,7.0,True,"2,443.35 pts"
+POKER,2019,Brett Apter,95,6.0,True,"2,419.37 pts"
+POKER,2019,Nick Schulman,96,5.0,True,"2,408.48 pts"
+POKER,2019,Anton Morgenstern,97,4.0,True,"2,401.89 pts"
+POKER,2019,"Mike ""GoLeafsGoEh"" Leah",98,-73.0,False,"2,398.05 pts"
+POKER,2019,Brock Wilson,99,2.0,True,"2,396.81 pts"
+POKER,2019,Lucas Greenwood,100,1.0,True,"2,395.60 pts"
+POKER,2018,William Alex Foxen,1,62.0,False,"3,992.22 pts"
+POKER,2018,David Peters,2,1.0,False,"3,678.95 pts"
+POKER,2018,Stephen Chidwick,3,1.0,False,"3,502.20 pts"
+POKER,2018,"Steve ""Mango"" O'Dwyer",4,16.0,False,"3,478.37 pts"
+POKER,2018,Jake Schindler,5,51.0,False,"3,422.80 pts"
+POKER,2018,"Justin ""ZeeJustin"" Bonomo",6,4.0,False,"3,418.46 pts"
+POKER,2018,Adrian Mateos,7,-6.0,False,"3,394.73 pts"
+POKER,2018,Ryan Riess,8,31.0,False,"3,319.27 pts"
+POKER,2018,Benjamin Pollak,9,12.0,False,"3,314.00 pts"
+POKER,2018,"Nikita ""Mikita"" Bodyakovskiy",10,72.0,False,"3,233.76 pts"
+POKER,2018,Jason Koon,11,-6.0,False,"3,153.59 pts"
+POKER,2018,Rainer Kempe,12,-4.0,False,"3,115.52 pts"
+POKER,2018,Michael Addamo,13,65.0,False,"3,110.14 pts"
+POKER,2018,Pavel Plesuv,14,87.0,True,"3,100.99 pts"
+POKER,2018,Joseph McKeehen,15,0.0,False,"3,080.32 pts"
+POKER,2018,Christopher Michael Soyza,16,85.0,True,"3,077.41 pts"
+POKER,2018,Shaun Deeb,17,84.0,True,"3,075.69 pts"
+POKER,2018,Dominik Nitsche,18,52.0,False,"3,062.17 pts"
+POKER,2018,Anthony Zinno,19,40.0,False,"3,033.77 pts"
+POKER,2018,Jan Eric Schwippert,20,16.0,False,"3,014.16 pts"
+POKER,2018,Benjamin Yu,21,80.0,True,"3,013.20 pts"
+POKER,2018,"Kristen ""Krissyb24"" Bicknell",22,38.0,False,"3,001.65 pts"
+POKER,2018,"Paul ""The Main Event"" Volpe",23,11.0,False,"2,946.63 pts"
+POKER,2018,Timothy Miles,24,18.0,False,"2,927.56 pts"
+POKER,2018,"Mike ""GoLeafsGoEh"" Leah",25,10.0,False,"2,927.34 pts"
+POKER,2018,Koray Aldemir,26,-13.0,False,"2,898.41 pts"
+POKER,2018,Isaac Haxton,27,54.0,False,"2,872.64 pts"
+POKER,2018,Manig Loeser,28,19.0,False,"2,851.55 pts"
+POKER,2018,Marc MacDonnell,29,72.0,True,"2,847.56 pts"
+POKER,2018,Brian Altman,30,0.0,False,"2,832.51 pts"
+POKER,2018,"Joseph ""subiime"" Cheong",31,70.0,True,"2,820.44 pts"
+POKER,2018,Anthony Ruberto,32,69.0,True,"2,809.07 pts"
+POKER,2018,Daniel Chi Tang,33,68.0,True,"2,808.23 pts"
+POKER,2018,Bart Lybaert,34,30.0,False,"2,793.97 pts"
+POKER,2018,"Yan Shing ""Anson"" Tsang",35,66.0,True,"2,787.53 pts"
+POKER,2018,"Almedin ""Ali"" Imsirovic",36,65.0,True,"2,762.41 pts"
+POKER,2018,"Niall ""Firaldo"" Farrell",37,-21.0,False,"2,753.85 pts"
+POKER,2018,"Nick "" "" Pupillo",38,63.0,True,"2,745.37 pts"
+POKER,2018,Joey Weissman,39,62.0,True,"2,711.31 pts"
+POKER,2018,Darren Elias,40,-16.0,False,"2,705.08 pts"
+POKER,2018,Joe Kuether,41,60.0,True,"2,696.09 pts"
+POKER,2018,Romain Pierre Lewis,42,59.0,True,"2,675.26 pts"
+POKER,2018,Nick Petrangelo,43,-34.0,False,"2,663.00 pts"
+POKER,2018,Michal Mrakeš,44,57.0,True,"2,655.70 pts"
+POKER,2018,Jacob Bazeley,45,10.0,False,"2,655.17 pts"
+POKER,2018,"Sergio ""zcedrick"" Aido",46,-17.0,False,"2,651.39 pts"
+POKER,2018,Barry Hutter,47,54.0,True,"2,640.25 pts"
+POKER,2018,"Timothy ""Tim0thee"" Adams",48,-5.0,False,"2,638.77 pts"
+POKER,2018,"Alan ""Ari"" Engel",49,-35.0,False,"2,619.61 pts"
+POKER,2018,Thomas Mühlöcker,50,26.0,False,"2,609.13 pts"
+POKER,2018,Anatoly Filatov,51,50.0,True,"2,607.39 pts"
+POKER,2018,Chance Kornuth,52,-26.0,False,"2,604.08 pts"
+POKER,2018,Jack Salter,53,-41.0,False,"2,603.84 pts"
+POKER,2018,Bryn Kenney,54,-52.0,False,"2,595.18 pts"
+POKER,2018,Maurice Hawkins,55,22.0,False,"2,588.60 pts"
+POKER,2018,Ihar Soika,56,45.0,True,"2,584.80 pts"
+POKER,2018,"Daniel ""Kid Poker"" Negreanu",57,15.0,False,"2,570.77 pts"
+POKER,2018,Gianluca Speranza,58,43.0,True,"2,570.16 pts"
+POKER,2018,Vladimir Troyanovskiy,59,33.0,False,"2,570.04 pts"
+POKER,2018,Alexandre Reard,60,25.0,False,"2,563.58 pts"
+POKER,2018,Ludovic Geilich,61,40.0,True,"2,561.30 pts"
+POKER,2018,Jack Sinclair,62,39.0,True,"2,549.78 pts"
+POKER,2018,Sean Winter,63,38.0,True,"2,547.12 pts"
+POKER,2018,Ioannis Angelou-Konstas,64,37.0,True,"2,537.02 pts"
+POKER,2018,Mustapha Kanit,65,36.0,True,"2,518.40 pts"
+POKER,2018,Yiannis Liperis,66,35.0,True,"2,498.80 pts"
+POKER,2018,"Jeremy ""TheTaker"" Ausmus",67,34.0,True,"2,494.33 pts"
+POKER,2018,"Davidi ""Kitbul"" Kitai",68,33.0,True,"2,493.64 pts"
+POKER,2018,Kalidou Sow,69,32.0,True,"2,487.96 pts"
+POKER,2018,Dylan Wilkerson,70,31.0,True,"2,485.82 pts"
+POKER,2018,Preben Stokkan,71,30.0,True,"2,474.69 pts"
+POKER,2018,Sam Greenwood,72,-54.0,False,"2,471.64 pts"
+POKER,2018,Cary Katz,73,28.0,True,"2,468.31 pts"
+POKER,2018,Alexander Lynskey,74,27.0,True,"2,465.84 pts"
+POKER,2018,Dario Sammartino,75,-56.0,False,"2,465.78 pts"
+POKER,2018,Ognyan Dimov,76,25.0,True,"2,463.42 pts"
+POKER,2018,Dan Smith,77,-71.0,False,"2,456.68 pts"
+POKER,2018,Darryll Fish,78,-13.0,False,"2,454.97 pts"
+POKER,2018,Florian Duta,79,22.0,True,"2,449.13 pts"
+POKER,2018,Aleksandr Gofman,80,21.0,True,"2,446.02 pts"
+POKER,2018,Adam Owen,81,20.0,True,"2,443.20 pts"
+POKER,2018,Justin Liberto,82,-25.0,False,"2,436.60 pts"
+POKER,2018,Jerry Wong,83,18.0,True,"2,432.11 pts"
+POKER,2018,Dylan Linde,84,17.0,True,"2,416.80 pts"
+POKER,2018,Martin Jacobson,85,16.0,True,"2,416.22 pts"
+POKER,2018,Jared Todd Jaffee,86,15.0,True,"2,414.69 pts"
+POKER,2018,Joao Pires Simao,87,14.0,True,"2,411.41 pts"
+POKER,2018,Martin Kabrhel,88,13.0,True,"2,409.18 pts"
+POKER,2018,Maria Constanza Lampropulos,89,12.0,True,"2,403.02 pts"
+POKER,2018,Ben Palmer,90,11.0,True,"2,398.80 pts"
+POKER,2018,Krasimir Yankov,91,10.0,True,"2,386.69 pts"
+POKER,2018,Zachary Donovan,92,9.0,True,"2,371.86 pts"
+POKER,2018,Michael Wang,93,8.0,True,"2,370.09 pts"
+POKER,2018,William Givens,94,7.0,True,"2,367.61 pts"
+POKER,2018,Joshua Turner,95,6.0,True,"2,361.41 pts"
+POKER,2018,"Brian ""Stinger88"" Hastings",96,5.0,True,"2,359.81 pts"
+POKER,2018,Ben Heath,97,3.0,False,"2,357.04 pts"
+POKER,2018,Jeffrey Fielder,98,3.0,True,"2,355.07 pts"
+POKER,2018,Pete Yen Han Chen,99,-53.0,False,"2,350.64 pts"
+POKER,2018,"Ramin ""incognito579"" Hajiyev",100,1.0,True,"2,350.33 pts"
+POKER,2017,Adrian Mateos,1,14.0,False,"3,571.59 pts"
+POKER,2017,Bryn Kenney,2,5.0,False,"3,401.03 pts"
+POKER,2017,David Peters,3,0.0,False,"3,343.89 pts"
+POKER,2017,Stephen Chidwick,4,13.0,False,"3,254.04 pts"
+POKER,2017,Jason Koon,5,42.0,False,"3,253.77 pts"
+POKER,2017,Dan Smith,6,-1.0,False,"3,233.37 pts"
+POKER,2017,Fedor Holz,7,-6.0,False,"3,217.59 pts"
+POKER,2017,Rainer Kempe,8,10.0,False,"3,184.27 pts"
+POKER,2017,Nick Petrangelo,9,-7.0,False,"3,161.72 pts"
+POKER,2017,"Justin ""ZeeJustin"" Bonomo",10,-1.0,False,"3,079.24 pts"
+POKER,2017,Stefan Schillhabel,11,90.0,True,"3,071.18 pts"
+POKER,2017,Jack Salter,12,11.0,False,"3,041.79 pts"
+POKER,2017,Koray Aldemir,13,88.0,True,"3,038.11 pts"
+POKER,2017,"Alan ""Ari"" Engel",14,15.0,False,"3,033.24 pts"
+POKER,2017,Joseph McKeehen,15,9.0,False,"3,008.69 pts"
+POKER,2017,"Niall ""Firaldo"" Farrell",16,23.0,False,"3,003.95 pts"
+POKER,2017,Samuel Panzica,17,55.0,False,"2,971.26 pts"
+POKER,2017,Sam Greenwood,18,23.0,False,"2,965.85 pts"
+POKER,2017,Dario Sammartino,19,13.0,False,"2,944.77 pts"
+POKER,2017,"Steve ""Mango"" O'Dwyer",20,-9.0,False,"2,923.20 pts"
+POKER,2017,Benjamin Pollak,21,39.0,False,"2,903.75 pts"
+POKER,2017,Ankush Mandavia,22,3.0,False,"2,876.25 pts"
+POKER,2017,"Charlie ""Charlie"" Carrel",23,15.0,False,"2,855.82 pts"
+POKER,2017,Darren Elias,24,24.0,False,"2,848.41 pts"
+POKER,2017,Benjamin Zamani,25,12.0,False,"2,845.52 pts"
+POKER,2017,Chance Kornuth,26,-4.0,False,"2,803.16 pts"
+POKER,2017,Dejuante Alexander,27,74.0,True,"2,794.66 pts"
+POKER,2017,Jason Mercier,28,-24.0,False,"2,793.91 pts"
+POKER,2017,"Sergio ""zcedrick"" Aido",29,25.0,False,"2,793.66 pts"
+POKER,2017,Brian Altman,30,71.0,True,"2,783.60 pts"
+POKER,2017,Connor Drinan,31,-21.0,False,"2,780.83 pts"
+POKER,2017,Dietrich Fast,32,-1.0,False,"2,740.90 pts"
+POKER,2017,Anthony Spinella,33,68.0,True,"2,726.31 pts"
+POKER,2017,"Paul ""The Main Event"" Volpe",34,-22.0,False,"2,713.56 pts"
+POKER,2017,"Mike ""GoLeafsGoEh"" Leah",35,61.0,False,"2,694.09 pts"
+POKER,2017,Jan Eric Schwippert,36,65.0,True,"2,693.81 pts"
+POKER,2017,Harrison Gimbel,37,64.0,True,"2,670.44 pts"
+POKER,2017,Tom Hall,38,63.0,True,"2,669.07 pts"
+POKER,2017,Ryan Riess,39,62.0,True,"2,655.48 pts"
+POKER,2017,"Olivier ""Livb112"" Busquet",40,37.0,False,"2,654.79 pts"
+POKER,2017,Max Silver,41,4.0,False,"2,647.36 pts"
+POKER,2017,Timothy Miles,42,59.0,True,"2,636.95 pts"
+POKER,2017,"Timothy ""Tim0thee"" Adams",43,8.0,False,"2,600.32 pts"
+POKER,2017,Steffen Sontheimer,44,57.0,True,"2,593.14 pts"
+POKER,2017,Vlad Darie,45,56.0,True,"2,592.44 pts"
+POKER,2017,Pete Yen Han Chen,46,55.0,True,"2,587.43 pts"
+POKER,2017,Manig Loeser,47,54.0,True,"2,585.50 pts"
+POKER,2017,Dmitry Yurasov,48,53.0,True,"2,581.32 pts"
+POKER,2017,James Obst,49,22.0,False,"2,568.03 pts"
+POKER,2017,"Matthew ""Matt"" Affleck",50,51.0,True,"2,566.65 pts"
+POKER,2017,Igor Yaroshevskyy,51,12.0,False,"2,553.78 pts"
+POKER,2017,Julian Stuer,52,49.0,True,"2,552.04 pts"
+POKER,2017,"Felipe Tavares ""Mojave"" Ramos",53,48.0,True,"2,550.93 pts"
+POKER,2017,John Racener,54,-2.0,False,"2,550.91 pts"
+POKER,2017,Jacob Bazeley,55,46.0,True,"2,549.31 pts"
+POKER,2017,Jake Schindler,56,-36.0,False,"2,538.99 pts"
+POKER,2017,Justin Liberto,57,44.0,True,"2,531.75 pts"
+POKER,2017,Je Wook Oh,58,43.0,True,"2,526.21 pts"
+POKER,2017,Anthony Zinno,59,-46.0,False,"2,520.86 pts"
+POKER,2017,"Kristen ""Krissyb24"" Bicknell",60,41.0,True,"2,519.55 pts"
+POKER,2017,Martin Finger,61,40.0,True,"2,498.71 pts"
+POKER,2017,Albert Daher,62,39.0,True,"2,492.64 pts"
+POKER,2017,William Alex Foxen,63,38.0,True,"2,492.64 pts"
+POKER,2017,Bart Lybaert,64,37.0,True,"2,487.27 pts"
+POKER,2017,Darryll Fish,65,36.0,True,"2,486.24 pts"
+POKER,2017,"Chris ""Big Huni"" Hunichen",66,35.0,True,"2,472.58 pts"
+POKER,2017,Javier Gomez Zapatero,67,34.0,True,"2,472.49 pts"
+POKER,2017,Faraz Jaka,68,31.0,False,"2,465.78 pts"
+POKER,2017,Alexander Rocha,69,-8.0,False,"2,457.92 pts"
+POKER,2017,Dominik Nitsche,70,-42.0,False,"2,453.09 pts"
+POKER,2017,Paul Höfer,71,30.0,True,"2,450.04 pts"
+POKER,2017,"Daniel ""Kid Poker"" Negreanu",72,14.0,False,"2,446.54 pts"
+POKER,2017,Igor Kurganov,73,-46.0,False,"2,435.78 pts"
+POKER,2017,Oliver Weis,74,27.0,True,"2,434.41 pts"
+POKER,2017,Ole Schemion,75,-25.0,False,"2,430.61 pts"
+POKER,2017,Thomas Mühlöcker,76,25.0,True,"2,429.74 pts"
+POKER,2017,Maurice Hawkins,77,24.0,True,"2,410.92 pts"
+POKER,2017,Michael Addamo,78,23.0,True,"2,409.73 pts"
+POKER,2017,Jack Duong,79,-6.0,False,"2,409.72 pts"
+POKER,2017,John Juanda,80,21.0,True,"2,401.22 pts"
+POKER,2017,Isaac Haxton,81,11.0,False,"2,391.97 pts"
+POKER,2017,"Nikita ""Mikita"" Bodyakovskiy",82,19.0,True,"2,390.10 pts"
+POKER,2017,Antoine Saout,83,18.0,True,"2,389.41 pts"
+POKER,2017,Kenny Hallaert,84,17.0,True,"2,383.59 pts"
+POKER,2017,Alexandre Reard,85,16.0,True,"2,378.15 pts"
+POKER,2017,Roman Korenev,86,-7.0,False,"2,370.99 pts"
+POKER,2017,"Thomas ""Kingsofcards"" Marchese",87,-79.0,False,"2,370.49 pts"
+POKER,2017,"Cliff ""Johnny Bax"" Josephy",88,13.0,True,"2,370.34 pts"
+POKER,2017,Martin Kozlov,89,12.0,True,"2,360.99 pts"
+POKER,2017,"Aaron ""Padilla"" Massey",90,11.0,True,"2,360.26 pts"
+POKER,2017,Viliyan Petleshkov,91,10.0,True,"2,358.70 pts"
+POKER,2017,Vladimir Troyanovskiy,92,-18.0,False,"2,354.65 pts"
+POKER,2017,Ismael Bojang,93,-31.0,False,"2,347.00 pts"
+POKER,2017,Keven Stammen,94,-37.0,False,"2,345.94 pts"
+POKER,2017,Alexandru Papazian,96,5.0,True,"2,313.32 pts"
+POKER,2017,Christian Christner,97,4.0,True,"2,306.70 pts"
+POKER,2017,Xixiang Luo,99,2.0,True,"2,299.85 pts"
+POKER,2017,Ben Heath,100,-31.0,False,"2,293.61 pt"
+POKER,2016,Fedor Holz,1,23.0,False,"4,996.77 pts"
+POKER,2016,Nick Petrangelo,2,5.0,False,"4,315.64 pts"
+POKER,2016,David Peters,3,24.0,False,"4,301.92 pts"
+POKER,2016,Jason Mercier,4,-2.0,False,"4,276.49 pts"
+POKER,2016,Dan Smith,5,-1.0,False,"4,117.41 pts"
+POKER,2016,Erik Seidel,6,5.0,False,"4,002.64 pts"
+POKER,2016,Bryn Kenney,7,1.0,False,"3,994.29 pts"
+POKER,2016,"Thomas ""Kingsofcards"" Marchese",8,18.0,False,"3,969.47 pts"
+POKER,2016,"Justin ""ZeeJustin"" Bonomo",9,26.0,False,"3,945.61 pts"
+POKER,2016,Connor Drinan,10,8.0,False,"3,926.81 pts"
+POKER,2016,"Steve ""Mango"" O'Dwyer",11,-6.0,False,"3,880.85 pts"
+POKER,2016,"Paul ""The Main Event"" Volpe",12,-6.0,False,"3,839.97 pts"
+POKER,2016,Anthony Zinno,13,-10.0,False,"3,813.92 pts"
+POKER,2016,Sean Winter,14,29.0,False,"3,800.25 pts"
+POKER,2016,Adrian Mateos,15,13.0,False,"3,738.68 pts"
+POKER,2016,"Davidi ""Kitbul"" Kitai",16,-4.0,False,"3,690.70 pts"
+POKER,2016,Stephen Chidwick,17,-1.0,False,"3,666.20 pts"
+POKER,2016,Rainer Kempe,18,83.0,True,"3,660.23 pts"
+POKER,2016,Byron Kaverman,19,-18.0,False,"3,629.60 pts"
+POKER,2016,Jake Schindler,20,13.0,False,"3,623.10 pts"
+POKER,2016,Cary Katz,21,80.0,True,"3,613.93 pts"
+POKER,2016,Chance Kornuth,22,79.0,True,"3,590.16 pts"
+POKER,2016,Jack Salter,23,6.0,False,"3,589.78 pts"
+POKER,2016,Joseph McKeehen,24,44.0,False,"3,553.83 pts"
+POKER,2016,Ankush Mandavia,25,39.0,False,"3,553.54 pts"
+POKER,2016,Ivan Luca,26,46.0,False,"3,538.29 pts"
+POKER,2016,Igor Kurganov,27,74.0,True,"3,515.58 pts"
+POKER,2016,Dominik Nitsche,28,-15.0,False,"3,452.09 pts"
+POKER,2016,"Alan ""Ari"" Engel",29,33.0,False,"3,414.95 pts"
+POKER,2016,Andjelko Andrejevic,30,71.0,True,"3,407.97 pts"
+POKER,2016,Dietrich Fast,31,70.0,True,"3,397.78 pts"
+POKER,2016,Dario Sammartino,32,-12.0,False,"3,394.52 pts"
+POKER,2016,Brian Yoon,33,46.0,False,"3,331.79 pts"
+POKER,2016,Barry Hutter,34,-11.0,False,"3,318.24 pts"
+POKER,2016,"Joseph ""subiime"" Cheong",35,18.0,False,"3,269.05 pts"
+POKER,2016,Sergey Lebedev,36,65.0,True,"3,255.43 pts"
+POKER,2016,Benjamin Zamani,37,58.0,False,"3,241.61 pts"
+POKER,2016,"Charlie ""Charlie"" Carrel",38,63.0,True,"3,230.16 pts"
+POKER,2016,"Niall ""Firaldo"" Farrell",39,32.0,False,"3,220.54 pts"
+POKER,2016,Brian Rast,40,-25.0,False,"3,220.52 pts"
+POKER,2016,Sam Greenwood,41,4.0,False,"3,211.55 pts"
+POKER,2016,Farid Jattin,43,58.0,True,"3,109.28 pts"
+POKER,2016,Taylor Paur,44,5.0,False,"3,065.88 pts"
+POKER,2016,Max Silver,45,37.0,False,"3,039.32 pts"
+POKER,2016,Pratyush Buddiga,46,-7.0,False,"3,031.99 pts"
+POKER,2016,Jason Koon,47,54.0,True,"3,022.40 pts"
+POKER,2016,Darren Elias,48,-14.0,False,"3,004.77 pts"
+POKER,2016,Kully Sidhu,49,52.0,True,"3,004.70 pts"
+POKER,2016,Ole Schemion,50,1.0,False,"2,989.37 pts"
+POKER,2016,"Timothy ""Tim0thee"" Adams",51,50.0,True,"2,976.83 pts"
+POKER,2016,John Racener,52,35.0,False,"2,976.78 pts"
+POKER,2016,"Andrew ""LuckyChewy"" Lichtenberger",53,-23.0,False,"2,974.17 pts"
+POKER,2016,"Sergio ""zcedrick"" Aido",54,47.0,True,"2,942.80 pts"
+POKER,2016,Jason Wheeler,55,-13.0,False,"2,929.63 pts"
+POKER,2016,Ali Fazeli,56,45.0,True,"2,887.99 pts"
+POKER,2016,Keven Stammen,57,2.0,False,"2,858.52 pts"
+POKER,2016,Georgios Zisimopoulos,58,35.0,False,"2,827.84 pts"
+POKER,2016,Dani Stern,59,42.0,True,"2,813.62 pts"
+POKER,2016,Benjamin Pollak,60,-35.0,False,"2,813.02 pts"
+POKER,2016,Alexander Rocha,61,40.0,True,"2,812.35 pts"
+POKER,2016,Ismael Bojang,62,-6.0,False,"2,800.94 pts"
+POKER,2016,Igor Yaroshevskyy,63,-26.0,False,"2,800.79 pts"
+POKER,2016,Jake Schwartz,64,37.0,True,"2,800.18 pts"
+POKER,2016,Samuel Chartier,65,36.0,True,"2,799.18 pts"
+POKER,2016,Andrey Pateychuk,66,35.0,True,"2,799.04 pts"
+POKER,2016,"Mike ""Timex"" McDonald",67,-46.0,False,"2,793.98 pts"
+POKER,2016,Mukul Pahuja,68,-22.0,False,"2,789.31 pts"
+POKER,2016,Ben Heath,69,32.0,True,"2,789.30 pts"
+POKER,2016,"Pierre ""The Serial Qualifier"" Neuville",70,31.0,True,"2,786.49 pts"
+POKER,2016,James Obst,71,30.0,True,"2,784.57 pts"
+POKER,2016,Samuel Panzica,72,29.0,True,"2,779.38 pts"
+POKER,2016,Jack Duong,73,28.0,True,"2,761.86 pts"
+POKER,2016,Vladimir Troyanovskiy,74,-24.0,False,"2,759.38 pts"
+POKER,2016,"Marvin Guido ""MadMarvin"" Rettenmaier",75,26.0,True,"2,756.06 pts"
+POKER,2016,Simon Deadman,76,-29.0,False,"2,754.79 pts"
+POKER,2016,"Olivier ""Livb112"" Busquet",77,-39.0,False,"2,753.13 pts"
+POKER,2016,Sylvain Loosli,78,-26.0,False,"2,751.78 pts"
+POKER,2016,Roman Korenev,79,22.0,True,"2,744.84 pts"
+POKER,2016,"Ramin ""incognito579"" Hajiyev",80,21.0,True,"2,727.24 pts"
+POKER,2016,Anthony Gregg,81,20.0,True,"2,726.79 pts"
+POKER,2016,Bryan Piccioli,82,19.0,True,"2,710.89 pts"
+POKER,2016,Sam Soverel,83,18.0,True,"2,709.17 pts"
+POKER,2016,Joe Kuether,84,-67.0,False,"2,705.98 pts"
+POKER,2016,Dzmitry Urbanovich,85,-53.0,False,"2,703.25 pts"
+POKER,2016,"Daniel ""Kid Poker"" Negreanu",86,-45.0,False,"2,695.03 pts"
+POKER,2016,Ilkin Savalan Amirov,87,14.0,True,"2,667.77 pts"
+POKER,2016,Daniel Dvoress,88,13.0,True,"2,662.30 pts"
+POKER,2016,Cate Hall,89,12.0,True,"2,651.15 pts"
+POKER,2016,"Mohsin ""ChicagoCards1"" Charania",90,-21.0,False,"2,651.04 pts"
+POKER,2016,Scott Seiver,91,-69.0,False,"2,641.93 pts"
+POKER,2016,Isaac Haxton,92,-27.0,False,"2,639.90 pts"
+POKER,2016,Jeff Gross,93,8.0,True,"2,637.99 pts"
+POKER,2016,Nick Yunis,94,7.0,True,"2,635.32 pts"
+POKER,2016,Justin Grant Young,95,6.0,True,"2,614.34 pts"
+POKER,2016,"Mike ""GoLeafsGoEh"" Leah",96,-52.0,False,"2,606.14 pts"
+POKER,2016,Jared Todd Jaffee,97,-61.0,False,"2,596.66 pts"
+POKER,2016,Alexander Denisov,98,-44.0,False,"2,589.31 pts"
+POKER,2016,Faraz Jaka,99,-42.0,False,"2,582.00 pts"
+POKER,2016,Alexander Lynskey,100,1.0,True,"2,574.09 pts"
+POKER,2015,Byron Kaverman,1,6.0,False,"4,448.65 pts"
+POKER,2015,Jason Mercier,2,3.0,False,"4,235.76 pts"
+POKER,2015,Anthony Zinno,3,98.0,True,"4,029.10 pts"
+POKER,2015,Dan Smith,4,-3.0,False,"3,838.24 pts"
+POKER,2015,"Steve ""Mango"" O'Dwyer",5,96.0,True,"3,811.83 pts"
+POKER,2015,"Paul ""The Main Event"" Volpe",6,7.0,False,"3,739.73 pts"
+POKER,2015,Nick Petrangelo,7,94.0,True,"3,731.76 pts"
+POKER,2015,Bryn Kenney,8,13.0,False,"3,711.62 pts"
+POKER,2015,Martin Finger,9,39.0,False,"3,685.07 pts"
+POKER,2015,"Kevin ""ImALuckSack"" MacPhee",10,24.0,False,"3,651.19 pts"
+POKER,2015,Erik Seidel,11,25.0,False,"3,633.49 pts"
+POKER,2015,"Davidi ""Kitbul"" Kitai",12,-8.0,False,"3,628.91 pts"
+POKER,2015,Dominik Nitsche,13,67.0,False,"3,585.71 pts"
+POKER,2015,Jonathan Duhamel,14,-3.0,False,"3,570.98 pts"
+POKER,2015,Brian Rast,15,86.0,True,"3,551.81 pts"
+POKER,2015,Stephen Chidwick,16,-2.0,False,"3,546.65 pts"
+POKER,2015,Joe Kuether,17,10.0,False,"3,519.81 pts"
+POKER,2015,Connor Drinan,18,75.0,False,"3,514.56 pts"
+POKER,2015,Mustapha Kanit,19,6.0,False,"3,491.89 pts"
+POKER,2015,Dario Sammartino,20,-3.0,False,"3,474.43 pts"
+POKER,2015,"Mike ""Timex"" McDonald",21,-5.0,False,"3,452.77 pts"
+POKER,2015,Scott Seiver,22,-19.0,False,"3,421.69 pts"
+POKER,2015,Barry Hutter,23,51.0,False,"3,389.57 pts"
+POKER,2015,Fedor Holz,24,77.0,True,"3,374.05 pts"
+POKER,2015,Benjamin Pollak,25,76.0,True,"3,352.78 pts"
+POKER,2015,"Thomas ""Kingsofcards"" Marchese",26,75.0,True,"3,336.76 pts"
+POKER,2015,David Peters,27,8.0,False,"3,262.55 pts"
+POKER,2015,Adrian Mateos,28,17.0,False,"3,207.98 pts"
+POKER,2015,Jack Salter,29,14.0,False,"3,202.93 pts"
+POKER,2015,"Andrew ""LuckyChewy"" Lichtenberger",30,46.0,False,"3,193.85 pts"
+POKER,2015,Scott Clements,31,2.0,False,"3,180.10 pts"
+POKER,2015,Dzmitry Urbanovich,32,69.0,True,"3,170.96 pts"
+POKER,2015,Jake Schindler,33,-18.0,False,"3,162.71 pts"
+POKER,2015,Darren Elias,34,-2.0,False,"3,156.13 pts"
+POKER,2015,"Justin ""ZeeJustin"" Bonomo",35,59.0,False,"3,151.77 pts"
+POKER,2015,Jared Todd Jaffee,36,46.0,False,"3,143.10 pts"
+POKER,2015,Igor Yaroshevskyy,37,64.0,True,"3,123.72 pts"
+POKER,2015,"Olivier ""Livb112"" Busquet",38,-32.0,False,"3,122.27 pts"
+POKER,2015,Pratyush Buddiga,39,10.0,False,"3,097.79 pts"
+POKER,2015,"Sorel ""Imper1um"" Mizzi",40,-28.0,False,"3,080.53 pts"
+POKER,2015,"Daniel ""Kid Poker"" Negreanu",41,-33.0,False,"3,077.92 pts"
+POKER,2015,Jason Wheeler,42,59.0,True,"3,073.52 pts"
+POKER,2015,Sean Winter,43,58.0,True,"3,070.72 pts"
+POKER,2015,"Mike ""GoLeafsGoEh"" Leah",44,-20.0,False,"3,068.27 pts"
+POKER,2015,Sam Greenwood,45,56.0,True,"3,061.59 pts"
+POKER,2015,Mukul Pahuja,46,-27.0,False,"3,043.02 pts"
+POKER,2015,Simon Deadman,47,21.0,False,"2,995.49 pts"
+POKER,2015,Thomas Mühlöcker,48,15.0,False,"2,990.06 pts"
+POKER,2015,Taylor Paur,49,52.0,True,"2,949.91 pts"
+POKER,2015,Vladimir Troyanovskiy,50,2.0,False,"2,920.29 pts"
+POKER,2015,Ole Schemion,51,-49.0,False,"2,885.15 pts"
+POKER,2015,Sylvain Loosli,52,49.0,True,"2,884.65 pts"
+POKER,2015,"Joseph ""subiime"" Cheong",53,-33.0,False,"2,884.54 pts"
+POKER,2015,Alexander Denisov,54,47.0,True,"2,883.48 pts"
+POKER,2015,"Shannon ""BLUFFforRENT"" Shorr",55,-17.0,False,"2,867.14 pts"
+POKER,2015,Ismael Bojang,56,-15.0,False,"2,865.58 pts"
+POKER,2015,Faraz Jaka,57,20.0,False,"2,860.68 pts"
+POKER,2015,"Brian ""Stinger88"" Hastings",58,43.0,True,"2,797.50 pts"
+POKER,2015,Keven Stammen,59,-9.0,False,"2,784.41 pts"
+POKER,2015,Anton Astapau,60,41.0,True,"2,778.20 pts"
+POKER,2015,Hans Winzeler,61,40.0,True,"2,736.63 pts"
+POKER,2015,"Alan ""Ari"" Engel",62,39.0,True,"2,728.38 pts"
+POKER,2015,"Jeremy ""TheTaker"" Ausmus",63,38.0,True,"2,720.69 pts"
+POKER,2015,Ankush Mandavia,64,37.0,True,"2,709.34 pts"
+POKER,2015,Isaac Haxton,65,36.0,True,"2,686.94 pts"
+POKER,2015,Michael Wang,66,35.0,True,"2,682.48 pts"
+POKER,2015,"Michael ""SirWatts"" Watson",67,-27.0,False,"2,659.49 pts"
+POKER,2015,Joseph McKeehen,68,33.0,True,"2,651.27 pts"
+POKER,2015,"Mohsin ""ChicagoCards1"" Charania",69,2.0,False,"2,640.27 pts"
+POKER,2015,"Jonathan ""FieryJustice"" Little",70,31.0,True,"2,638.43 pts"
+POKER,2015,"Niall ""Firaldo"" Farrell",71,30.0,True,"2,638.00 pts"
+POKER,2015,Ivan Luca,72,29.0,True,"2,627.23 pts"
+POKER,2015,"David ""Doc"" Sands",73,23.0,False,"2,623.80 pts"
+POKER,2015,Artem Metalidi,74,27.0,True,"2,586.29 pts"
+POKER,2015,"Christian ""Charder"" Harder",75,6.0,False,"2,552.76 pts"
+POKER,2015,Alexander Lakhov,76,25.0,True,"2,544.50 pts"
+POKER,2015,Dimitar Danchev,77,-33.0,False,"2,541.95 pts"
+POKER,2015,Paul Tedeschi,78,23.0,True,"2,537.97 pts"
+POKER,2015,Brian Yoon,79,22.0,True,"2,528.12 pts"
+POKER,2015,Scott Davies,81,20.0,True,"2,521.49 pts"
+POKER,2015,Max Silver,82,-51.0,False,"2,515.51 pts"
+POKER,2015,Jeff Rossiter,83,-54.0,False,"2,490.87 pts"
+POKER,2015,"Aaron ""Padilla"" Massey",85,-13.0,False,"2,474.29 pts"
+POKER,2015,Jacob Bazeley,86,15.0,True,"2,472.60 pts"
+POKER,2015,John Racener,87,14.0,True,"2,456.36 pts"
+POKER,2015,"Ariel ""Bahia"" Celestino",88,-13.0,False,"2,439.00 pts"
+POKER,2015,George Danzer,89,-61.0,False,"2,436.70 pts"
+POKER,2015,Georgios Sotiropoulos,90,11.0,True,"2,432.55 pts"
+POKER,2015,Eddy Sabat,91,-34.0,False,"2,424.77 pts"
+POKER,2015,Mark Dube,92,9.0,True,"2,419.56 pts"
+POKER,2015,Georgios Zisimopoulos,93,8.0,True,"2,418.73 pts"
+POKER,2015,Amichai Barer,94,-84.0,False,"2,406.30 pts"
+POKER,2015,Benjamin Zamani,95,6.0,True,"2,400.80 pts"
+POKER,2015,Craig McCorkell,96,5.0,True,"2,397.64 pts"
+POKER,2015,Zohair Karim,97,4.0,True,"2,386.54 pts"
+POKER,2015,"Emanuel ""Will"" Failla",98,-33.0,False,"2,385.03 pts"
+POKER,2015,Maurice Hawkins,99,2.0,True,"2,382.93 pts"
+POKER,2015,Juha Helppi,100,1.0,True,"2,381.87 pts"
+POKER,2014,Dan Smith,1,33.0,False,"4,178.40 pts"
+POKER,2014,Ole Schemion,2,2.0,False,"3,948.22 pts"
+POKER,2014,Scott Seiver,3,12.0,False,"3,720.42 pts"
+POKER,2014,"Davidi ""Kitbul"" Kitai",4,40.0,False,"3,649.88 pts"
+POKER,2014,Jason Mercier,5,6.0,False,"3,621.37 pts"
+POKER,2014,"Olivier ""Livb112"" Busquet",6,49.0,False,"3,499.51 pts"
+POKER,2014,Byron Kaverman,7,21.0,False,"3,420.22 pts"
+POKER,2014,"Daniel ""Kid Poker"" Negreanu",8,-7.0,False,"3,419.08 pts"
+POKER,2014,Martin Jacobson,9,77.0,False,"3,390.14 pts"
+POKER,2014,Amichai Barer,10,91.0,True,"3,364.22 pts"
+POKER,2014,Jonathan Duhamel,11,-1.0,False,"3,258.38 pts"
+POKER,2014,"Sorel ""Imper1um"" Mizzi",12,0.0,False,"3,246.31 pts"
+POKER,2014,"Paul ""The Main Event"" Volpe",13,3.0,False,"3,184.39 pts"
+POKER,2014,Stephen Chidwick,14,65.0,False,"3,172.75 pts"
+POKER,2014,Jake Schindler,15,86.0,True,"3,121.31 pts"
+POKER,2014,"Mike ""Timex"" McDonald",16,58.0,False,"3,115.49 pts"
+POKER,2014,Dario Sammartino,17,47.0,False,"3,054.65 pts"
+POKER,2014,"Daniel ""mrGR33N13"" Colman",18,83.0,True,"3,032.71 pts"
+POKER,2014,Mukul Pahuja,19,82.0,True,"3,021.46 pts"
+POKER,2014,"Joseph ""subiime"" Cheong",20,5.0,False,"2,991.65 pts"
+POKER,2014,Bryn Kenney,21,-15.0,False,"2,984.83 pts"
+POKER,2014,Matt Glantz,22,30.0,False,"2,964.36 pts"
+POKER,2014,Andrew Chen,23,78.0,True,"2,952.66 pts"
+POKER,2014,"Mike ""GoLeafsGoEh"" Leah",24,77.0,True,"2,937.53 pts"
+POKER,2014,Mustapha Kanit,25,76.0,True,"2,931.47 pts"
+POKER,2014,Alex Bilokur,26,36.0,False,"2,930.49 pts"
+POKER,2014,Joe Kuether,27,21.0,False,"2,901.72 pts"
+POKER,2014,George Danzer,28,73.0,True,"2,893.69 pts"
+POKER,2014,Jeff Rossiter,29,-9.0,False,"2,892.32 pts"
+POKER,2014,"Matthew ""All In At 420"" Stout",30,27.0,False,"2,887.22 pts"
+POKER,2014,Max Silver,31,70.0,True,"2,887.16 pts"
+POKER,2014,Darren Elias,32,69.0,True,"2,880.17 pts"
+POKER,2014,Scott Clements,33,3.0,False,"2,878.41 pts"
+POKER,2014,"Kevin ""ImALuckSack"" MacPhee",34,38.0,False,"2,872.81 pts"
+POKER,2014,David Peters,35,-27.0,False,"2,861.24 pts"
+POKER,2014,Erik Seidel,36,-15.0,False,"2,857.72 pts"
+POKER,2014,Jeff Madsen,37,64.0,True,"2,854.93 pts"
+POKER,2014,"Shannon ""BLUFFforRENT"" Shorr",38,-33.0,False,"2,849.10 pts"
+POKER,2014,Anatoly Filatov,39,62.0,True,"2,845.63 pts"
+POKER,2014,"Michael ""SirWatts"" Watson",40,-33.0,False,"2,843.68 pts"
+POKER,2014,Ismael Bojang,41,34.0,False,"2,832.73 pts"
+POKER,2014,"Daniel ""Dan"" O'Brien",42,1.0,False,"2,824.30 pts"
+POKER,2014,Jack Salter,43,58.0,True,"2,817.99 pts"
+POKER,2014,Dimitar Danchev,44,27.0,False,"2,807.51 pts"
+POKER,2014,Adrian Mateos,45,56.0,True,"2,772.24 pts"
+POKER,2014,Oliver Price,46,55.0,True,"2,755.68 pts"
+POKER,2014,"Marvin Guido ""MadMarvin"" Rettenmaier",47,-44.0,False,"2,750.71 pts"
+POKER,2014,Martin Finger,48,-30.0,False,"2,737.92 pts"
+POKER,2014,Pratyush Buddiga,49,52.0,True,"2,729.90 pts"
+POKER,2014,Keven Stammen,50,51.0,True,"2,725.92 pts"
+POKER,2014,Calvin Shane Anderson,51,25.0,False,"2,701.70 pts"
+POKER,2014,Vladimir Troyanovskiy,52,36.0,False,"2,697.74 pts"
+POKER,2014,Joseph Serock,53,-24.0,False,"2,694.76 pts"
+POKER,2014,"Griffin ""Flush_Entity"" Benger",54,11.0,False,"2,681.40 pts"
+POKER,2014,Andrea Dato,55,46.0,True,"2,675.71 pts"
+POKER,2014,Eddy Sabat,57,40.0,False,"2,658.43 pts"
+POKER,2014,Marc-Andre Ladouceur,58,-4.0,False,"2,650.73 pts"
+POKER,2014,"Justin Cuong Van ""J.C."" Tran",59,42.0,True,"2,633.10 pts"
+POKER,2014,Vanessa Selbst,60,-30.0,False,"2,622.12 pts"
+POKER,2014,Nick Schulman,61,-15.0,False,"2,616.07 pts"
+POKER,2014,Jeremy Kottler,62,39.0,True,"2,594.07 pts"
+POKER,2014,Thomas Mühlöcker,63,38.0,True,"2,550.14 pts"
+POKER,2014,Erwann Pecheux,64,37.0,True,"2,539.99 pts"
+POKER,2014,"Emanuel ""Will"" Failla",65,-14.0,False,"2,537.25 pts"
+POKER,2014,Matthew Salsberg,66,-31.0,False,"2,531.26 pts"
+POKER,2014,Simon Deadman,68,33.0,True,"2,504.76 pts"
+POKER,2014,Salman Behbehani,69,-1.0,False,"2,496.72 pts"
+POKER,2014,Ravi Raghavan,70,-61.0,False,"2,493.69 pts"
+POKER,2014,"Mohsin ""ChicagoCards1"" Charania",71,-12.0,False,"2,492.77 pts"
+POKER,2014,"Aaron ""Padilla"" Massey",72,29.0,True,"2,474.02 pts"
+POKER,2014,Dylan Wilkerson,73,28.0,True,"2,468.20 pts"
+POKER,2014,Barry Hutter,74,27.0,True,"2,466.56 pts"
+POKER,2014,"Ariel ""Bahia"" Celestino",75,26.0,True,"2,462.68 pts"
+POKER,2014,"Andrew ""LuckyChewy"" Lichtenberger",76,-44.0,False,"2,434.62 pts"
+POKER,2014,Faraz Jaka,77,12.0,False,"2,433.63 pts"
+POKER,2014,Blake Bohn,78,23.0,True,"2,419.87 pts"
+POKER,2014,Vitaly Lunkin,79,22.0,True,"2,413.19 pts"
+POKER,2014,Dominik Nitsche,80,-41.0,False,"2,410.83 pts"
+POKER,2014,"Christian ""Charder"" Harder",81,-21.0,False,"2,407.64 pts"
+POKER,2014,Jared Todd Jaffee,82,19.0,True,"2,401.10 pts"
+POKER,2014,Justin Zaki,83,10.0,False,"2,400.98 pts"
+POKER,2014,"Bertrand ""ElkY"" Grospellier",84,-65.0,False,"2,391.16 pts"
+POKER,2014,"Toby ""The Jester"" Lewis",85,-32.0,False,"2,386.02 pts"
+POKER,2014,Joao Vieira,86,15.0,True,"2,377.43 pts"
+POKER,2014,Jason Koon,87,-65.0,False,"2,371.12 pts"
+POKER,2014,Ivan Soshnikov,88,13.0,True,"2,359.22 pts"
+POKER,2014,Matt Marafioti,89,12.0,True,"2,352.55 pts"
+POKER,2014,Dan Shak,90,-48.0,False,"2,342.08 pts"
+POKER,2014,Matt Waxman,91,-18.0,False,"2,332.53 pts"
+POKER,2014,Andrey Shatilov,92,9.0,True,"2,323.30 pts"
+POKER,2014,Connor Drinan,93,8.0,True,"2,319.81 pts"
+POKER,2014,"Justin ""ZeeJustin"" Bonomo",94,-67.0,False,"2,317.60 pts"
+POKER,2014,Sam Trickett,95,6.0,True,"2,313.62 pts"
+POKER,2014,"David ""Doc"" Sands",96,-72.0,False,"2,311.25 pts"
+POKER,2014,Tyler Reiman,97,4.0,True,"2,307.18 pts"
+POKER,2014,Jonas Lauck,98,3.0,True,"2,306.16 pts"
+POKER,2014,Eugene Katchalov,99,-33.0,False,"2,289.24 pts"
+POKER,2014,Norbert Szécsi,100,1.0,True,"2,284.69 pts"
+SSBM,2019,Hungrybox,1,0.0,False,100.0
+SSBM,2019,Leffen,2,1.0,False,98.9
+SSBM,2019,Mango,3,2.0,False,98.3
+SSBM,2019,Axe,4,6.0,False,97.0
+SSBM,2019,Wizzrobe,5,3.0,False,96.4
+SSBM,2019,Zain,6,1.0,False,96.1
+SSBM,2019,aMSa,7,2.0,False,94.6
+SSBM,2019,Plup,8,-4.0,False,93.5
+SSBM,2019,iBDW,9,25.0,False,92.9
+SSBM,2019,Mew2King,10,-4.0,False,92.0
+SSBM,2019,S2J,11,0.0,False,91.5
+SSBM,2019,Fiction,12,16.0,False,90.3
+SSBM,2019,SFAT,13,-1.0,False,90.3
+SSBM,2019,moky,14,38.0,False,89.2
+SSBM,2019,n0ne,15,1.0,False,88.1
+SSBM,2019,Trif,16,19.0,False,87.4
+SSBM,2019,Captain Faceroll,17,16.0,False,87.1
+SSBM,2019,Swedish Delight,18,-5.0,False,86.9
+SSBM,2019,Hax$,19,82.0,True,84.7
+SSBM,2019,Lucky,20,-2.0,False,84.7
+SSBM,2019,Ginger,21,19.0,False,83.2
+SSBM,2019,Spark,22,31.0,False,82.7
+SSBM,2019,ChuDat,23,23.0,False,82.2
+SSBM,2019,PewPewU,24,-9.0,False,81.5
+SSBM,2019,lloD,25,-4.0,False,80.0
+SSBM,2019,ARMY,26,-6.0,False,79.6
+SSBM,2019,AbsentPage,27,-3.0,False,78.9
+SSBM,2019,Bananas,28,-9.0,False,77.6
+SSBM,2019,KJH,29,-4.0,False,77.6
+SSBM,2019,Shroomed,30,-1.0,False,75.6
+SSBM,2019,Westballz,31,-9.0,False,74.9
+SSBM,2019,Medz,32,69.0,True,74.1
+SSBM,2019,MikeHaze,33,10.0,False,73.4
+SSBM,2019,Professor Pro,34,22.0,False,72.5
+SSBM,2019,2saint,35,14.0,False,72.5
+SSBM,2019,Gahtzu,36,-9.0,False,71.3
+SSBM,2019,Albert,37,64.0,True,69.8
+SSBM,2019,Spud,38,9.0,False,68.7
+SSBM,2019,FatGoku,39,30.0,False,67.8
+SSBM,2019,Rishi,40,-14.0,False,67.3
+SSBM,2019,Bimbo,41,60.0,True,66.2
+SSBM,2019,Setchi,42,59.0,True,66.2
+SSBM,2019,Magi,43,54.0,False,64.8
+SSBM,2019,Morsecode762,44,55.0,False,63.1
+SSBM,2019,Jakenshaken,45,43.0,False,63.0
+SSBM,2019,HugS,46,-23.0,False,62.1
+SSBM,2019,Stango,47,15.0,False,60.7
+SSBM,2019,Zamu,48,30.0,False,60.1
+SSBM,2019,Drephen,49,11.0,False,59.9
+SSBM,2019,Michael,50,-9.0,False,59.0
+SSBM,2019,Ice,51,-12.0,False,58.8
+SSBM,2019,billybopeep,52,49.0,True,58.7
+SSBM,2019,La Luna,53,-21.0,False,57.5
+SSBM,2019,Colbol,54,-24.0,False,57.2
+SSBM,2019,Overtriforce,55,2.0,False,57.1
+SSBM,2019,Slox,56,-6.0,False,56.3
+SSBM,2019,Kalamazhu,57,-20.0,False,56.2
+SSBM,2019,Nickemwit,58,43.0,True,55.6
+SSBM,2019,Jerry,59,-4.0,False,54.2
+SSBM,2019,Aura,60,41.0,True,52.8
+SSBM,2019,Nut,61,40.0,True,52.8
+SSBM,2019,Kalvar,62,17.0,False,52.6
+SSBM,2019,Polish,63,38.0,True,52.0
+SSBM,2019,Kevin Maples,64,37.0,True,48.0
+SSBM,2019,Bladewise,65,-21.0,False,47.6
+SSBM,2019,Tai,66,6.0,False,47.4
+SSBM,2019,Squid,67,-13.0,False,46.5
+SSBM,2019,Forrest,68,33.0,True,45.5
+SSBM,2019,Joyboy,69,32.0,True,44.8
+SSBM,2019,KoDoRiN,70,31.0,True,44.6
+SSBM,2019,Ryan Ford,71,-40.0,False,43.2
+SSBM,2019,Free Palestine,72,29.0,True,41.7
+SSBM,2019,Ryobeat,73,28.0,True,41.3
+SSBM,2019,Ka-Master,74,-16.0,False,39.4
+SSBM,2019,Kürv,75,26.0,True,38.8
+SSBM,2019,Frenzy,76,25.0,True,38.5
+SSBM,2019,MoG,77,24.0,True,38.2
+SSBM,2019,Boyd,78,-11.0,False,38.2
+SSBM,2019,Cool Lime,79,22.0,True,37.4
+SSBM,2019,bobby big ballz,80,21.0,True,37.3
+SSBM,2019,Nintendude,81,-16.0,False,36.8
+SSBM,2019,Franz,82,19.0,True,36.4
+SSBM,2019,Nicki,83,18.0,True,36.2
+SSBM,2019,lint,84,17.0,True,34.7
+SSBM,2019,King Momo,85,-1.0,False,33.5
+SSBM,2019,TheRealThing,86,5.0,False,32.9
+SSBM,2019,Umarth,87,14.0,True,32.8
+SSBM,2019,Zeo,88,13.0,True,32.0
+SSBM,2019,Pricent,89,12.0,True,31.6
+SSBM,2019,Prince Abu,90,-13.0,False,31.4
+SSBM,2019,Amsah,91,-27.0,False,30.9
+SSBM,2019,Rocky,92,-41.0,False,30.1
+SSBM,2019,Sharkz,93,-23.0,False,29.8
+SSBM,2019,HTwa,94,-13.0,False,28.0
+SSBM,2019,Kage,95,6.0,True,25.4
+SSBM,2019,Schythed,96,5.0,True,25.4
+SSBM,2019,Panda,97,4.0,True,24.9
+SSBM,2019,Soonsay,98,3.0,True,24.8
+SSBM,2019,TheSWOOPER,99,2.0,True,24.7
+SSBM,2019,Snowy,100,1.0,True,24.3
+SSBM,2018,Hungrybox,1,0.0,False,100.0
+SSBM,2018,Armada,2,0.0,False,98.9
+SSBM,2018,Leffen,3,3.0,False,98.7
+SSBM,2018,Plup,4,1.0,False,97.4
+SSBM,2018,Mango,5,-2.0,False,96.2
+SSBM,2018,Mew2King,6,-2.0,False,96.1
+SSBM,2018,Zain,7,15.0,False,94.6
+SSBM,2018,Wizzrobe,8,0.0,False,94.4
+SSBM,2018,aMSa,9,15.0,False,93.4
+SSBM,2018,Axe,10,-3.0,False,92.5
+SSBM,2018,S2J,11,-1.0,False,91.3
+SSBM,2018,SFAT,12,-3.0,False,90.7
+SSBM,2018,Swedish Delight,13,3.0,False,89.1
+SSBM,2018,Duck,14,0.0,False,88.9
+SSBM,2018,PewPewU,15,6.0,False,87.9
+SSBM,2018,n0ne,16,4.0,False,86.7
+SSBM,2018,Crush,17,-2.0,False,86.6
+SSBM,2018,Lucky,18,-1.0,False,86.0
+SSBM,2018,Bananas,19,82.0,True,85.0
+SSBM,2018,ARMY,20,33.0,False,84.9
+SSBM,2018,lloD,21,5.0,False,83.8
+SSBM,2018,Westballz,22,-4.0,False,83.0
+SSBM,2018,HugS,23,0.0,False,82.3
+SSBM,2018,AbsentPage,24,50.0,False,81.6
+SSBM,2018,KJH,25,9.0,False,80.8
+SSBM,2018,Rishi,26,10.0,False,79.3
+SSBM,2018,Gahtzu,27,16.0,False,79.1
+SSBM,2018,Fiction,28,73.0,True,78.1
+SSBM,2018,Shroomed,29,-16.0,False,77.0
+SSBM,2018,Colbol,30,0.0,False,75.3
+SSBM,2018,Ryan Ford,31,1.0,False,74.9
+SSBM,2018,La Luna,32,-13.0,False,74.5
+SSBM,2018,Captain Faceroll,33,19.0,False,74.0
+SSBM,2018,iBDW,34,50.0,False,72.9
+SSBM,2018,Trif,35,-4.0,False,71.1
+SSBM,2018,Syrox,36,-3.0,False,70.2
+SSBM,2018,Kalamazhu,37,33.0,False,69.4
+SSBM,2018,Hax,38,7.0,False,68.3
+SSBM,2018,Ice,39,-11.0,False,68.2
+SSBM,2018,Ginger,40,9.0,False,67.4
+SSBM,2018,Michael,41,60.0,True,66.8
+SSBM,2018,Captain Smuckers,42,5.0,False,66.3
+SSBM,2018,MikeHaze,43,-18.0,False,64.4
+SSBM,2018,Bladewise,44,-7.0,False,63.7
+SSBM,2018,Junebug,45,9.0,False,63.6
+SSBM,2018,ChuDat,46,-35.0,False,63.5
+SSBM,2018,Spud,47,54.0,True,62.7
+SSBM,2018,Santi,48,53.0,True,62.4
+SSBM,2018,2saint,49,51.0,False,62.0
+SSBM,2018,Slox,50,-8.0,False,61.4
+SSBM,2018,Rocky,51,31.0,False,60.7
+SSBM,2018,moky,52,49.0,True,60.2
+SSBM,2018,Spark,53,8.0,False,59.2
+SSBM,2018,Squid,54,4.0,False,58.9
+SSBM,2018,Jerry,55,28.0,False,58.8
+SSBM,2018,Professor Pro,56,-15.0,False,57.3
+SSBM,2018,Overtriforce,57,3.0,False,53.1
+SSBM,2018,Ka-Master,58,4.0,False,52.1
+SSBM,2018,Darktooth,59,29.0,False,51.9
+SSBM,2018,Drephen,60,8.0,False,51.6
+SSBM,2018,Drunksloth,61,40.0,True,50.7
+SSBM,2018,Stango,62,39.0,True,48.0
+SSBM,2018,Abate,63,-7.0,False,47.9
+SSBM,2018,Amsah,64,-25.0,False,46.8
+SSBM,2018,Nintendude,65,-30.0,False,46.0
+SSBM,2018,Android,66,-22.0,False,45.7
+SSBM,2018,Boyd,67,34.0,True,45.3
+SSBM,2018,42nd,68,33.0,True,45.2
+SSBM,2018,FatGoku,69,0.0,False,44.9
+SSBM,2018,Sharkz,70,31.0,True,44.5
+SSBM,2018,Cactuar,71,-7.0,False,44.0
+SSBM,2018,Tai,72,8.0,False,43.0
+SSBM,2018,Kels,73,-22.0,False,42.9
+SSBM,2018,DaShizWiz,74,27.0,True,42.8
+SSBM,2018,Darkatma,75,-8.0,False,42.1
+SSBM,2018,Eddy Mexico,76,-5.0,False,41.8
+SSBM,2018,Prince Abu,77,-39.0,False,41.7
+SSBM,2018,Zamu,78,23.0,True,38.2
+SSBM,2018,Kalvar,79,22.0,True,36.8
+SSBM,2018,Uncle Mojo,80,21.0,True,36.7
+SSBM,2018,HTwa,81,20.0,True,35.6
+SSBM,2018,Rik,82,-1.0,False,35.5
+SSBM,2018,NMW,83,12.0,False,35.2
+SSBM,2018,King Momo,84,-9.0,False,34.3
+SSBM,2018,Legend,85,12.0,False,33.5
+SSBM,2018,Smashdaddy,86,15.0,True,31.3
+SSBM,2018,Cal,87,-14.0,False,29.4
+SSBM,2018,Jakenshaken,88,13.0,True,29.4
+SSBM,2018,Ralph,89,10.0,False,29.0
+SSBM,2018,Flipsy,90,11.0,True,28.5
+SSBM,2018,TheRealThing,91,10.0,True,28.1
+SSBM,2018,MilkMan,92,9.0,True,27.8
+SSBM,2018,Trulliam,93,-30.0,False,27.6
+SSBM,2018,Cob,94,7.0,True,26.8
+SSBM,2018,Iceman,95,-2.0,False,26.7
+SSBM,2018,vortex,96,5.0,True,26.3
+SSBM,2018,Magi,97,4.0,True,26.0
+SSBM,2018,nebbii,98,3.0,True,25.1
+SSBM,2018,Morsecode762,99,2.0,True,23.9
+SSBM,2018,Azel,100,1.0,True,23.6
+SSBM,2017,Hungrybox,1,1.0,False,100.0
+SSBM,2017,Armada,2,-1.0,False,99.2
+SSBM,2017,Mango,3,0.0,False,97.4
+SSBM,2017,Mew2King,4,0.0,False,96.3
+SSBM,2017,Plup,5,1.0,False,95.3
+SSBM,2017,Leffen,6,-1.0,False,94.9
+SSBM,2017,Axe,7,2.0,False,92.6
+SSBM,2017,Wizzrobe,8,4.0,False,91.8
+SSBM,2017,SFAT,9,-2.0,False,91.7
+SSBM,2017,S2J,10,6.0,False,89.4
+SSBM,2017,ChuDat,11,11.0,False,88.8
+SSBM,2017,Druggedfox,12,11.0,False,87.8
+SSBM,2017,Shroomed,13,-3.0,False,87.7
+SSBM,2017,Duck,14,1.0,False,85.2
+SSBM,2017,Crush,15,34.0,False,85.0
+SSBM,2017,Swedish Delight,16,-5.0,False,84.8
+SSBM,2017,Lucky,17,2.0,False,84.8
+SSBM,2017,Westballz,18,-10.0,False,84.1
+SSBM,2017,La Luna,19,82.0,True,84.0
+SSBM,2017,n0ne,20,-2.0,False,82.6
+SSBM,2017,PewPewU,21,-7.0,False,81.6
+SSBM,2017,Zain,22,44.0,False,80.3
+SSBM,2017,HugS,23,15.0,False,79.1
+SSBM,2017,aMSa,24,8.0,False,78.3
+SSBM,2017,MikeHaze,25,3.0,False,76.9
+SSBM,2017,lloD,26,28.0,False,76.1
+SSBM,2017,dizzkidboogie,27,0.0,False,75.8
+SSBM,2017,Ice,28,-15.0,False,75.6
+SSBM,2017,KirbyKaze,29,0.0,False,74.0
+SSBM,2017,Colbol,30,-5.0,False,73.6
+SSBM,2017,Trif,31,70.0,True,73.5
+SSBM,2017,Ryan Ford,32,16.0,False,73.1
+SSBM,2017,Syrox,33,34.0,False,72.4
+SSBM,2017,KJH,34,0.0,False,71.2
+SSBM,2017,Nintendude,35,-18.0,False,70.7
+SSBM,2017,Rishi,36,65.0,True,68.4
+SSBM,2017,Bladewise,37,2.0,False,67.2
+SSBM,2017,Prince Abu,38,4.0,False,66.4
+SSBM,2017,Amsah,39,19.0,False,66.0
+SSBM,2017,Santiago,40,3.0,False,65.9
+SSBM,2017,Professor Pro,41,-17.0,False,65.5
+SSBM,2017,Slox,42,9.0,False,65.5
+SSBM,2017,Gahtzu,43,-8.0,False,63.4
+SSBM,2017,Android,44,19.0,False,62.2
+SSBM,2017,Hax,45,56.0,True,62.1
+SSBM,2017,Kage,46,55.0,True,61.1
+SSBM,2017,Captain Smuckers,47,17.0,False,61.1
+SSBM,2017,MacD,48,-22.0,False,59.8
+SSBM,2017,Ginger,49,52.0,True,58.5
+SSBM,2017,Laudandus,50,-17.0,False,57.7
+SSBM,2017,Kels,51,4.0,False,57.6
+SSBM,2017,Captain Faceroll,52,-7.0,False,57.4
+SSBM,2017,ARMY,53,48.0,True,57.3
+SSBM,2017,Junebug,54,47.0,True,55.3
+SSBM,2017,Medz,55,34.0,False,55.1
+SSBM,2017,Abate,56,-16.0,False,53.8
+SSBM,2017,Chillindude,57,-21.0,False,50.9
+SSBM,2017,Squid,58,11.0,False,50.8
+SSBM,2017,Azusa,59,-2.0,False,50.3
+SSBM,2017,Overtriforce,60,-7.0,False,49.7
+SSBM,2017,Spark,61,40.0,True,48.9
+SSBM,2017,Ka-Master,62,14.0,False,48.5
+SSBM,2017,Trulliam,63,14.0,False,48.0
+SSBM,2017,Cactuar,64,-4.0,False,47.9
+SSBM,2017,Redd,65,-6.0,False,47.2
+SSBM,2017,Zhu,66,-35.0,False,46.6
+SSBM,2017,Darkatma,67,5.0,False,46.5
+SSBM,2017,Drephen,68,7.0,False,46.3
+SSBM,2017,FatGoku,69,32.0,True,45.9
+SSBM,2017,Kalamazhu,70,1.0,False,45.8
+SSBM,2017,Eddy Mexico,71,-15.0,False,45.0
+SSBM,2017,Drunk Sloth,72,28.0,False,44.9
+SSBM,2017,Cal,73,28.0,True,44.9
+SSBM,2017,AbsentPage,74,27.0,True,44.2
+SSBM,2017,King Momo,75,26.0,True,43.7
+SSBM,2017,DJ Nintendo,76,-11.0,False,43.6
+SSBM,2017,HomeMadeWaffles,77,3.0,False,43.6
+SSBM,2017,Lovage,78,-5.0,False,42.6
+SSBM,2017,Milkman,79,2.0,False,41.9
+SSBM,2017,Tai,80,-6.0,False,41.7
+SSBM,2017,Rik,81,20.0,True,41.6
+SSBM,2017,Rocky,82,19.0,True,41.4
+SSBM,2017,Jerry,83,18.0,True,41.3
+SSBM,2017,iBDW,84,17.0,True,41.2
+SSBM,2017,KPAN,85,16.0,True,41.1
+SSBM,2017,Mojo,86,2.0,False,40.7
+SSBM,2017,$mike,87,10.0,False,38.1
+SSBM,2017,Darktooth,88,13.0,True,37.4
+SSBM,2017,Zgetto,89,-28.0,False,36.8
+SSBM,2017,Blea Gelo,90,11.0,True,36.6
+SSBM,2017,Kaeon,91,10.0,True,36.1
+SSBM,2017,Bobby Frizz,92,9.0,True,35.9
+SSBM,2017,Iceman,93,8.0,True,35.3
+SSBM,2017,L,94,7.0,True,35.3
+SSBM,2017,NMW,95,-2.0,False,33.2
+SSBM,2017,Moky,96,5.0,True,32.9
+SSBM,2017,Legend,97,4.0,True,32.6
+SSBM,2017,Zealous5000,98,3.0,True,32.3
+SSBM,2017,Ralph,99,2.0,True,31.8
+SSBM,2017,2saint,100,1.0,True,31.4
+SSBM,2016,Armada,1,0.0,False,10.0
+SSBM,2016,Hungrybox,2,0.0,False,9.892
+SSBM,2016,Mango,3,1.0,False,9.781
+SSBM,2016,Mew2King,4,1.0,False,9.643
+SSBM,2016,Leffen,5,-2.0,False,9.576
+SSBM,2016,Plup,6,1.0,False,9.379
+SSBM,2016,SFAT,7,6.0,False,9.219
+SSBM,2016,Westballz,8,0.0,False,9.031
+SSBM,2016,Axe,9,0.0,False,8.969
+SSBM,2016,Shroomed,10,0.0,False,8.917
+SSBM,2016,Swedish Delight,11,20.0,False,8.878
+SSBM,2016,Wizzrobe,12,11.0,False,8.82
+SSBM,2016,Ice,13,4.0,False,8.812000000000003
+SSBM,2016,PewPewU,14,0.0,False,8.607000000000001
+SSBM,2016,Duck,15,7.0,False,8.586
+SSBM,2016,S2J,16,0.0,False,8.585
+SSBM,2016,Nintendude,17,8.0,False,8.34
+SSBM,2016,n0ne,18,40.0,False,8.299
+SSBM,2016,Lucky,19,-7.0,False,8.296
+SSBM,2016,Silent Wolf,20,-9.0,False,8.261000000000001
+SSBM,2016,The Moon,21,7.0,False,8.211
+SSBM,2016,ChuDat,22,13.0,False,8.062999999999999
+SSBM,2016,Druggedfox,23,-5.0,False,8.044
+SSBM,2016,Professor Pro,24,10.0,False,8.036
+SSBM,2016,Colbol,25,-4.0,False,7.92
+SSBM,2016,MacD,26,-11.0,False,7.822
+SSBM,2016,dizzkidboogie,27,57.0,False,7.734
+SSBM,2016,MikeHaze,28,12.0,False,7.72
+SSBM,2016,KirbyKaze,29,-2.0,False,7.667999999999998
+SSBM,2016,Wobbles,30,2.0,False,7.664
+SSBM,2016,Zhu,31,-2.0,False,7.65
+SSBM,2016,aMSa,32,-8.0,False,7.482
+SSBM,2016,Laudandus,33,26.0,False,7.473
+SSBM,2016,KJH,34,12.0,False,7.362999999999999
+SSBM,2016,Gahtzu,35,10.0,False,7.164
+SSBM,2016,Chillindude,36,18.0,False,7.124
+SSBM,2016,Javi,37,-11.0,False,6.914
+SSBM,2016,HugS,38,-18.0,False,6.874
+SSBM,2016,Bladewise,39,0.0,False,6.85
+SSBM,2016,Abate,40,-7.0,False,6.8039999999999985
+SSBM,2016,Gravy,41,21.0,False,6.7879999999999985
+SSBM,2016,Prince Abu,42,13.0,False,6.699
+SSBM,2016,Santiago,43,-1.0,False,6.617000000000001
+SSBM,2016,Trifasia,44,57.0,True,6.6110000000000015
+SSBM,2016,Captain Faceroll,45,56.0,True,6.607
+SSBM,2016,Connor,46,26.0,False,6.586
+SSBM,2016,Infinite Numbers,47,54.0,True,6.56
+SSBM,2016,Ryan Ford,48,3.0,False,6.484
+SSBM,2016,Crush,49,47.0,False,6.419
+SSBM,2016,Mafia,50,41.0,False,6.397
+SSBM,2016,Slox,51,18.0,False,6.385
+SSBM,2016,Rudolph,52,36.0,False,6.367000000000001
+SSBM,2016,Overtriforce,53,-6.0,False,6.3210000000000015
+SSBM,2016,lloD,54,24.0,False,6.199
+SSBM,2016,Kels,55,-5.0,False,6.147
+SSBM,2016,Eddy Mexico,56,-20.0,False,6.066
+SSBM,2016,Azusa,57,32.0,False,6.051
+SSBM,2016,Amsah,58,-5.0,False,6.002999999999999
+SSBM,2016,Redd,59,11.0,False,5.984
+SSBM,2016,Cactuar,60,-23.0,False,5.924
+SSBM,2016,Zgetto,61,12.0,False,5.902
+SSBM,2016,SmashG0D,62,39.0,True,5.8610000000000015
+SSBM,2016,Android,63,-15.0,False,5.854
+SSBM,2016,Captain Smuckers,64,35.0,False,5.837999999999999
+SSBM,2016,DJ Nintendo,65,-24.0,False,5.806
+SSBM,2016,Zain,66,35.0,True,5.7170000000000005
+SSBM,2016,Syrox,67,34.0,True,5.591
+SSBM,2016,ESAM,68,13.0,False,5.587999999999999
+SSBM,2016,Squid,69,32.0,True,5.5710000000000015
+SSBM,2016,Kage the Warrior,70,31.0,True,5.566
+SSBM,2016,Kalamazhu,71,-14.0,False,5.4734
+SSBM,2016,Darkatma,72,-16.0,False,5.43
+SSBM,2016,Lovage,73,28.0,True,5.261
+SSBM,2016,Tai,74,16.0,False,5.24
+SSBM,2016,Drephen,75,26.0,True,5.2178
+SSBM,2016,Ka-Master,76,25.0,True,5.1389999999999985
+SSBM,2016,Trulliam,77,24.0,True,5.109
+SSBM,2016,Frootloop,78,-29.0,False,5.107
+SSBM,2016,Alex19,79,-12.0,False,5.104
+SSBM,2016,HomeMadeWaffles,80,-16.0,False,5.066
+SSBM,2016,Milkman,81,20.0,True,5.021
+SSBM,2016,ARC,82,5.0,False,5.01
+SSBM,2016,Reno,83,-9.0,False,4.933
+SSBM,2016,Tafokints,84,-4.0,False,4.886
+SSBM,2016,Fuzzyness,85,16.0,True,4.864
+SSBM,2016,Kira,86,-26.0,False,4.771
+SSBM,2016,Ken,87,-35.0,False,4.717
+SSBM,2016,Mojo,88,13.0,True,4.6610000000000005
+SSBM,2016,Medz,89,12.0,True,4.632
+SSBM,2016,Zanguzen,90,-22.0,False,4.607
+SSBM,2016,Phil,91,1.0,False,4.547
+SSBM,2016,Darrell,92,-9.0,False,4.518
+SSBM,2016,NMW,93,8.0,True,4.505
+SSBM,2016,Porkchops,94,-1.0,False,4.365
+SSBM,2016,Jflex,95,6.0,True,4.354
+SSBM,2016,Vanity Angel,96,5.0,True,4.331
+SSBM,2016,$mike,97,-12.0,False,4.3260000000000005
+SSBM,2016,Nightmare,98,3.0,True,4.314
+SSBM,2016,4%,99,2.0,True,4.299
+SSBM,2016,Drunk Sloth,100,1.0,True,4.261
+SSBM,2015,Armada,1,1.0,False,10.0
+SSBM,2015,Hungrybox,2,3.0,False,9.738
+SSBM,2015,Leffen,3,3.0,False,9.731
+SSBM,2015,Mango,4,-3.0,False,9.537
+SSBM,2015,Mew2King,5,-1.0,False,9.396
+SSBM,2015,PPMD,6,-3.0,False,9.329
+SSBM,2015,Plup,7,9.0,False,9.043
+SSBM,2015,Westballz,8,1.0,False,8.967
+SSBM,2015,Axe,9,-2.0,False,8.934
+SSBM,2015,Shroomed,10,4.0,False,8.818999999999997
+SSBM,2015,Silent Wolf,11,4.0,False,8.661
+SSBM,2015,Lucky,12,0.0,False,8.595
+SSBM,2015,SFAT,13,7.0,False,8.519
+SSBM,2015,PewPewU,14,-1.0,False,8.384
+SSBM,2015,MacD,15,10.0,False,8.273
+SSBM,2015,S2J,16,2.0,False,8.264
+SSBM,2015,Ice,17,2.0,False,8.246
+SSBM,2015,Druggedfox,18,65.0,False,8.185
+SSBM,2015,Hax,19,-11.0,False,7.994
+SSBM,2015,HugS,20,17.0,False,7.849
+SSBM,2015,Colbol,21,-11.0,False,7.834
+SSBM,2015,Duck,22,16.0,False,7.7970000000000015
+SSBM,2015,Wizzrobe,23,6.0,False,7.732
+SSBM,2015,aMSa,24,-2.0,False,7.6789999999999985
+SSBM,2015,Nintendude,25,-1.0,False,7.667999999999998
+SSBM,2015,Javi,26,1.0,False,7.6179999999999986
+SSBM,2015,KirbyKaze,27,-4.0,False,7.582000000000002
+SSBM,2015,The Moon,28,2.0,False,7.497000000000001
+SSBM,2015,Zhu,29,-8.0,False,7.447999999999999
+SSBM,2015,Fly Amanita,30,-19.0,False,7.417000000000002
+SSBM,2015,Swedish Delight,31,25.0,False,7.303
+SSBM,2015,Wobbles,32,69.0,True,7.292999999999998
+SSBM,2015,Abate,33,1.0,False,7.276
+SSBM,2015,Professor Pro,34,67.0,True,7.207000000000002
+SSBM,2015,ChuDat,35,-3.0,False,7.004
+SSBM,2015,Eddy Mexico,36,-5.0,False,6.84
+SSBM,2015,Cactuar,37,5.0,False,6.836
+SSBM,2015,Fiction,38,-21.0,False,6.7620000000000005
+SSBM,2015,Bladewise,39,-6.0,False,6.759
+SSBM,2015,MikeHaze,40,61.0,True,6.449
+SSBM,2015,DJ Nintendo,41,-2.0,False,6.4460000000000015
+SSBM,2015,Santiago,42,59.0,True,6.434
+SSBM,2015,Tekk,43,58.0,True,6.426
+SSBM,2015,Kage,44,1.0,False,6.421
+SSBM,2015,Gahtzu,45,33.0,False,6.24
+SSBM,2015,KJH,46,55.0,True,6.234
+SSBM,2015,Overtriforce,47,54.0,True,6.224
+SSBM,2015,Android,48,53.0,True,6.197
+SSBM,2015,Frootloop,49,50.0,False,6.1789999999999985
+SSBM,2015,Kels,50,-22.0,False,6.175
+SSBM,2015,Ryan Ford,51,50.0,True,6.14
+SSBM,2015,Ken,52,6.0,False,6.132999999999999
+SSBM,2015,Amsah,53,48.0,True,6.112
+SSBM,2015,Chillindude,54,-28.0,False,6.053
+SSBM,2015,Prince Abu,55,46.0,True,6.022
+SSBM,2015,Darkatma,56,-4.0,False,5.988
+SSBM,2015,Kalamazhu,57,-17.0,False,5.97
+SSBM,2015,n0ne,58,43.0,True,5.957000000000002
+SSBM,2015,Laudandus,59,31.0,False,5.9289999999999985
+SSBM,2015,Kira,60,41.0,True,5.915
+SSBM,2015,Darkrain,61,-17.0,False,5.831
+SSBM,2015,Gravy,62,22.0,False,5.813
+SSBM,2015,Blea Gelo,63,6.0,False,5.801
+SSBM,2015,HomeMadeWaffles,64,11.0,False,5.78
+SSBM,2015,Dart!,65,3.0,False,5.749
+SSBM,2015,Jeapie,66,35.0,True,5.74
+SSBM,2015,Alex19,67,25.0,False,5.726
+SSBM,2015,Zanguzen,68,-22.0,False,5.613
+SSBM,2015,Slox,69,-7.0,False,5.587999999999999
+SSBM,2015,Redd,70,0.0,False,5.502000000000002
+SSBM,2015,Zoso,71,-21.0,False,5.4289999999999985
+SSBM,2015,Connor,72,21.0,False,5.42
+SSBM,2015,Zgetto,73,28.0,True,5.396
+SSBM,2015,Reno,74,3.0,False,5.381
+SSBM,2015,Matt,75,26.0,True,5.327000000000001
+SSBM,2015,Ralph,76,25.0,True,5.263
+SSBM,2015,reaper,77,24.0,True,5.229
+SSBM,2015,lloD,78,23.0,True,5.2
+SSBM,2015,SUNG475,79,22.0,True,5.189
+SSBM,2015,Tafokints,80,-14.0,False,5.154
+SSBM,2015,ESAM,81,19.0,False,5.127999999999999
+SSBM,2015,Soft,82,-18.0,False,5.124
+SSBM,2015,Darrell,83,-22.0,False,5.096
+SSBM,2015,dizzkidboogie,84,17.0,True,5.086
+SSBM,2015,$mike,85,16.0,True,5.08
+SSBM,2015,Swiftbass,86,-37.0,False,5.047
+SSBM,2015,ARC,87,-6.0,False,5.0280000000000005
+SSBM,2015,Rudolph,88,13.0,True,5.019
+SSBM,2015,Azusa,89,7.0,False,5.007
+SSBM,2015,Tai,90,-5.0,False,4.976
+SSBM,2015,Mafia,91,10.0,True,4.9060000000000015
+SSBM,2015,Phil,92,9.0,True,4.862
+SSBM,2015,Porkchops,93,-40.0,False,4.8580000000000005
+SSBM,2015,IB,94,-40.0,False,4.84
+SSBM,2015,OkamiBW,95,-38.0,False,4.83
+SSBM,2015,Crush,96,5.0,True,4.796
+SSBM,2015,Toph,97,-6.0,False,4.793
+SSBM,2015,Bizzarro Flame,98,-4.0,False,4.777
+SSBM,2015,Captain Smuckers,99,2.0,True,4.77
+SSBM,2015,DoH,100,-21.0,False,4.754
+SSBM,2014,Mango,1,0.0,False,10.0
+SSBM,2014,Armada,2,0.0,False,9.893
+SSBM,2014,PPMD,3,1.0,False,9.75
+SSBM,2014,Mew2King,4,-1.0,False,9.717
+SSBM,2014,Hungrybox,5,0.0,False,9.622
+SSBM,2014,Leffen,6,8.0,False,9.422
+SSBM,2014,Axe,7,4.0,False,9.128
+SSBM,2014,Hax,8,-2.0,False,9.121
+SSBM,2014,Westballz,9,14.0,False,8.942
+SSBM,2014,Colbol,10,18.0,False,8.863
+SSBM,2014,Fly Amanita,11,10.0,False,8.835
+SSBM,2014,Lucky,12,8.0,False,8.807
+SSBM,2014,PewPewU,13,-1.0,False,8.76
+SSBM,2014,Shroomed,14,-7.0,False,8.687999999999999
+SSBM,2014,Silent Wolf,15,1.0,False,8.665
+SSBM,2014,Plup,16,11.0,False,8.62
+SSBM,2014,Fiction,17,14.0,False,8.565
+SSBM,2014,S2J,18,1.0,False,8.564
+SSBM,2014,Ice,19,-6.0,False,8.552999999999999
+SSBM,2014,SFAT,20,-10.0,False,8.529
+SSBM,2014,Zhu,21,-3.0,False,8.437999999999999
+SSBM,2014,aMSa,22,55.0,False,8.333
+SSBM,2014,KirbyKaze,23,-14.0,False,8.25
+SSBM,2014,Nintendude,24,24.0,False,8.177999999999999
+SSBM,2014,MacD,25,7.0,False,8.027000000000001
+SSBM,2014,Chillindude,26,0.0,False,7.997999999999998
+SSBM,2014,Javi,27,-10.0,False,7.979
+SSBM,2014,Kels,28,24.0,False,7.947999999999999
+SSBM,2014,Wizzrobe,29,72.0,True,7.938
+SSBM,2014,The Moon,30,33.0,False,7.827000000000001
+SSBM,2014,Eddy Mexico,31,11.0,False,7.825
+SSBM,2014,ChuDat,32,-10.0,False,7.822999999999999
+SSBM,2014,Bladewise,33,1.0,False,7.692
+SSBM,2014,Abate,34,24.0,False,7.65
+SSBM,2014,ZeRo,35,66.0,True,7.645
+SSBM,2014,Larry Lurr,36,65.0,True,7.612999999999999
+SSBM,2014,HugS,37,10.0,False,7.553
+SSBM,2014,Duck,38,37.0,False,7.517
+SSBM,2014,DJ Nintendo,39,2.0,False,7.49
+SSBM,2014,Kalamazhu,40,61.0,True,7.4860000000000015
+SSBM,2014,Lord,41,-12.0,False,7.459
+SSBM,2014,Cactuar,42,-2.0,False,7.457000000000002
+SSBM,2014,Weon-X,43,1.0,False,7.456
+SSBM,2014,Darkrain,44,-5.0,False,7.428
+SSBM,2014,Kage,45,-11.0,False,7.4129999999999985
+SSBM,2014,Zanguzen,46,55.0,True,7.372000000000001
+SSBM,2014,SilentSpectre,47,4.0,False,7.34
+SSBM,2014,KoreanDJ,48,-15.0,False,7.319
+SSBM,2014,Swiftbass,49,30.0,False,7.28
+SSBM,2014,Zoso,50,18.0,False,7.254
+SSBM,2014,RaynEX,51,50.0,True,7.25
+SSBM,2014,Darkatma,52,-6.0,False,7.245
+SSBM,2014,Porkchops,53,48.0,True,7.242000000000001
+SSBM,2014,IB,54,19.0,False,7.237
+SSBM,2014,Darc,55,-10.0,False,7.234
+SSBM,2014,Swedish Delight,56,10.0,False,7.222
+SSBM,2014,OkamiBW,57,25.0,False,7.213999999999999
+SSBM,2014,Ken,58,42.0,False,7.2
+SSBM,2014,VaNz,59,-23.0,False,7.188
+SSBM,2014,Excel Zero,60,41.0,True,7.172999999999999
+SSBM,2014,Darrell,61,3.0,False,7.162000000000001
+SSBM,2014,Slox,62,39.0,True,7.148
+SSBM,2014,Beer Man,63,38.0,True,7.148
+SSBM,2014,Soft,64,37.0,True,7.141
+SSBM,2014,Fuzzyness,65,-6.0,False,7.126
+SSBM,2014,Tafokints,66,-5.0,False,7.09
+SSBM,2014,Lil' Fumi,67,34.0,True,7.07
+SSBM,2014,Dart!,68,15.0,False,7.062
+SSBM,2014,Blea Gelo,69,32.0,True,7.058
+SSBM,2014,Redd,70,-17.0,False,7.058
+SSBM,2014,Hanky Panky,71,30.0,True,7.039
+SSBM,2014,Remen,72,29.0,True,7.017
+SSBM,2014,StriCNYN3,73,-3.0,False,7.0139999999999985
+SSBM,2014,Cyrain,74,-17.0,False,7.0
+SSBM,2014,HomeMadeWaffles,75,-20.0,False,6.9860000000000015
+SSBM,2014,PikaChad,76,0.0,False,6.956
+SSBM,2014,Reno,77,8.0,False,6.954
+SSBM,2014,Gahtzu,78,23.0,True,6.95
+SSBM,2014,DoH,79,2.0,False,6.9220000000000015
+SSBM,2014,Eggm,80,-26.0,False,6.9
+SSBM,2014,ARC,81,20.0,True,6.892
+SSBM,2014,Tope,82,-26.0,False,6.891
+SSBM,2014,Druggedfox,83,18.0,True,6.8439999999999985
+SSBM,2014,Gravy,84,17.0,True,6.839
+SSBM,2014,Tai,85,-14.0,False,6.835
+SSBM,2014,Lucien,86,-37.0,False,6.827000000000001
+SSBM,2014,Lord HDL,87,14.0,True,6.819
+SSBM,2014,Trail,88,1.0,False,6.815
+SSBM,2014,Scar,89,-27.0,False,6.809
+SSBM,2014,Laudandus,90,11.0,True,6.8020000000000005
+SSBM,2014,Toph,91,4.0,False,6.791
+SSBM,2014,Alex19,92,9.0,True,6.79
+SSBM,2014,Connor,93,-33.0,False,6.746
+SSBM,2014,Bizzarro Flame,94,2.0,False,6.7429999999999986
+SSBM,2014,Hyprid,95,2.0,False,6.721
+SSBM,2014,Azusa,96,5.0,True,6.716
+SSBM,2014,Mojo,97,4.0,True,6.715
+SSBM,2014,Milkman,98,3.0,True,6.7
+SSBM,2014,Frootloop,99,-19.0,False,6.686
+SSBM,2014,ESAM,100,-7.0,False,6.683
+CHESS,2019,"Carlsen, Magnus",1,0.0,False,2872
+CHESS,2019,"Caruana, Fabiano",2,0.0,False,2822
+CHESS,2019,"Ding, Liren",3,1.0,False,2801
+CHESS,2019,"Vachier-Lagrave, Maxime",4,2.0,False,2780
+CHESS,2019,"Grischuk, Alexander",5,4.0,False,2777
+CHESS,2019,"Aronian, Levon",6,4.0,False,2775
+CHESS,2019,"Mamedyarov, Shakhriyar",7,-4.0,False,2772
+CHESS,2019,"Giri, Anish",8,-3.0,False,2769
+CHESS,2019,"Nepomniachtchi, Ian",9,4.0,False,2767
+CHESS,2019,"Radjabov, Teimour",10,4.0,False,2765
+CHESS,2019,"So, Wesley",11,0.0,False,2760
+CHESS,2019,"Duda, Jan-Krzysztof",12,6.0,False,2758
+CHESS,2019,"Dominguez Perez, Leinier",13,88.0,True,2758
+CHESS,2019,"Rapport, Richard",14,10.0,False,2758
+CHESS,2019,"Anand, Viswanathan",15,-7.0,False,2757
+CHESS,2019,"Wang, Hao",16,9.0,False,2756
+CHESS,2019,"Karjakin, Sergey",17,-2.0,False,2754
+CHESS,2019,"Kramnik, Vladimir",18,-11.0,False,2753
+CHESS,2019,"Vitiugov, Nikita",19,11.0,False,2747
+CHESS,2019,"Yu, Yangyi",20,-8.0,False,2738
+CHESS,2019,"Topalov, Veselin",21,-4.0,False,2737
+CHESS,2019,"Nakamura, Hikaru",22,-6.0,False,2736
+CHESS,2019,"Artemiev, Vladislav",23,14.0,False,2731
+CHESS,2019,"Wojtaszek, Radoslaw",24,-1.0,False,2725
+CHESS,2019,"Wei, Yi",25,1.0,False,2725
+CHESS,2019,"Andreikin, Dmitry",26,6.0,False,2724
+CHESS,2019,"Harikrishna, Pentala",27,1.0,False,2724
+CHESS,2019,"Svidler, Peter",28,-9.0,False,2723
+CHESS,2019,"Firouzja, Alireza",29,72.0,True,2723
+CHESS,2019,"Vidit, Santosh Gujrathi",30,13.0,False,2721
+CHESS,2019,"Le, Quang Liem",31,3.0,False,2713
+CHESS,2019,"Xiong, Jeffery",32,35.0,False,2712
+CHESS,2019,"Navara, David",33,-12.0,False,2707
+CHESS,2019,"Tomashevsky, Evgeny",34,4.0,False,2705
+CHESS,2019,"Bu, Xiangzhi",35,-8.0,False,2705
+CHESS,2019,"Vallejo Pons, Francisco",36,13.0,False,2704
+CHESS,2019,"Alekseenko, Kirill",37,64.0,True,2704
+CHESS,2019,"Adams, Michael",38,1.0,False,2701
+CHESS,2019,"Matlakov, Maxim",39,5.0,False,2699
+CHESS,2019,"Jakovenko, Dmitry",40,-18.0,False,2698
+CHESS,2019,"Sadler, Matthew D",41,10.0,False,2692
+CHESS,2019,"Almasi, Zoltan",42,10.0,False,2691
+CHESS,2019,"Maghsoodloo, Parham",43,12.0,False,2690
+CHESS,2019,"Dubov, Daniil",44,-4.0,False,2690
+CHESS,2019,"Ivanchuk, Vassily",45,-12.0,False,2690
+CHESS,2019,"Li, Chao b",46,-5.0,False,2690
+CHESS,2019,"Sargissian, Gabriel",47,7.0,False,2689
+CHESS,2019,"Cheparinov, Ivan",48,-12.0,False,2687
+CHESS,2019,"Anton Guijarro, David",49,52.0,True,2685
+CHESS,2019,"Rausis, Igors",50,48.0,False,2685
+CHESS,2019,"Shirov, Alexei",51,50.0,True,2684
+CHESS,2019,"Gelfand, Boris",52,19.0,False,2684
+CHESS,2019,"Grandelius, Nils",53,13.0,False,2683
+CHESS,2019,"Jones, Gawain C B",54,9.0,False,2683
+CHESS,2019,"Shankland, Sam",55,46.0,True,2683
+CHESS,2019,"Amin, Bassem",56,-21.0,False,2683
+CHESS,2019,"Kamsky, Gata",57,22.0,False,2677
+CHESS,2019,"McShane, Luke J",58,23.0,False,2677
+CHESS,2019,"Fedoseev, Vladimir",59,-28.0,False,2677
+CHESS,2019,"Dreev, Aleksey",60,15.0,False,2677
+CHESS,2019,"Howell, David W L",61,-15.0,False,2676
+CHESS,2019,"Predke, Alexandr",62,39.0,True,2676
+CHESS,2019,"Kryvoruchko, Yuriy",63,-6.0,False,2675
+CHESS,2019,"Areshchenko, Alexander",64,30.0,False,2675
+CHESS,2019,"Salem, A.R. Saleh",65,23.0,False,2675
+CHESS,2019,"Wang, Yue",66,-5.0,False,2674
+CHESS,2019,"Robson, Ray",67,11.0,False,2673
+CHESS,2019,"Ragger, Markus",68,-12.0,False,2670
+CHESS,2019,"Leko, Peter",69,8.0,False,2670
+CHESS,2019,"Ni, Hua",70,-10.0,False,2669
+CHESS,2019,"Bacrot, Etienne",71,-13.0,False,2669
+CHESS,2019,"Melkumyan, Hrant",72,1.0,False,2668
+CHESS,2019,"Nisipeanu, Liviu-Dieter",73,-11.0,False,2668
+CHESS,2019,"Malakhov, Vladimir",74,17.0,False,2668
+CHESS,2019,"Korobov, Anton",75,-30.0,False,2668
+CHESS,2019,"Kuzubov, Yuriy",76,21.0,False,2667
+CHESS,2019,"Guseinov, Gadir",77,5.0,False,2666
+CHESS,2019,"Sjugirov, Sanan",78,6.0,False,2665
+CHESS,2019,"Hou, Yifan",79,7.0,False,2664
+CHESS,2019,"Kasimdzhanov, Rustam",80,10.0,False,2664
+CHESS,2019,"Sarana, Alexey",81,20.0,True,2663
+CHESS,2019,"Abasov, Nijat",82,19.0,True,2663
+CHESS,2019,"Eljanov, Pavel",83,-19.0,False,2663
+CHESS,2019,"Inarkiev, Ernesto",84,-34.0,False,2663
+CHESS,2019,"Kovalev, Vladislav",85,-26.0,False,2662
+CHESS,2019,"Najer, Evgeniy",86,-12.0,False,2661
+CHESS,2019,"Sevian, Samuel",87,14.0,True,2660
+CHESS,2019,"Nyzhnyk, Illya",88,13.0,True,2660
+CHESS,2019,"Mamedov, Rauf",89,-47.0,False,2659
+CHESS,2019,"Morozevich, Alexander",90,6.0,False,2659
+CHESS,2019,"Swiercz, Dariusz",91,10.0,True,2659
+CHESS,2019,"Berkes, Ferenc",92,-5.0,False,2656
+CHESS,2019,"Sasikiran, Krishnan",93,-23.0,False,2656
+CHESS,2019,"Lagarde, Maxime",94,7.0,True,2655
+CHESS,2019,"Adhiban, B.",95,-47.0,False,2654
+CHESS,2019,"Edouard, Romain",96,5.0,True,2653
+CHESS,2019,"Saric, Ivan",97,-50.0,False,2651
+CHESS,2019,"Cori, Jorge",98,-45.0,False,2651
+CHESS,2019,"Rublevsky, Sergei",99,1.0,False,2651
+CHESS,2019,"Oparin, Grigoriy",100,1.0,True,2650
+CHESS,2018,"Carlsen, Magnus",1,0.0,False,2835
+CHESS,2018,"Caruana, Fabiano",2,2.0,False,2832
+CHESS,2018,"Mamedyarov, Shakhriyar",3,0.0,False,2817
+CHESS,2018,"Ding, Liren",4,6.0,False,2813
+CHESS,2018,"Giri, Anish",5,9.0,False,2783
+CHESS,2018,"Vachier-Lagrave, Maxime",6,-1.0,False,2781
+CHESS,2018,"Kramnik, Vladimir",7,0.0,False,2777
+CHESS,2018,"Anand, Viswanathan",8,0.0,False,2773
+CHESS,2018,"Grischuk, Alexander",9,2.0,False,2771
+CHESS,2018,"Aronian, Levon",10,-8.0,False,2765
+CHESS,2018,"So, Wesley",11,-5.0,False,2765
+CHESS,2018,"Yu, Yangyi",12,3.0,False,2764
+CHESS,2018,"Nepomniachtchi, Ian",13,14.0,False,2763
+CHESS,2018,"Radjabov, Teimour",14,3.0,False,2757
+CHESS,2018,"Karjakin, Sergey",15,-2.0,False,2753
+CHESS,2018,"Nakamura, Hikaru",16,-7.0,False,2746
+CHESS,2018,"Topalov, Veselin",17,-1.0,False,2740
+CHESS,2018,"Duda, Jan-Krzysztof",18,14.0,False,2738
+CHESS,2018,"Svidler, Peter",19,-7.0,False,2737
+CHESS,2018,"Naiditsch, Arkadij",20,23.0,False,2736
+CHESS,2018,"Navara, David",21,-1.0,False,2736
+CHESS,2018,"Jakovenko, Dmitry",22,3.0,False,2735
+CHESS,2018,"Wojtaszek, Radoslaw",23,-1.0,False,2732
+CHESS,2018,"Rapport, Richard",24,17.0,False,2732
+CHESS,2018,"Wang, Hao",25,14.0,False,2730
+CHESS,2018,"Wei, Yi",26,-7.0,False,2728
+CHESS,2018,"Bu, Xiangzhi",27,-1.0,False,2726
+CHESS,2018,"Harikrishna, Pentala",28,73.0,True,2725
+CHESS,2018,"Shankland, Samuel",29,54.0,False,2724
+CHESS,2018,"Vitiugov, Nikita",30,0.0,False,2719
+CHESS,2018,"Fedoseev, Vladimir",31,0.0,False,2719
+CHESS,2018,"Andreikin, Dmitry",32,4.0,False,2719
+CHESS,2018,"Ivanchuk, Vassily",33,-5.0,False,2717
+CHESS,2018,"Le, Quang Liem",34,-13.0,False,2714
+CHESS,2018,"Amin, Bassem",35,20.0,False,2710
+CHESS,2018,"Cheparinov, Ivan",36,2.0,False,2709
+CHESS,2018,"Artemiev, Vladislav",37,12.0,False,2709
+CHESS,2018,"Tomashevsky, Evgeny",38,-3.0,False,2705
+CHESS,2018,"Adams, Michael",39,-6.0,False,2703
+CHESS,2018,"Dubov, Daniil",40,18.0,False,2703
+CHESS,2018,"Li, Chao b",41,-17.0,False,2703
+CHESS,2018,"Mamedov, Rauf",42,-2.0,False,2703
+CHESS,2018,"Vidit, Santosh Gujrathi",43,-9.0,False,2701
+CHESS,2018,"Matlakov, Maxim",44,-21.0,False,2700
+CHESS,2018,"Korobov, Anton",45,54.0,False,2698
+CHESS,2018,"Howell, David W L",46,21.0,False,2696
+CHESS,2018,"Saric, Ivan",47,29.0,False,2695
+CHESS,2018,"Adhiban, B.",48,47.0,False,2695
+CHESS,2018,"Vallejo Pons, Francisco",49,-7.0,False,2695
+CHESS,2018,"Inarkiev, Ernesto",50,3.0,False,2693
+CHESS,2018,"Sadler, Matthew D",51,6.0,False,2693
+CHESS,2018,"Almasi, Zoltan",52,9.0,False,2689
+CHESS,2018,"Cori, Jorge",53,31.0,False,2689
+CHESS,2018,"Sargissian, Gabriel",54,18.0,False,2689
+CHESS,2018,"Maghsoodloo, Parham",55,46.0,True,2688
+CHESS,2018,"Ragger, Markus",56,32.0,False,2687
+CHESS,2018,"Kryvoruchko, Yuriy",57,-3.0,False,2687
+CHESS,2018,"Bacrot, Etienne",58,-29.0,False,2686
+CHESS,2018,"Kovalev, Vladislav",59,42.0,True,2683
+CHESS,2018,"Ni, Hua",60,15.0,False,2683
+CHESS,2018,"Wang, Yue",61,-9.0,False,2683
+CHESS,2018,"Nisipeanu, Liviu-Dieter",62,11.0,False,2682
+CHESS,2018,"Jones, Gawain C B",63,33.0,False,2682
+CHESS,2018,"Eljanov, Pavel",64,-27.0,False,2680
+CHESS,2018,"Demchenko, Anton",65,20.0,False,2679
+CHESS,2018,"Grandelius, Nils",66,35.0,True,2678
+CHESS,2018,"Xiong, Jeffery",67,34.0,True,2676
+CHESS,2018,"Laznicka, Viktor",68,33.0,True,2675
+CHESS,2018,"Rodshtein, Maxim",69,-24.0,False,2675
+CHESS,2018,"Sasikiran, Krishnan",70,-7.0,False,2673
+CHESS,2018,"Gelfand, Boris",71,-25.0,False,2673
+CHESS,2018,"Safarli, Eltaj",72,29.0,True,2671
+CHESS,2018,"Melkumyan, Hrant",73,28.0,True,2670
+CHESS,2018,"Najer, Evgeniy",74,-27.0,False,2670
+CHESS,2018,"Dreev, Aleksey",75,23.0,False,2670
+CHESS,2018,"Nabaty, Tamir",76,14.0,False,2670
+CHESS,2018,"Leko, Peter",77,-27.0,False,2669
+CHESS,2018,"Robson, Ray",78,23.0,True,2667
+CHESS,2018,"Kamsky, Gata",79,-13.0,False,2666
+CHESS,2018,"Bruzon Batista, Lazaro",80,-10.0,False,2664
+CHESS,2018,"McShane, Luke J",81,20.0,True,2664
+CHESS,2018,"Guseinov, Gadir",82,19.0,True,2664
+CHESS,2018,"Sethuraman, S.P.",83,18.0,True,2664
+CHESS,2018,"Sjugirov, Sanan",84,17.0,True,2663
+CHESS,2018,"Ponomariov, Ruslan",85,-37.0,False,2663
+CHESS,2018,"Hou, Yifan",86,-22.0,False,2662
+CHESS,2018,"Berkes, Ferenc",87,0.0,False,2662
+CHESS,2018,"Salem, A.R. Saleh",88,13.0,True,2660
+CHESS,2018,"Lenic, Luka",89,5.0,False,2659
+CHESS,2018,"Kasimdzhanov, Rustam",90,-31.0,False,2659
+CHESS,2018,"Malakhov, Vladimir",91,-35.0,False,2658
+CHESS,2018,"Van Kampen, Robin",92,9.0,True,2658
+CHESS,2018,"Kovalenko, Igor",93,8.0,True,2657
+CHESS,2018,"Areshchenko, Alexander",94,7.0,True,2656
+CHESS,2018,"Mareco, Sandro",95,6.0,True,2656
+CHESS,2018,"Morozevich, Alexander",96,-15.0,False,2656
+CHESS,2018,"Kuzubov, Yuriy",97,-53.0,False,2655
+CHESS,2018,"Rausis, Igors",98,3.0,True,2655
+CHESS,2018,"Hammer, Jon Ludvig",99,2.0,True,2652
+CHESS,2018,"Rublevsky, Sergei",100,-40.0,False,2652
+CHESS,2017,"Carlsen, Magnus",1,0.0,False,2837
+CHESS,2017,"Aronian, Levon",2,5.0,False,2805
+CHESS,2017,"Mamedyarov, Shakhriyar",3,9.0,False,2799
+CHESS,2017,"Caruana, Fabiano",4,-2.0,False,2799
+CHESS,2017,"Vachier-Lagrave, Maxime",5,-1.0,False,2789
+CHESS,2017,"So, Wesley",6,-1.0,False,2788
+CHESS,2017,"Kramnik, Vladimir",7,-4.0,False,2787
+CHESS,2017,"Anand, Viswanathan",8,0.0,False,2782
+CHESS,2017,"Nakamura, Hikaru",9,0.0,False,2781
+CHESS,2017,"Ding, Liren",10,6.0,False,2777
+CHESS,2017,"Grischuk, Alexander",11,12.0,False,2772
+CHESS,2017,"Svidler, Peter",12,5.0,False,2765
+CHESS,2017,"Karjakin, Sergey",13,-7.0,False,2760
+CHESS,2017,"Giri, Anish",14,-4.0,False,2752
+CHESS,2017,"Yu, Yangyi",15,9.0,False,2751
+CHESS,2017,"Topalov, Veselin",16,-1.0,False,2749
+CHESS,2017,"Radjabov, Teimour",17,17.0,False,2748
+CHESS,2017,"Harikrishna, P.",18,-7.0,False,2744
+CHESS,2017,"Wei, Yi",19,19.0,False,2743
+CHESS,2017,"Navara, David",20,6.0,False,2740
+CHESS,2017,"Le, Quang Liem",21,8.0,False,2737
+CHESS,2017,"Wojtaszek, Radoslaw",22,-4.0,False,2736
+CHESS,2017,"Matlakov, Maxim",23,23.0,False,2735
+CHESS,2017,"Li, Chao b",24,4.0,False,2732
+CHESS,2017,"Jakovenko, Dmitry",25,15.0,False,2730
+CHESS,2017,"Bu, Xiangzhi",26,13.0,False,2730
+CHESS,2017,"Nepomniachtchi, Ian",27,-14.0,False,2729
+CHESS,2017,"Ivanchuk, Vassily",28,-8.0,False,2726
+CHESS,2017,"Bacrot, Etienne",29,23.0,False,2725
+CHESS,2017,"Vitiugov, Nikita",30,-5.0,False,2722
+CHESS,2017,"Fedoseev, Vladimir",31,50.0,False,2718
+CHESS,2017,"Duda, Jan-Krzysztof",32,26.0,False,2717
+CHESS,2017,"Adams, Michael",33,-14.0,False,2715
+CHESS,2017,"Vidit, Santosh Gujrathi",34,20.0,False,2715
+CHESS,2017,"Tomashevsky, Evgeny",35,-4.0,False,2713
+CHESS,2017,"Andreikin, Dmitry",36,-14.0,False,2712
+CHESS,2017,"Eljanov, Pavel",37,-23.0,False,2711
+CHESS,2017,"Cheparinov, Ivan",38,15.0,False,2710
+CHESS,2017,"Wang, Hao",39,26.0,False,2709
+CHESS,2017,"Mamedov, Rauf",40,15.0,False,2709
+CHESS,2017,"Rapport, Richard",41,-11.0,False,2707
+CHESS,2017,"Vallejo Pons, Francisco",42,-9.0,False,2707
+CHESS,2017,"Naiditsch, Arkadij",43,13.0,False,2705
+CHESS,2017,"Kuzubov, Yuriy",44,57.0,True,2699
+CHESS,2017,"Rodshtein, Maxim",45,0.0,False,2699
+CHESS,2017,"Gelfand, Boris",46,-19.0,False,2697
+CHESS,2017,"Najer, Evgeniy",47,14.0,False,2696
+CHESS,2017,"Ponomariov, Ruslan",48,-11.0,False,2694
+CHESS,2017,"Artemiev, Vladislav",49,52.0,True,2691
+CHESS,2017,"Leko, Peter",50,-3.0,False,2691
+CHESS,2017,"Jobava, Baadur",51,-9.0,False,2690
+CHESS,2017,"Wang, Yue",52,-17.0,False,2690
+CHESS,2017,"Inarkiev, Ernesto",53,-17.0,False,2689
+CHESS,2017,"Kryvoruchko, Yuriy",54,-11.0,False,2689
+CHESS,2017,"Amin, Bassem",55,35.0,False,2689
+CHESS,2017,"Malakhov, Vladimir",56,-24.0,False,2686
+CHESS,2017,"Sadler, Matthew D",57,15.0,False,2685
+CHESS,2017,"Dubov, Daniil",58,38.0,False,2683
+CHESS,2017,"Kasimdzhanov, Rustam",59,-9.0,False,2683
+CHESS,2017,"Rublevsky, Sergei",60,-1.0,False,2683
+CHESS,2017,"Almasi, Zoltan",61,-20.0,False,2682
+CHESS,2017,"Onischuk, Alexander",62,18.0,False,2681
+CHESS,2017,"Sasikiran, Krishnan",63,29.0,False,2680
+CHESS,2017,"Hou, Yifan",64,37.0,True,2680
+CHESS,2017,"Short, Nigel D",65,-2.0,False,2678
+CHESS,2017,"Kamsky, Gata",66,25.0,False,2677
+CHESS,2017,"Howell, David W L",67,34.0,True,2676
+CHESS,2017,"Motylev, Alexander",68,21.0,False,2675
+CHESS,2017,"Sutovsky, Emil",69,32.0,True,2673
+CHESS,2017,"Bruzon Batista, Lazaro",70,31.0,True,2672
+CHESS,2017,"Kravtsiv, Martyn",71,30.0,True,2672
+CHESS,2017,"Sargissian, Gabriel",72,12.0,False,2672
+CHESS,2017,"Nisipeanu, Liviu-Dieter",73,-13.0,False,2671
+CHESS,2017,"Krasenkow, Michal",74,27.0,True,2671
+CHESS,2017,"Ni, Hua",75,13.0,False,2671
+CHESS,2017,"Saric, Ivan",76,25.0,True,2669
+CHESS,2017,"Moiseenko, Alexander",77,22.0,False,2667
+CHESS,2017,"Akopian, Vladimir",78,-11.0,False,2667
+CHESS,2017,"Anton Guijarro, David",79,22.0,True,2666
+CHESS,2017,"Iturrizaga Bonelli, Eduardo",80,21.0,True,2665
+CHESS,2017,"Morozevich, Alexander",81,-15.0,False,2665
+CHESS,2017,"Fressinet, Laurent",82,-9.0,False,2662
+CHESS,2017,"Shankland, Samuel",83,18.0,True,2662
+CHESS,2017,"Cori, Jorge",84,17.0,True,2660
+CHESS,2017,"Demchenko, Anton",85,16.0,True,2660
+CHESS,2017,"Ipatov, Alexander",86,11.0,False,2659
+CHESS,2017,"Berkes, Ferenc",87,14.0,True,2658
+CHESS,2017,"Ragger, Markus",88,-37.0,False,2657
+CHESS,2017,"Granda Zuniga, Julio E",89,12.0,True,2657
+CHESS,2017,"Nabaty, Tamir",90,11.0,True,2657
+CHESS,2017,"Van Wely, Loek",91,-47.0,False,2657
+CHESS,2017,"Grachev, Boris",92,9.0,True,2657
+CHESS,2017,"Negi, Parimarjan",93,-16.0,False,2656
+CHESS,2017,"Lenic, Luka",94,7.0,True,2655
+CHESS,2017,"Adhiban, B.",95,-9.0,False,2655
+CHESS,2017,"Jones, Gawain C B",96,-13.0,False,2654
+CHESS,2017,"Rakhmanov, Aleksandr",97,-15.0,False,2653
+CHESS,2017,"Dreev, Aleksey",98,3.0,True,2653
+CHESS,2017,"Korobov, Anton",99,-51.0,False,2652
+CHESS,2017,"Kovalyov, Anton",100,1.0,True,2652
+CHESS,2016,"Carlsen, Magnus",1,0.0,False,2840
+CHESS,2016,"Caruana, Fabiano",2,5.0,False,2823
+CHESS,2016,"Kramnik, Vladimir",3,1.0,False,2809
+CHESS,2016,"Vachier-Lagrave, Maxime",4,7.0,False,2804
+CHESS,2016,"So, Wesley",5,5.0,False,2794
+CHESS,2016,"Karjakin, Sergey",6,6.0,False,2785
+CHESS,2016,"Aronian, Levon",7,-1.0,False,2785
+CHESS,2016,"Anand, Viswanathan",8,-5.0,False,2779
+CHESS,2016,"Nakamura, Hikaru",9,-4.0,False,2779
+CHESS,2016,"Giri, Anish",10,-2.0,False,2771
+CHESS,2016,"Harikrishna, P.",11,8.0,False,2770
+CHESS,2016,"Mamedyarov, Shakhriyar",12,4.0,False,2768
+CHESS,2016,"Nepomniachtchi, Ian",13,27.0,False,2767
+CHESS,2016,"Eljanov, Pavel",14,-1.0,False,2762
+CHESS,2016,"Topalov, Veselin",15,-13.0,False,2760
+CHESS,2016,"Ding, Liren",16,-7.0,False,2757
+CHESS,2016,"Svidler, Peter",17,-3.0,False,2753
+CHESS,2016,"Wojtaszek, Radoslaw",18,13.0,False,2749
+CHESS,2016,"Adams, Michael",19,1.0,False,2748
+CHESS,2016,"Ivanchuk, Vassily",20,17.0,False,2747
+CHESS,2016,"Dominguez Perez, Leinier",21,3.0,False,2739
+CHESS,2016,"Andreikin, Dmitry",22,1.0,False,2737
+CHESS,2016,"Grischuk, Alexander",23,-6.0,False,2737
+CHESS,2016,"Yu, Yangyi",24,-2.0,False,2729
+CHESS,2016,"Vitiugov, Nikita",25,5.0,False,2726
+CHESS,2016,"Navara, David",26,0.0,False,2725
+CHESS,2016,"Gelfand, Boris",27,-2.0,False,2725
+CHESS,2016,"Li, Chao b",28,-13.0,False,2720
+CHESS,2016,"Le, Quang Liem",29,3.0,False,2718
+CHESS,2016,"Rapport, Richard",30,3.0,False,2717
+CHESS,2016,"Tomashevsky, Evgeny",31,-13.0,False,2716
+CHESS,2016,"Malakhov, Vladimir",32,15.0,False,2713
+CHESS,2016,"Vallejo Pons, Francisco",33,31.0,False,2711
+CHESS,2016,"Radjabov, Teimour",34,-6.0,False,2710
+CHESS,2016,"Wang, Yue",35,-6.0,False,2710
+CHESS,2016,"Inarkiev, Ernesto",36,39.0,False,2709
+CHESS,2016,"Ponomariov, Ruslan",37,1.0,False,2709
+CHESS,2016,"Wei, Yi",38,-11.0,False,2707
+CHESS,2016,"Bu, Xiangzhi",39,-4.0,False,2705
+CHESS,2016,"Jakovenko, Dmitry",40,-19.0,False,2704
+CHESS,2016,"Almasi, Zoltan",41,11.0,False,2703
+CHESS,2016,"Jobava, Baadur",42,28.0,False,2702
+CHESS,2016,"Kryvoruchko, Yuriy",43,-7.0,False,2699
+CHESS,2016,"Van Wely, Loek",44,57.0,True,2696
+CHESS,2016,"Rodshtein, Maxim",45,17.0,False,2695
+CHESS,2016,"Matlakov, Maxim",46,12.0,False,2694
+CHESS,2016,"Leko, Peter",47,-5.0,False,2693
+CHESS,2016,"Korobov, Anton",48,-14.0,False,2692
+CHESS,2016,"Safarli, Eltaj",49,51.0,False,2691
+CHESS,2016,"Kasimdzhanov, Rustam",50,-6.0,False,2691
+CHESS,2016,"Ragger, Markus",51,4.0,False,2689
+CHESS,2016,"Bacrot, Etienne",52,-3.0,False,2689
+CHESS,2016,"Cheparinov, Ivan",53,7.0,False,2689
+CHESS,2016,"Vidit, Santosh Gujrathi",54,47.0,True,2689
+CHESS,2016,"Mamedov, Rauf",55,46.0,True,2688
+CHESS,2016,"Naiditsch, Arkadij",56,-11.0,False,2687
+CHESS,2016,"Kovalenko, Igor",57,4.0,False,2684
+CHESS,2016,"Duda, Jan-Krzysztof",58,24.0,False,2684
+CHESS,2016,"Rublevsky, Sergei",59,-8.0,False,2681
+CHESS,2016,"Nisipeanu, Liviu-Dieter",60,7.0,False,2680
+CHESS,2016,"Najer, Evgeniy",61,8.0,False,2679
+CHESS,2016,"Zvjaginsev, Vadim",62,22.0,False,2679
+CHESS,2016,"Short, Nigel D",63,-6.0,False,2679
+CHESS,2016,"Areshchenko, Alexander",64,-1.0,False,2678
+CHESS,2016,"Wang, Hao",65,-24.0,False,2678
+CHESS,2016,"Morozevich, Alexander",66,-16.0,False,2676
+CHESS,2016,"Akopian, Vladimir",67,34.0,True,2675
+CHESS,2016,"Robson, Ray",68,21.0,False,2675
+CHESS,2016,"Shankland, Samuel L",69,32.0,True,2674
+CHESS,2016,"Shirov, Alexei",70,-5.0,False,2673
+CHESS,2016,"Movsesian, Sergei",71,17.0,False,2673
+CHESS,2016,"Sadler, Matthew D",72,11.0,False,2672
+CHESS,2016,"Fressinet, Laurent",73,-34.0,False,2672
+CHESS,2016,"Zhigalko, Sergei",74,20.0,False,2671
+CHESS,2016,"Riazantsev, Alexander",75,26.0,True,2671
+CHESS,2016,"Sjugirov, Sanan",76,25.0,True,2670
+CHESS,2016,"Negi, Parimarjan",77,3.0,False,2670
+CHESS,2016,"Smirin, Ilia",78,12.0,False,2669
+CHESS,2016,"Ganguly, Surya Shekhar",79,22.0,True,2668
+CHESS,2016,"Onischuk, Alexander",80,1.0,False,2668
+CHESS,2016,"Fedoseev, Vladimir",81,-2.0,False,2667
+CHESS,2016,"Rakhmanov, Aleksandr",82,19.0,True,2667
+CHESS,2016,"Jones, Gawain C B",83,18.0,True,2667
+CHESS,2016,"Sargissian, Gabriel",84,-41.0,False,2667
+CHESS,2016,"Xiong, Jeffery",85,16.0,True,2666
+CHESS,2016,"Adhiban, B.",86,-12.0,False,2666
+CHESS,2016,"Bareev, Evgeny",87,-19.0,False,2666
+CHESS,2016,"Ni, Hua",88,-40.0,False,2664
+CHESS,2016,"Motylev, Alexander",89,12.0,True,2663
+CHESS,2016,"Amin, Bassem",90,-12.0,False,2662
+CHESS,2016,"Kamsky, Gata",91,-19.0,False,2661
+CHESS,2016,"Sasikiran, Krishnan",92,9.0,True,2661
+CHESS,2016,"Laznicka, Viktor",93,-1.0,False,2661
+CHESS,2016,"Cordova, Emilio",94,7.0,True,2660
+CHESS,2016,"Markus, Robert",95,6.0,True,2660
+CHESS,2016,"Dubov, Daniil",96,-3.0,False,2660
+CHESS,2016,"Ipatov, Alexander",97,4.0,True,2660
+CHESS,2016,"Tkachiev, Vladislav",98,-13.0,False,2660
+CHESS,2016,"Moiseenko, Alexander",99,-46.0,False,2657
+CHESS,2016,"Piorun, Kacper",100,1.0,True,2657
+CHESS,2015,"Carlsen, Magnus",1,0.0,False,2834
+CHESS,2015,"Topalov, Veselin",2,2.0,False,2803
+CHESS,2015,"Anand, Viswanathan",3,3.0,False,2796
+CHESS,2015,"Kramnik, Vladimir",4,5.0,False,2796
+CHESS,2015,"Nakamura, Hikaru",5,2.0,False,2793
+CHESS,2015,"Aronian, Levon",6,-1.0,False,2788
+CHESS,2015,"Caruana, Fabiano",7,-5.0,False,2787
+CHESS,2015,"Giri, Anish",8,2.0,False,2784
+CHESS,2015,"Ding, Liren",9,14.0,False,2776
+CHESS,2015,"So, Wesley",10,2.0,False,2775
+CHESS,2015,"Vachier-Lagrave, Maxime",11,2.0,False,2773
+CHESS,2015,"Karjakin, Sergey",12,-4.0,False,2766
+CHESS,2015,"Eljanov, Pavel",13,15.0,False,2763
+CHESS,2015,"Svidler, Peter",14,3.0,False,2751
+CHESS,2015,"Li, Chao b",15,10.0,False,2750
+CHESS,2015,"Mamedyarov, Shakhriyar",16,-5.0,False,2748
+CHESS,2015,"Grischuk, Alexander",17,-14.0,False,2747
+CHESS,2015,"Tomashevsky, Evgeny",18,18.0,False,2744
+CHESS,2015,"Harikrishna, P.",19,7.0,False,2743
+CHESS,2015,"Adams, Michael",20,-6.0,False,2737
+CHESS,2015,"Jakovenko, Dmitry",21,1.0,False,2737
+CHESS,2015,"Yu, Yangyi",22,21.0,False,2736
+CHESS,2015,"Andreikin, Dmitry",23,-4.0,False,2732
+CHESS,2015,"Dominguez Perez, Leinier",24,5.0,False,2732
+CHESS,2015,"Gelfand, Boris",25,-9.0,False,2731
+CHESS,2015,"Navara, David",26,1.0,False,2730
+CHESS,2015,"Wei, Yi",27,53.0,False,2730
+CHESS,2015,"Radjabov, Teimour",28,-8.0,False,2726
+CHESS,2015,"Wang, Yue",29,2.0,False,2724
+CHESS,2015,"Vitiugov, Nikita",30,-12.0,False,2724
+CHESS,2015,"Wojtaszek, Radoslaw",31,-16.0,False,2723
+CHESS,2015,"Le, Quang Liem",32,33.0,False,2718
+CHESS,2015,"Rapport, Richard",33,0.0,False,2715
+CHESS,2015,"Korobov, Anton",34,17.0,False,2713
+CHESS,2015,"Bu, Xiangzhi",35,14.0,False,2712
+CHESS,2015,"Kryvoruchko, Yuriy",36,14.0,False,2711
+CHESS,2015,"Ivanchuk, Vassily",37,-3.0,False,2710
+CHESS,2015,"Ponomariov, Ruslan",38,-1.0,False,2710
+CHESS,2015,"Fressinet, Laurent",39,2.0,False,2707
+CHESS,2015,"Nepomniachtchi, Ian",40,-5.0,False,2707
+CHESS,2015,"Wang, Hao",41,-2.0,False,2707
+CHESS,2015,"Leko, Peter",42,-12.0,False,2705
+CHESS,2015,"Sargissian, Gabriel",43,9.0,False,2702
+CHESS,2015,"Kasimdzhanov, Rustam",44,1.0,False,2702
+CHESS,2015,"Naiditsch, Arkadij",45,-21.0,False,2698
+CHESS,2015,"Hammer, Jon Ludvig",46,55.0,True,2695
+CHESS,2015,"Malakhov, Vladimir",47,-7.0,False,2694
+CHESS,2015,"Ni, Hua",48,8.0,False,2693
+CHESS,2015,"Bacrot, Etienne",49,-17.0,False,2692
+CHESS,2015,"Morozevich, Alexander",50,-12.0,False,2692
+CHESS,2015,"Rublevsky, Sergei",51,-5.0,False,2692
+CHESS,2015,"Almasi, Zoltan",52,-8.0,False,2690
+CHESS,2015,"Moiseenko, Alexander",53,-5.0,False,2689
+CHESS,2015,"Howell, David W L",54,20.0,False,2688
+CHESS,2015,"Ragger, Markus",55,46.0,True,2687
+CHESS,2015,"Granda Zuniga, Julio E",56,45.0,True,2685
+CHESS,2015,"Short, Nigel D",57,33.0,False,2684
+CHESS,2015,"Matlakov, Maxim",58,-11.0,False,2684
+CHESS,2015,"Hou, Yifan",59,12.0,False,2683
+CHESS,2015,"Cheparinov, Ivan",60,-5.0,False,2682
+CHESS,2015,"Kovalenko, Igor",61,40.0,True,2680
+CHESS,2015,"Rodshtein, Maxim",62,5.0,False,2678
+CHESS,2015,"Areshchenko, Alexander",63,24.0,False,2677
+CHESS,2015,"Vallejo Pons, Francisco",64,-22.0,False,2676
+CHESS,2015,"Shirov, Alexei",65,3.0,False,2676
+CHESS,2015,"Artemiev, Vladislav",66,20.0,False,2676
+CHESS,2015,"Nisipeanu, Liviu-Dieter",67,26.0,False,2675
+CHESS,2015,"Bareev, Evgeny",68,33.0,True,2675
+CHESS,2015,"Najer, Evgeniy",69,32.0,True,2674
+CHESS,2015,"Jobava, Baadur",70,-49.0,False,2673
+CHESS,2015,"Postny, Evgeny",71,30.0,True,2670
+CHESS,2015,"Kamsky, Gata",72,-13.0,False,2669
+CHESS,2015,"McShane, Luke J",73,-1.0,False,2669
+CHESS,2015,"Adhiban, B.",74,27.0,True,2669
+CHESS,2015,"Inarkiev, Ernesto",75,-15.0,False,2668
+CHESS,2015,"Bruzon Batista, Lazaro",76,5.0,False,2666
+CHESS,2015,"Lysyj, Igor",77,-24.0,False,2666
+CHESS,2015,"Amin, Bassem",78,23.0,True,2665
+CHESS,2015,"Fedoseev, Vladimir",79,9.0,False,2664
+CHESS,2015,"Negi, Parimarjan",80,-2.0,False,2664
+CHESS,2015,"Onischuk, Alexander",81,3.0,False,2664
+CHESS,2015,"Duda, Jan-Krzysztof",82,19.0,True,2663
+CHESS,2015,"Sadler, Matthew D",83,13.0,False,2662
+CHESS,2015,"Zvjaginsev, Vadim",84,17.0,True,2662
+CHESS,2015,"Tkachiev, Vladislav",85,16.0,True,2660
+CHESS,2015,"Meier, Georg",86,15.0,True,2660
+CHESS,2015,"Ivanisevic, Ivan",87,14.0,True,2660
+CHESS,2015,"Movsesian, Sergei",88,7.0,False,2659
+CHESS,2015,"Robson, Ray",89,12.0,True,2659
+CHESS,2015,"Smirin, Ilia",90,11.0,True,2658
+CHESS,2015,"Bukavshin, Ivan",91,10.0,True,2657
+CHESS,2015,"Laznicka, Viktor",92,-22.0,False,2655
+CHESS,2015,"Dubov, Daniil",93,8.0,True,2655
+CHESS,2015,"Zhigalko, Sergei",94,-21.0,False,2655
+CHESS,2015,"Melkumyan, Hrant",95,-31.0,False,2654
+CHESS,2015,"Bologan, Viktor",96,5.0,True,2654
+CHESS,2015,"Saric, Ivan",97,-35.0,False,2654
+CHESS,2015,"Gharamian, Tigran",98,0.0,False,2654
+CHESS,2015,"Khismatullin, Denis",99,-20.0,False,2654
+CHESS,2015,"Safarli, Eltaj",100,1.0,True,2653
+CHESS,2014,"Carlsen, Magnus",1,0.0,False,2862
+CHESS,2014,"Caruana, Fabiano",2,5.0,False,2829
+CHESS,2014,"Grischuk, Alexander",3,3.0,False,2810
+CHESS,2014,"Topalov, Veselin",4,1.0,False,2800
+CHESS,2014,"Aronian, Levon",5,-3.0,False,2797
+CHESS,2014,"Anand, Viswanathan",6,3.0,False,2793
+CHESS,2014,"Nakamura, Hikaru",7,-3.0,False,2775
+CHESS,2014,"Karjakin, Sergey",8,4.0,False,2773
+CHESS,2014,"Kramnik, Vladimir",9,-6.0,False,2769
+CHESS,2014,"Giri, Anish",10,10.0,False,2768
+CHESS,2014,"Mamedyarov, Shakhriyar",11,0.0,False,2765
+CHESS,2014,"So, Wesley",12,18.0,False,2762
+CHESS,2014,"Vachier-Lagrave, Maxime",13,2.0,False,2758
+CHESS,2014,"Adams, Michael",14,-1.0,False,2745
+CHESS,2014,"Wojtaszek, Radoslaw",15,22.0,False,2744
+CHESS,2014,"Gelfand, Boris",16,-8.0,False,2743
+CHESS,2014,"Svidler, Peter",17,-7.0,False,2743
+CHESS,2014,"Vitiugov, Nikita",18,-2.0,False,2738
+CHESS,2014,"Andreikin, Dmitry",19,20.0,False,2737
+CHESS,2014,"Radjabov, Teimour",20,14.0,False,2734
+CHESS,2014,"Jobava, Baadur",21,25.0,False,2733
+CHESS,2014,"Jakovenko, Dmitry",22,5.0,False,2732
+CHESS,2014,"Ding, Liren",23,15.0,False,2732
+CHESS,2014,"Naiditsch, Arkadij",24,-6.0,False,2731
+CHESS,2014,"Li, Chao b",25,38.0,False,2730
+CHESS,2014,"Harikrishna, P.",26,16.0,False,2727
+CHESS,2014,"Navara, David",27,14.0,False,2727
+CHESS,2014,"Eljanov, Pavel",28,-7.0,False,2726
+CHESS,2014,"Dominguez Perez, Leinier",29,-15.0,False,2726
+CHESS,2014,"Leko, Peter",30,-6.0,False,2723
+CHESS,2014,"Wang, Yue",31,-6.0,False,2720
+CHESS,2014,"Bacrot, Etienne",32,-15.0,False,2718
+CHESS,2014,"Rapport, Richard",33,25.0,False,2716
+CHESS,2014,"Ivanchuk, Vassily",34,-12.0,False,2715
+CHESS,2014,"Nepomniachtchi, Ian",35,-6.0,False,2714
+CHESS,2014,"Tomashevsky, Evgeny",36,-4.0,False,2714
+CHESS,2014,"Ponomariov, Ruslan",37,-14.0,False,2713
+CHESS,2014,"Morozevich, Alexander",38,-12.0,False,2712
+CHESS,2014,"Wang, Hao",39,-20.0,False,2710
+CHESS,2014,"Malakhov, Vladimir",40,-9.0,False,2708
+CHESS,2014,"Fressinet, Laurent",41,2.0,False,2706
+CHESS,2014,"Vallejo Pons, Francisco",42,3.0,False,2705
+CHESS,2014,"Yu, Yangyi",43,38.0,False,2705
+CHESS,2014,"Almasi, Zoltan",44,-4.0,False,2704
+CHESS,2014,"Kasimdzhanov, Rustam",45,3.0,False,2703
+CHESS,2014,"Rublevsky, Sergei",46,-2.0,False,2698
+CHESS,2014,"Matlakov, Maxim",47,3.0,False,2695
+CHESS,2014,"Moiseenko, Alexander",48,-15.0,False,2694
+CHESS,2014,"Bu, Xiangzhi",49,10.0,False,2691
+CHESS,2014,"Kryvoruchko, Yuriy",50,-1.0,False,2688
+CHESS,2014,"Korobov, Anton",51,-16.0,False,2687
+CHESS,2014,"Sargissian, Gabriel",52,20.0,False,2687
+CHESS,2014,"Lysyj, Igor",53,29.0,False,2686
+CHESS,2014,"Riazantsev, Alexander",54,3.0,False,2684
+CHESS,2014,"Cheparinov, Ivan",55,20.0,False,2684
+CHESS,2014,"Ni, Hua",56,23.0,False,2683
+CHESS,2014,"Sasikiran, Krishnan",57,26.0,False,2682
+CHESS,2014,"Kuzubov, Yuriy",58,43.0,True,2681
+CHESS,2014,"Kamsky, Gata",59,-31.0,False,2681
+CHESS,2014,"Inarkiev, Ernesto",60,-9.0,False,2680
+CHESS,2014,"Motylev, Alexander",61,40.0,True,2680
+CHESS,2014,"Saric, Ivan",62,39.0,True,2679
+CHESS,2014,"Alekseev, Evgeny",63,-11.0,False,2679
+CHESS,2014,"Melkumyan, Hrant",64,37.0,True,2678
+CHESS,2014,"Le, Quang Liem",65,-18.0,False,2678
+CHESS,2014,"Tiviakov, Sergei",66,22.0,False,2677
+CHESS,2014,"Rodshtein, Maxim",67,-3.0,False,2676
+CHESS,2014,"Shirov, Alexei",68,-15.0,False,2675
+CHESS,2014,"Polgar, Judit",69,-15.0,False,2675
+CHESS,2014,"Laznicka, Viktor",70,-4.0,False,2673
+CHESS,2014,"Hou, Yifan",71,30.0,True,2673
+CHESS,2014,"McShane, Luke J",72,-12.0,False,2672
+CHESS,2014,"Zhigalko, Sergei",73,-8.0,False,2672
+CHESS,2014,"Howell, David W L",74,27.0,True,2670
+CHESS,2014,"Fedorchuk, Sergey A.",75,11.0,False,2669
+CHESS,2014,"Berkes, Ferenc",76,-6.0,False,2669
+CHESS,2014,"Grachev, Boris",77,3.0,False,2669
+CHESS,2014,"Negi, Parimarjan",78,-1.0,False,2669
+CHESS,2014,"Khismatullin, Denis",79,-6.0,False,2668
+CHESS,2014,"Wei, Yi",80,21.0,True,2668
+CHESS,2014,"Bruzon Batista, Lazaro",81,-10.0,False,2668
+CHESS,2014,"Van Wely, Loek",82,-13.0,False,2667
+CHESS,2014,"Sjugirov, Sanan",83,18.0,True,2666
+CHESS,2014,"Onischuk, Alexander",84,-8.0,False,2665
+CHESS,2014,"Bartel, Mateusz",85,16.0,True,2664
+CHESS,2014,"Artemiev, Vladislav",86,15.0,True,2662
+CHESS,2014,"Areshchenko, Alexander",87,-51.0,False,2661
+CHESS,2014,"Fedoseev, Vladimir",88,13.0,True,2661
+CHESS,2014,"Jones, Gawain C B",89,7.0,False,2661
+CHESS,2014,"Short, Nigel D",90,-28.0,False,2661
+CHESS,2014,"Edouard, Romain",91,-7.0,False,2659
+CHESS,2014,"Nguyen, Ngoc Truong Son",92,9.0,True,2659
+CHESS,2014,"Nisipeanu, Liviu-Dieter",93,-38.0,False,2658
+CHESS,2014,"Mamedov, Rauf",94,-3.0,False,2658
+CHESS,2014,"Movsesian, Sergei",95,-39.0,False,2658
+CHESS,2014,"Sadler, Matthew D",96,5.0,True,2658
+CHESS,2014,"Balogh, Csaba",97,4.0,True,2658
+CHESS,2014,"Gharamian, Tigran",98,-6.0,False,2658
+CHESS,2014,"Akopian, Vladimir",99,-38.0,False,2657
+CHESS,2014,"Baklan, Vladimir",100,1.0,True,2655
+TENNIS,2019,Rafael Nadal,1,1.0,False,"9,985"
+TENNIS,2019,Novak Djokovic,2,-1.0,False,"9,145"
+TENNIS,2019,Roger Federer,3,0.0,False,"6,590"
+TENNIS,2019,Dominic Thiem,4,4.0,False,"5,825"
+TENNIS,2019,Daniil Medvedev,5,11.0,False,"5,705"
+TENNIS,2019,Stefanos Tsitsipas,6,9.0,False,"5,300"
+TENNIS,2019,Alexander Zverev,7,-3.0,False,"3,345"
+TENNIS,2019,Matteo Berrettini,8,46.0,False,"2,870"
+TENNIS,2019,Roberto Bautista Agut,9,15.0,False,"2,540"
+TENNIS,2019,Gael Monfils,10,19.0,False,"2,530"
+TENNIS,2019,David Goffin,11,11.0,False,"2,335"
+TENNIS,2019,Fabio Fognini,12,1.0,False,"2,290"
+TENNIS,2019,Kei Nishikori,13,-4.0,False,"2,180"
+TENNIS,2019,Diego Schwartzman,14,3.0,False,"2,125"
+TENNIS,2019,Denis Shapovalov,15,12.0,False,"2,050"
+TENNIS,2019,Stan Wawrinka,16,50.0,False,"2,000"
+TENNIS,2019,Karen Khachanov,17,-6.0,False,"1,840"
+TENNIS,2019,Alex de Minaur,18,13.0,False,"1,775"
+TENNIS,2019,John Isner,19,-9.0,False,"1,770"
+TENNIS,2019,Grigor Dimitrov,20,-1.0,False,"1,747"
+TENNIS,2019,Felix Auger-Aliassime,21,80.0,True,"1,636"
+TENNIS,2019,Lucas Pouille,22,10.0,False,"1,600"
+TENNIS,2019,Andrey Rublev,23,45.0,False,"1,584"
+TENNIS,2019,Benoit Paire,24,28.0,False,"1,538"
+TENNIS,2019,Guido Pella,25,33.0,False,"1,530"
+TENNIS,2019,Nikoloz Basilashvili,26,-5.0,False,"1,450"
+TENNIS,2019,Pablo Carreno Busta,27,-4.0,False,"1,422"
+TENNIS,2019,Borna Coric,28,-16.0,False,"1,415"
+TENNIS,2019,Jo-Wilfried Tsonga,29,72.0,True,"1,410"
+TENNIS,2019,Nick Kyrgios,30,5.0,False,"1,395"
+TENNIS,2019,Milos Raonic,31,-13.0,False,"1,350"
+TENNIS,2019,Taylor Fritz,32,17.0,False,"1,315"
+TENNIS,2019,Cristian Garin,33,52.0,False,"1,297"
+TENNIS,2019,Dusan Lajovic,34,14.0,False,"1,296"
+TENNIS,2019,Jan-Lennard Struff,35,22.0,False,"1,245"
+TENNIS,2019,Reilly Opelka,36,64.0,False,"1,243"
+TENNIS,2019,Hubert Hurkacz,37,50.0,False,"1,198"
+TENNIS,2019,Laslo Djere,38,56.0,False,"1,171"
+TENNIS,2019,Marin Cilic,39,-32.0,False,"1,165"
+TENNIS,2019,Filip Krajinovic,40,55.0,False,"1,148"
+TENNIS,2019,Albert Ramos-Vinolas,41,24.0,False,"1,130"
+TENNIS,2019,Daniel Evans,42,59.0,True,"1,124"
+TENNIS,2019,Adrian Mannarino,43,-1.0,False,"1,111"
+TENNIS,2019,Sam Querrey,44,7.0,False,"1,100"
+TENNIS,2019,Pablo Cuevas,45,44.0,False,"1,097"
+TENNIS,2019,Radu Albot,46,53.0,False,"1,067"
+TENNIS,2019,Frances Tiafoe,47,-8.0,False,"1,050"
+TENNIS,2019,John Millman,48,-10.0,False,"1,026"
+TENNIS,2019,Fernando Verdasco,49,-21.0,False,"1,025"
+TENNIS,2019,Juan Ignacio Londero,50,51.0,True,"1,017"
+TENNIS,2019,Jeremy Chardy,51,-11.0,False,990
+TENNIS,2019,Lorenzo Sonego,52,49.0,True,990
+TENNIS,2019,Cameron Norrie,53,38.0,False,975
+TENNIS,2019,Casper Ruud,54,47.0,True,956
+TENNIS,2019,Gilles Simon,55,-25.0,False,955
+TENNIS,2019,Alexander Bublik,56,45.0,True,919
+TENNIS,2019,Ugo Humbert,57,27.0,False,912
+TENNIS,2019,Aljaz Bedene,58,9.0,False,905
+TENNIS,2019,Miomir Kecmanovic,59,42.0,True,901
+TENNIS,2019,Joao Sousa,60,-16.0,False,891
+TENNIS,2019,Richard Gasquet,61,-35.0,False,890
+TENNIS,2019,Feliciano Lopez,62,2.0,False,888
+TENNIS,2019,Jordan Thompson,63,9.0,False,878
+TENNIS,2019,Pablo Andujar,64,18.0,False,867
+TENNIS,2019,Pierre-Hugues Herbert,65,-10.0,False,865
+TENNIS,2019,Ricardas Berankis,66,35.0,True,836
+TENNIS,2019,Mikhail Kukushkin,67,-14.0,False,816
+TENNIS,2019,Tennys Sandgren,68,-7.0,False,803
+TENNIS,2019,Kyle Edmund,69,-55.0,False,800
+TENNIS,2019,Marton Fucsovics,70,-34.0,False,790
+TENNIS,2019,Marco Cecchinato,71,-51.0,False,780
+TENNIS,2019,Andreas Seppi,72,-35.0,False,776
+TENNIS,2019,Yoshihito Nishioka,73,2.0,False,764
+TENNIS,2019,Mikael Ymer,74,27.0,True,763
+TENNIS,2019,Hugo Dellien,75,26.0,True,743
+TENNIS,2019,Federico Delbonis,76,4.0,False,732
+TENNIS,2019,Nicolas Jarry,77,-34.0,False,695
+TENNIS,2019,Jannik Sinner,78,23.0,True,671
+TENNIS,2019,Philipp Kohlschreiber,79,-45.0,False,665
+TENNIS,2019,Roberto Carballes Baena,80,-7.0,False,664
+TENNIS,2019,Yasutaka Uchiyama,81,20.0,True,651
+TENNIS,2019,Gregoire Barrere,82,19.0,True,648
+TENNIS,2019,Corentin Moutet,83,18.0,True,638
+TENNIS,2019,Stefano Travaglia,84,17.0,True,637
+TENNIS,2019,Steve Johnson,85,-52.0,False,630
+TENNIS,2019,Jaume Munar,86,-5.0,False,628
+TENNIS,2019,Alejandro Davidovich Fokina,87,14.0,True,627
+TENNIS,2019,Soonwoo Kwon,88,13.0,True,622
+TENNIS,2019,Thiago Monteiro,89,12.0,True,616
+TENNIS,2019,Tommy Paul,90,11.0,True,611
+TENNIS,2019,Kevin Anderson,91,-85.0,False,610
+TENNIS,2019,Leonardo Mayer,92,-36.0,False,603
+TENNIS,2019,Damir Dzumhur,93,-46.0,False,594
+TENNIS,2019,Dominik Koepfer,94,7.0,True,592
+TENNIS,2019,Ivo Karlovic,95,6.0,True,586
+TENNIS,2019,Salvatore Caruso,96,5.0,True,586
+TENNIS,2019,Alexei Popyrin,97,4.0,True,585
+TENNIS,2019,Egor Gerasimov,98,3.0,True,581
+TENNIS,2019,Lloyd Harris,99,2.0,True,576
+TENNIS,2019,James Duckworth,100,1.0,True,576
+TENNIS,2018,Novak Djokovic,1,11.0,False,"9,045"
+TENNIS,2018,Rafael Nadal,2,-1.0,False,"7,480"
+TENNIS,2018,Roger Federer,3,-1.0,False,"6,420"
+TENNIS,2018,Alexander Zverev,4,0.0,False,"6,385"
+TENNIS,2018,Juan Martin del Potro,5,6.0,False,"5,300"
+TENNIS,2018,Kevin Anderson,6,8.0,False,"4,710"
+TENNIS,2018,Marin Cilic,7,-1.0,False,"4,250"
+TENNIS,2018,Dominic Thiem,8,-3.0,False,"4,095"
+TENNIS,2018,Kei Nishikori,9,13.0,False,"3,590"
+TENNIS,2018,John Isner,10,7.0,False,"3,155"
+TENNIS,2018,Karen Khachanov,11,34.0,False,"2,835"
+TENNIS,2018,Borna Coric,12,36.0,False,"2,480"
+TENNIS,2018,Fabio Fognini,13,14.0,False,"2,315"
+TENNIS,2018,Kyle Edmund,14,36.0,False,"2,150"
+TENNIS,2018,Stefanos Tsitsipas,15,76.0,False,"2,095"
+TENNIS,2018,Daniil Medvedev,16,49.0,False,"1,977"
+TENNIS,2018,Diego Schwartzman,17,9.0,False,"1,880"
+TENNIS,2018,Milos Raonic,18,6.0,False,"1,855"
+TENNIS,2018,Grigor Dimitrov,19,-16.0,False,"1,835"
+TENNIS,2018,Marco Cecchinato,20,81.0,True,"1,819"
+TENNIS,2018,Nikoloz Basilashvili,21,38.0,False,"1,795"
+TENNIS,2018,David Goffin,22,-15.0,False,"1,785"
+TENNIS,2018,Pablo Carreno Busta,23,-13.0,False,"1,705"
+TENNIS,2018,Roberto Bautista Agut,24,-4.0,False,"1,605"
+TENNIS,2018,Hyeon Chung,25,33.0,False,"1,585"
+TENNIS,2018,Richard Gasquet,26,5.0,False,"1,535"
+TENNIS,2018,Denis Shapovalov,27,24.0,False,"1,440"
+TENNIS,2018,Fernando Verdasco,28,7.0,False,"1,410"
+TENNIS,2018,Gael Monfils,29,17.0,False,"1,400"
+TENNIS,2018,Gilles Simon,30,59.0,False,"1,370"
+TENNIS,2018,Alex de Minaur,31,70.0,True,"1,298"
+TENNIS,2018,Lucas Pouille,32,-14.0,False,"1,245"
+TENNIS,2018,Steve Johnson,33,11.0,False,"1,190"
+TENNIS,2018,Philipp Kohlschreiber,34,-5.0,False,"1,125"
+TENNIS,2018,Nick Kyrgios,35,-14.0,False,"1,125"
+TENNIS,2018,Marton Fucsovics,36,49.0,False,"1,122"
+TENNIS,2018,Andreas Seppi,37,49.0,False,"1,106"
+TENNIS,2018,John Millman,38,63.0,True,"1,083"
+TENNIS,2018,Frances Tiafoe,39,40.0,False,"1,080"
+TENNIS,2018,Jeremy Chardy,40,38.0,False,"1,050"
+TENNIS,2018,Martin Klizan,41,60.0,True,"1,048"
+TENNIS,2018,Adrian Mannarino,42,-14.0,False,"1,045"
+TENNIS,2018,Nicolas Jarry,43,57.0,False,"1,022"
+TENNIS,2018,Joao Sousa,44,13.0,False,"1,017"
+TENNIS,2018,Malek Jaziri,45,53.0,False,"1,014"
+TENNIS,2018,Matthew Ebden,46,30.0,False,"1,001"
+TENNIS,2018,Damir Dzumhur,47,-17.0,False,985
+TENNIS,2018,Dusan Lajovic,48,27.0,False,985
+TENNIS,2018,Taylor Fritz,49,52.0,True,974
+TENNIS,2018,Robin Haase,50,-8.0,False,965
+TENNIS,2018,Sam Querrey,51,-38.0,False,955
+TENNIS,2018,Benoit Paire,52,-11.0,False,935
+TENNIS,2018,Mikhail Kukushkin,53,21.0,False,935
+TENNIS,2018,Matteo Berrettini,54,47.0,True,932
+TENNIS,2018,Pierre-Hugues Herbert,55,26.0,False,903
+TENNIS,2018,Leonardo Mayer,56,-4.0,False,895
+TENNIS,2018,Jan-Lennard Struff,57,-4.0,False,875
+TENNIS,2018,Guido Pella,58,6.0,False,860
+TENNIS,2018,Peter Gojowczyk,59,1.0,False,855
+TENNIS,2018,Marius Copil,60,33.0,False,823
+TENNIS,2018,Tennys Sandgren,61,35.0,False,814
+TENNIS,2018,Ryan Harrison,62,-15.0,False,810
+TENNIS,2018,Denis Kudla,63,38.0,True,810
+TENNIS,2018,Feliciano Lopez,64,-28.0,False,795
+TENNIS,2018,Albert Ramos-Vinolas,65,-42.0,False,790
+TENNIS,2018,Stan Wawrinka,66,-57.0,False,785
+TENNIS,2018,Aljaz Bedene,67,-18.0,False,780
+TENNIS,2018,Andrey Rublev,68,-29.0,False,760
+TENNIS,2018,Mischa Zverev,69,-36.0,False,750
+TENNIS,2018,Vasek Pospisil,70,31.0,True,716
+TENNIS,2018,Tomas Berdych,71,-52.0,False,715
+TENNIS,2018,Jordan Thompson,72,22.0,False,715
+TENNIS,2018,Roberto Carballes Baena,73,28.0,True,714
+TENNIS,2018,Maximilian Marterer,74,16.0,False,706
+TENNIS,2018,Yoshihito Nishioka,75,26.0,True,701
+TENNIS,2018,Bradley Klahn,76,25.0,True,699
+TENNIS,2018,Taro Daniel,77,22.0,False,691
+TENNIS,2018,Mackenzie McDonald,78,23.0,True,688
+TENNIS,2018,Guido Andreozzi,79,22.0,True,680
+TENNIS,2018,Federico Delbonis,80,-12.0,False,678
+TENNIS,2018,Jaume Munar,81,20.0,True,661
+TENNIS,2018,Pablo Andujar,82,19.0,True,656
+TENNIS,2018,Bernard Tomic,83,18.0,True,655
+TENNIS,2018,Ugo Humbert,84,17.0,True,653
+TENNIS,2018,Cristian Garin,85,16.0,True,648
+TENNIS,2018,Jozef Kovalik,86,15.0,True,637
+TENNIS,2018,Hubert Hurkacz,87,14.0,True,636
+TENNIS,2018,Mirza Basic,88,13.0,True,635
+TENNIS,2018,Pablo Cuevas,89,-57.0,False,630
+TENNIS,2018,Jiri Vesely,90,-28.0,False,629
+TENNIS,2018,Cameron Norrie,91,10.0,True,627
+TENNIS,2018,Ilya Ivashka,92,9.0,True,622
+TENNIS,2018,Denis Istomin,93,-30.0,False,622
+TENNIS,2018,Laslo Djere,94,-6.0,False,621
+TENNIS,2018,Filip Krajinovic,95,-61.0,False,620
+TENNIS,2018,Ernests Gulbis,96,5.0,True,611
+TENNIS,2018,Marcel Granollers,97,4.0,True,598
+TENNIS,2018,Evgeny Donskoy,98,-26.0,False,594
+TENNIS,2018,Radu Albot,99,-12.0,False,592
+TENNIS,2018,Reilly Opelka,100,1.0,True,590
+TENNIS,2017,Rafael Nadal,1,8.0,False,"10,645"
+TENNIS,2017,Roger Federer,2,14.0,False,"9,605"
+TENNIS,2017,Grigor Dimitrov,3,14.0,False,"5,150"
+TENNIS,2017,Alexander Zverev,4,20.0,False,"4,610"
+TENNIS,2017,Dominic Thiem,5,3.0,False,"4,015"
+TENNIS,2017,Marin Cilic,6,0.0,False,"3,805"
+TENNIS,2017,David Goffin,7,4.0,False,"3,775"
+TENNIS,2017,Jack Sock,8,15.0,False,"3,165"
+TENNIS,2017,Stan Wawrinka,9,-5.0,False,"3,150"
+TENNIS,2017,Pablo Carreno Busta,10,20.0,False,"2,615"
+TENNIS,2017,Juan Martin del Potro,11,27.0,False,"2,595"
+TENNIS,2017,Novak Djokovic,12,-10.0,False,"2,585"
+TENNIS,2017,Sam Querrey,13,18.0,False,"2,535"
+TENNIS,2017,Kevin Anderson,14,53.0,False,"2,480"
+TENNIS,2017,Jo-Wilfried Tsonga,15,-3.0,False,"2,320"
+TENNIS,2017,Andy Murray,16,-15.0,False,"2,290"
+TENNIS,2017,John Isner,17,2.0,False,"2,265"
+TENNIS,2017,Lucas Pouille,18,-3.0,False,"2,235"
+TENNIS,2017,Tomas Berdych,19,-9.0,False,"2,095"
+TENNIS,2017,Roberto Bautista Agut,20,-6.0,False,"2,015"
+TENNIS,2017,Nick Kyrgios,21,-8.0,False,"2,010"
+TENNIS,2017,Kei Nishikori,22,-17.0,False,"1,885"
+TENNIS,2017,Albert Ramos-Vinolas,23,4.0,False,"1,845"
+TENNIS,2017,Milos Raonic,24,-21.0,False,"1,795"
+TENNIS,2017,Gilles Muller,25,9.0,False,"1,695"
+TENNIS,2017,Diego Schwartzman,26,26.0,False,"1,675"
+TENNIS,2017,Fabio Fognini,27,22.0,False,"1,670"
+TENNIS,2017,Adrian Mannarino,28,32.0,False,"1,635"
+TENNIS,2017,Philipp Kohlschreiber,29,3.0,False,"1,440"
+TENNIS,2017,Damir Dzumhur,30,47.0,False,"1,391"
+TENNIS,2017,Richard Gasquet,31,-13.0,False,"1,375"
+TENNIS,2017,Pablo Cuevas,32,-10.0,False,"1,370"
+TENNIS,2017,Mischa Zverev,33,18.0,False,"1,302"
+TENNIS,2017,Filip Krajinovic,34,67.0,True,"1,298"
+TENNIS,2017,Fernando Verdasco,35,7.0,False,"1,295"
+TENNIS,2017,Feliciano Lopez,36,-8.0,False,"1,295"
+TENNIS,2017,David Ferrer,37,-16.0,False,"1,290"
+TENNIS,2017,Alexandr Dolgopolov,38,24.0,False,"1,231"
+TENNIS,2017,Andrey Rublev,39,62.0,True,"1,229"
+TENNIS,2017,Yuichi Sugita,40,61.0,True,"1,219"
+TENNIS,2017,Benoit Paire,41,6.0,False,"1,155"
+TENNIS,2017,Robin Haase,42,17.0,False,"1,130"
+TENNIS,2017,Paolo Lorenzi,43,-3.0,False,"1,095"
+TENNIS,2017,Steve Johnson,44,-11.0,False,"1,055"
+TENNIS,2017,Karen Khachanov,45,8.0,False,"1,030"
+TENNIS,2017,Gael Monfils,46,-39.0,False,"1,015"
+TENNIS,2017,Ryan Harrison,47,43.0,False,"1,010"
+TENNIS,2017,Borna Coric,48,0.0,False,"1,001"
+TENNIS,2017,Aljaz Bedene,49,52.0,True,993
+TENNIS,2017,Kyle Edmund,50,-5.0,False,992
+TENNIS,2017,Denis Shapovalov,51,50.0,True,981
+TENNIS,2017,Leonardo Mayer,52,49.0,True,909
+TENNIS,2017,Jan-Lennard Struff,53,10.0,False,898
+TENNIS,2017,Jared Donaldson,54,47.0,True,890
+TENNIS,2017,Viktor Troicki,55,-26.0,False,880
+TENNIS,2017,Julien Benneteau,56,45.0,True,855
+TENNIS,2017,Joao Sousa,57,-14.0,False,850
+TENNIS,2017,Hyeon Chung,58,43.0,True,844
+TENNIS,2017,Nikoloz Basilashvili,59,35.0,False,826
+TENNIS,2017,Peter Gojowczyk,60,41.0,True,817
+TENNIS,2017,Donald Young,61,27.0,False,816
+TENNIS,2017,Jiri Vesely,62,-7.0,False,815
+TENNIS,2017,Denis Istomin,63,38.0,True,809
+TENNIS,2017,Guido Pella,64,16.0,False,774
+TENNIS,2017,Daniil Medvedev,65,34.0,False,772
+TENNIS,2017,Horacio Zeballos,66,5.0,False,768
+TENNIS,2017,Dudi Sela,67,29.0,False,755
+TENNIS,2017,Federico Delbonis,68,-27.0,False,755
+TENNIS,2017,Florian Mayer,69,-19.0,False,718
+TENNIS,2017,Guillermo Garcia-Lopez,70,0.0,False,714
+TENNIS,2017,Yen-Hsun Lu,71,-7.0,False,704
+TENNIS,2017,Evgeny Donskoy,72,29.0,True,704
+TENNIS,2017,Thomas Fabbiano,73,28.0,True,701
+TENNIS,2017,Mikhail Kukushkin,74,15.0,False,693
+TENNIS,2017,Dusan Lajovic,75,18.0,False,687
+TENNIS,2017,Matthew Ebden,76,25.0,True,670
+TENNIS,2017,Steve Darcis,77,9.0,False,667
+TENNIS,2017,Jeremy Chardy,78,-9.0,False,665
+TENNIS,2017,Frances Tiafoe,79,22.0,True,662
+TENNIS,2017,Ivo Karlovic,80,-60.0,False,660
+TENNIS,2017,Pierre-Hugues Herbert,81,-3.0,False,652
+TENNIS,2017,Cedrik-Marcel Stebe,82,19.0,True,651
+TENNIS,2017,Victor Estrella Burgos,83,18.0,True,648
+TENNIS,2017,Mikhail Youzhny,84,-27.0,False,633
+TENNIS,2017,Marton Fucsovics,85,16.0,True,630
+TENNIS,2017,Andreas Seppi,86,1.0,False,616
+TENNIS,2017,Radu Albot,87,10.0,False,616
+TENNIS,2017,Laslo Djere,88,13.0,True,612
+TENNIS,2017,Gilles Simon,89,-64.0,False,610
+TENNIS,2017,Maximilian Marterer,90,11.0,True,608
+TENNIS,2017,Stefanos Tsitsipas,91,10.0,True,606
+TENNIS,2017,Lukas Lacko,92,9.0,True,605
+TENNIS,2017,Marius Copil,93,8.0,True,601
+TENNIS,2017,Jordan Thompson,94,-15.0,False,593
+TENNIS,2017,Nicolas Kicker,95,6.0,True,590
+TENNIS,2017,Tennys Sandgren,96,5.0,True,583
+TENNIS,2017,Blaz Kavcic,97,4.0,True,581
+TENNIS,2017,Malek Jaziri,98,-40.0,False,580
+TENNIS,2017,Taro Daniel,99,2.0,True,579
+TENNIS,2017,Nicolas Jarry,100,1.0,True,574
+TENNIS,2016,Andy Murray,1,1.0,False,"12,410"
+TENNIS,2016,Novak Djokovic,2,-1.0,False,"11,780"
+TENNIS,2016,Milos Raonic,3,11.0,False,"5,450"
+TENNIS,2016,Stan Wawrinka,4,0.0,False,"5,315"
+TENNIS,2016,Kei Nishikori,5,3.0,False,"4,905"
+TENNIS,2016,Marin Cilic,6,7.0,False,"3,650"
+TENNIS,2016,Gael Monfils,7,17.0,False,"3,625"
+TENNIS,2016,Dominic Thiem,8,12.0,False,"3,415"
+TENNIS,2016,Rafael Nadal,9,-4.0,False,"3,300"
+TENNIS,2016,Tomas Berdych,10,-4.0,False,"3,060"
+TENNIS,2016,David Goffin,11,5.0,False,"2,750"
+TENNIS,2016,Jo-Wilfried Tsonga,12,-2.0,False,"2,550"
+TENNIS,2016,Nick Kyrgios,13,17.0,False,"2,460"
+TENNIS,2016,Roberto Bautista Agut,14,11.0,False,"2,350"
+TENNIS,2016,Lucas Pouille,15,63.0,False,"2,156"
+TENNIS,2016,Roger Federer,16,-13.0,False,"2,130"
+TENNIS,2016,Grigor Dimitrov,17,11.0,False,"2,035"
+TENNIS,2016,Richard Gasquet,18,-9.0,False,"1,885"
+TENNIS,2016,John Isner,19,-8.0,False,"1,850"
+TENNIS,2016,Ivo Karlovic,20,3.0,False,"1,795"
+TENNIS,2016,David Ferrer,21,-14.0,False,"1,785"
+TENNIS,2016,Pablo Cuevas,22,18.0,False,"1,780"
+TENNIS,2016,Jack Sock,23,3.0,False,"1,710"
+TENNIS,2016,Alexander Zverev,24,59.0,False,"1,655"
+TENNIS,2016,Gilles Simon,25,-10.0,False,"1,585"
+TENNIS,2016,Bernard Tomic,26,-8.0,False,"1,465"
+TENNIS,2016,Albert Ramos-Vinolas,27,27.0,False,"1,435"
+TENNIS,2016,Feliciano Lopez,28,-11.0,False,"1,410"
+TENNIS,2016,Viktor Troicki,29,-7.0,False,"1,385"
+TENNIS,2016,Pablo Carreno Busta,30,37.0,False,"1,370"
+TENNIS,2016,Sam Querrey,31,28.0,False,"1,355"
+TENNIS,2016,Philipp Kohlschreiber,32,2.0,False,"1,325"
+TENNIS,2016,Steve Johnson,33,-1.0,False,"1,320"
+TENNIS,2016,Gilles Muller,34,4.0,False,"1,255"
+TENNIS,2016,Martin Klizan,35,8.0,False,"1,230"
+TENNIS,2016,Marcos Baghdatis,36,10.0,False,"1,140"
+TENNIS,2016,Marcel Granollers,37,47.0,False,"1,136"
+TENNIS,2016,Juan Martin del Potro,38,63.0,True,"1,110"
+TENNIS,2016,Nicolas Mahut,39,32.0,False,"1,102"
+TENNIS,2016,Paolo Lorenzi,40,28.0,False,"1,090"
+TENNIS,2016,Federico Delbonis,41,11.0,False,"1,040"
+TENNIS,2016,Fernando Verdasco,42,7.0,False,"1,035"
+TENNIS,2016,Joao Sousa,43,-10.0,False,"1,030"
+TENNIS,2016,Nicolas Almagro,44,29.0,False,"1,013"
+TENNIS,2016,Kyle Edmund,45,56.0,True,"1,001"
+TENNIS,2016,Andrey Kuznetsov,46,33.0,False,970
+TENNIS,2016,Benoit Paire,47,-28.0,False,960
+TENNIS,2016,Borna Coric,48,-4.0,False,945
+TENNIS,2016,Fabio Fognini,49,-28.0,False,945
+TENNIS,2016,Florian Mayer,50,51.0,True,903
+TENNIS,2016,Mischa Zverev,51,50.0,True,874
+TENNIS,2016,Diego Schwartzman,52,36.0,False,864
+TENNIS,2016,Karen Khachanov,53,48.0,True,863
+TENNIS,2016,Stephane Robert,54,47.0,True,854
+TENNIS,2016,Jiri Vesely,55,-14.0,False,848
+TENNIS,2016,Facundo Bagnis,56,45.0,True,835
+TENNIS,2016,Mikhail Youzhny,57,44.0,True,826
+TENNIS,2016,Malek Jaziri,58,43.0,True,814
+TENNIS,2016,Robin Haase,59,7.0,False,795
+TENNIS,2016,Adrian Mannarino,60,-13.0,False,791
+TENNIS,2016,Thomaz Bellucci,61,-24.0,False,771
+TENNIS,2016,Alexandr Dolgopolov,62,-26.0,False,760
+TENNIS,2016,Jan-Lennard Struff,63,38.0,True,758
+TENNIS,2016,Yen-Hsun Lu,64,13.0,False,754
+TENNIS,2016,Juan Monaco,65,-12.0,False,740
+TENNIS,2016,Daniel Evans,66,35.0,True,736
+TENNIS,2016,Kevin Anderson,67,-55.0,False,735
+TENNIS,2016,Gerald Melzer,68,33.0,True,728
+TENNIS,2016,Jeremy Chardy,69,-38.0,False,725
+TENNIS,2016,Guillermo Garcia-Lopez,70,-43.0,False,725
+TENNIS,2016,Horacio Zeballos,71,30.0,True,722
+TENNIS,2016,Dustin Brown,72,29.0,True,710
+TENNIS,2016,Paul-Henri Mathieu,73,22.0,False,710
+TENNIS,2016,Illya Marchenko,74,20.0,False,705
+TENNIS,2016,Adam Pavlasek,75,26.0,True,704
+TENNIS,2016,Taylor Fritz,76,25.0,True,701
+TENNIS,2016,Damir Dzumhur,77,5.0,False,699
+TENNIS,2016,Pierre-Hugues Herbert,78,23.0,True,698
+TENNIS,2016,Jordan Thompson,79,22.0,True,689
+TENNIS,2016,Guido Pella,80,-6.0,False,685
+TENNIS,2016,Gastao Elias,81,20.0,True,675
+TENNIS,2016,Thiago Monteiro,82,19.0,True,674
+TENNIS,2016,Renzo Olivo,83,18.0,True,670
+TENNIS,2016,John Millman,84,8.0,False,665
+TENNIS,2016,Konstantin Kravchuk,85,16.0,True,660
+TENNIS,2016,Steve Darcis,86,0.0,False,658
+TENNIS,2016,Andreas Seppi,87,-58.0,False,655
+TENNIS,2016,Donald Young,88,-40.0,False,651
+TENNIS,2016,Mikhail Kukushkin,89,-24.0,False,634
+TENNIS,2016,Ryan Harrison,90,11.0,True,632
+TENNIS,2016,Santiago Giraldo,91,-21.0,False,632
+TENNIS,2016,Ricardas Berankis,92,-7.0,False,630
+TENNIS,2016,Dusan Lajovic,93,-17.0,False,627
+TENNIS,2016,Nikoloz Basilashvili,94,7.0,True,618
+TENNIS,2016,Carlos Berlocq,95,6.0,True,617
+TENNIS,2016,Dudi Sela,96,4.0,False,616
+TENNIS,2016,Radu Albot,97,4.0,True,614
+TENNIS,2016,Rogerio Dutra Silva,98,3.0,True,613
+TENNIS,2016,Daniil Medvedev,99,2.0,True,611
+TENNIS,2016,Yoshihito Nishioka,100,1.0,True,604
+TENNIS,2015,Novak Djokovic,1,0.0,False,"16,585"
+TENNIS,2015,Andy Murray,2,4.0,False,"8,945"
+TENNIS,2015,Roger Federer,3,-1.0,False,"8,265"
+TENNIS,2015,Stan Wawrinka,4,0.0,False,"6,865"
+TENNIS,2015,Rafael Nadal,5,-2.0,False,"5,230"
+TENNIS,2015,Tomas Berdych,6,1.0,False,"4,620"
+TENNIS,2015,David Ferrer,7,3.0,False,"4,305"
+TENNIS,2015,Kei Nishikori,8,-3.0,False,"4,235"
+TENNIS,2015,Richard Gasquet,9,17.0,False,"2,850"
+TENNIS,2015,Jo-Wilfried Tsonga,10,2.0,False,"2,635"
+TENNIS,2015,John Isner,11,8.0,False,"2,495"
+TENNIS,2015,Kevin Anderson,12,4.0,False,"2,475"
+TENNIS,2015,Marin Cilic,13,-4.0,False,"2,405"
+TENNIS,2015,Milos Raonic,14,-6.0,False,"2,170"
+TENNIS,2015,Gilles Simon,15,6.0,False,"2,145"
+TENNIS,2015,David Goffin,16,6.0,False,"1,880"
+TENNIS,2015,Feliciano Lopez,17,-3.0,False,"1,690"
+TENNIS,2015,Bernard Tomic,18,38.0,False,"1,675"
+TENNIS,2015,Benoit Paire,19,82.0,True,"1,633"
+TENNIS,2015,Dominic Thiem,20,19.0,False,"1,600"
+TENNIS,2015,Fabio Fognini,21,-1.0,False,"1,515"
+TENNIS,2015,Viktor Troicki,22,79.0,True,"1,487"
+TENNIS,2015,Ivo Karlovic,23,4.0,False,"1,485"
+TENNIS,2015,Gael Monfils,24,-6.0,False,"1,485"
+TENNIS,2015,Roberto Bautista Agut,25,-10.0,False,"1,480"
+TENNIS,2015,Jack Sock,26,16.0,False,"1,465"
+TENNIS,2015,Guillermo Garcia-Lopez,27,9.0,False,"1,430"
+TENNIS,2015,Grigor Dimitrov,28,-17.0,False,"1,360"
+TENNIS,2015,Andreas Seppi,29,16.0,False,"1,360"
+TENNIS,2015,Nick Kyrgios,30,22.0,False,"1,260"
+TENNIS,2015,Jeremy Chardy,31,-2.0,False,"1,255"
+TENNIS,2015,Steve Johnson,32,5.0,False,"1,240"
+TENNIS,2015,Joao Sousa,33,21.0,False,"1,191"
+TENNIS,2015,Philipp Kohlschreiber,34,-10.0,False,"1,185"
+TENNIS,2015,Leonardo Mayer,35,-7.0,False,"1,150"
+TENNIS,2015,Alexandr Dolgopolov,36,-13.0,False,"1,135"
+TENNIS,2015,Thomaz Bellucci,37,28.0,False,"1,105"
+TENNIS,2015,Gilles Muller,38,9.0,False,"1,105"
+TENNIS,2015,Vasek Pospisil,39,14.0,False,"1,075"
+TENNIS,2015,Pablo Cuevas,40,-10.0,False,"1,065"
+TENNIS,2015,Jiri Vesely,41,25.0,False,"1,057"
+TENNIS,2015,Tommy Robredo,42,-25.0,False,"1,000"
+TENNIS,2015,Martin Klizan,43,-9.0,False,980
+TENNIS,2015,Borna Coric,44,47.0,False,941
+TENNIS,2015,Aljaz Bedene,45,56.0,True,939
+TENNIS,2015,Marcos Baghdatis,46,39.0,False,933
+TENNIS,2015,Adrian Mannarino,47,-3.0,False,930
+TENNIS,2015,Donald Young,48,9.0,False,907
+TENNIS,2015,Fernando Verdasco,49,-16.0,False,900
+TENNIS,2015,Teymuraz Gabashvili,50,17.0,False,863
+TENNIS,2015,Hyeon Chung,51,50.0,True,817
+TENNIS,2015,Federico Delbonis,52,8.0,False,815
+TENNIS,2015,Juan Monaco,53,9.0,False,810
+TENNIS,2015,Albert Ramos-Vinolas,54,9.0,False,798
+TENNIS,2015,Lukas Rosol,55,-24.0,False,797
+TENNIS,2015,Victor Estrella Burgos,56,22.0,False,797
+TENNIS,2015,Jerzy Janowicz,57,-14.0,False,795
+TENNIS,2015,Simone Bolelli,58,-3.0,False,790
+TENNIS,2015,Sam Querrey,59,-24.0,False,785
+TENNIS,2015,Sam Groth,60,21.0,False,782
+TENNIS,2015,Denis Istomin,61,-12.0,False,781
+TENNIS,2015,Sergiy Stakhovsky,62,-4.0,False,780
+TENNIS,2015,Andreas Haider-Maurer,63,19.0,False,775
+TENNIS,2015,Pablo Andujar,64,-23.0,False,770
+TENNIS,2015,Mikhail Kukushkin,65,5.0,False,762
+TENNIS,2015,Robin Haase,66,17.0,False,740
+TENNIS,2015,Pablo Carreno Busta,67,-16.0,False,734
+TENNIS,2015,Paolo Lorenzi,68,-4.0,False,725
+TENNIS,2015,Denis Kudla,69,32.0,True,719
+TENNIS,2015,Santiago Giraldo,70,-38.0,False,716
+TENNIS,2015,Nicolas Mahut,71,30.0,True,710
+TENNIS,2015,Inigo Cervantes,72,29.0,True,703
+TENNIS,2015,Nicolas Almagro,73,-2.0,False,694
+TENNIS,2015,Guido Pella,74,27.0,True,693
+TENNIS,2015,Daniel Munoz de la Nava,75,26.0,True,681
+TENNIS,2015,Dusan Lajovic,76,-7.0,False,678
+TENNIS,2015,Yen-Hsun Lu,77,-39.0,False,674
+TENNIS,2015,Lucas Pouille,78,23.0,True,672
+TENNIS,2015,Andrey Kuznetsov,79,14.0,False,663
+TENNIS,2015,Thanasi Kokkinakis,80,21.0,True,656
+TENNIS,2015,Ernests Gulbis,81,-68.0,False,655
+TENNIS,2015,Damir Dzumhur,82,19.0,True,649
+TENNIS,2015,Alexander Zverev,83,18.0,True,647
+TENNIS,2015,Marcel Granollers,84,-38.0,False,645
+TENNIS,2015,Ricardas Berankis,85,1.0,False,641
+TENNIS,2015,Steve Darcis,86,15.0,True,638
+TENNIS,2015,Ivan Dodig,87,9.0,False,636
+TENNIS,2015,Diego Schwartzman,88,-27.0,False,624
+TENNIS,2015,Rajeev Ram,89,12.0,True,623
+TENNIS,2015,Marco Cecchinato,90,11.0,True,618
+TENNIS,2015,Evgeny Donskoy,91,10.0,True,615
+TENNIS,2015,John Millman,92,9.0,True,611
+TENNIS,2015,Yuki Bhambri,93,8.0,True,610
+TENNIS,2015,Illya Marchenko,94,7.0,True,605
+TENNIS,2015,Paul-Henri Mathieu,95,2.0,False,604
+TENNIS,2015,Taro Daniel,96,5.0,True,603
+TENNIS,2015,Benjamin Becker,97,-57.0,False,591
+TENNIS,2015,Daniel Gimeno-Traver,98,3.0,True,590
+TENNIS,2015,Thiemo de Bakker,99,2.0,True,587
+TENNIS,2015,Dudi Sela,100,-1.0,False,578
+TENNIS,2014,Novak Djokovic,1,1.0,False,"11,360"
+TENNIS,2014,Roger Federer,2,4.0,False,"9,775"
+TENNIS,2014,Rafael Nadal,3,-2.0,False,"6,835"
+TENNIS,2014,Stan Wawrinka,4,4.0,False,"5,370"
+TENNIS,2014,Kei Nishikori,5,12.0,False,"5,025"
+TENNIS,2014,Andy Murray,6,-2.0,False,"4,675"
+TENNIS,2014,Tomas Berdych,7,0.0,False,"4,600"
+TENNIS,2014,Milos Raonic,8,3.0,False,"4,440"
+TENNIS,2014,Marin Cilic,9,28.0,False,"4,150"
+TENNIS,2014,David Ferrer,10,-7.0,False,"4,045"
+TENNIS,2014,Grigor Dimitrov,11,12.0,False,"3,645"
+TENNIS,2014,Jo-Wilfried Tsonga,12,-2.0,False,"2,740"
+TENNIS,2014,Ernests Gulbis,13,11.0,False,"2,455"
+TENNIS,2014,Feliciano Lopez,14,14.0,False,"2,130"
+TENNIS,2014,Roberto Bautista Agut,15,43.0,False,"2,110"
+TENNIS,2014,Kevin Anderson,16,4.0,False,"2,080"
+TENNIS,2014,Tommy Robredo,17,1.0,False,"2,015"
+TENNIS,2014,Gael Monfils,18,13.0,False,"1,900"
+TENNIS,2014,John Isner,19,-5.0,False,"1,890"
+TENNIS,2014,Fabio Fognini,20,-4.0,False,"1,790"
+TENNIS,2014,Gilles Simon,21,-2.0,False,"1,730"
+TENNIS,2014,David Goffin,22,79.0,True,"1,599"
+TENNIS,2014,Alexandr Dolgopolov,23,34.0,False,"1,455"
+TENNIS,2014,Philipp Kohlschreiber,24,-2.0,False,"1,415"
+TENNIS,2014,Julien Benneteau,25,10.0,False,"1,365"
+TENNIS,2014,Richard Gasquet,26,-17.0,False,"1,350"
+TENNIS,2014,Ivo Karlovic,27,51.0,False,"1,320"
+TENNIS,2014,Leonardo Mayer,28,66.0,False,"1,299"
+TENNIS,2014,Jeremy Chardy,29,5.0,False,"1,240"
+TENNIS,2014,Pablo Cuevas,30,71.0,True,"1,222"
+TENNIS,2014,Lukas Rosol,31,16.0,False,"1,210"
+TENNIS,2014,Santiago Giraldo,32,37.0,False,"1,175"
+TENNIS,2014,Fernando Verdasco,33,-3.0,False,"1,135"
+TENNIS,2014,Martin Klizan,34,67.0,True,"1,094"
+TENNIS,2014,Sam Querrey,35,11.0,False,"1,090"
+TENNIS,2014,Guillermo Garcia-Lopez,36,26.0,False,"1,040"
+TENNIS,2014,Steve Johnson,37,64.0,True,999
+TENNIS,2014,Yen-Hsun Lu,38,27.0,False,993
+TENNIS,2014,Dominic Thiem,39,62.0,True,989
+TENNIS,2014,Benjamin Becker,40,39.0,False,973
+TENNIS,2014,Pablo Andujar,41,7.0,False,950
+TENNIS,2014,Jack Sock,42,59.0,True,934
+TENNIS,2014,Jerzy Janowicz,43,-22.0,False,915
+TENNIS,2014,Adrian Mannarino,44,15.0,False,898
+TENNIS,2014,Andreas Seppi,45,-20.0,False,870
+TENNIS,2014,Marcel Granollers,46,-8.0,False,860
+TENNIS,2014,Gilles Muller,47,54.0,True,855
+TENNIS,2014,Mikhail Youzhny,48,-33.0,False,850
+TENNIS,2014,Denis Istomin,49,-4.0,False,850
+TENNIS,2014,Lleyton Hewitt,50,10.0,False,845
+TENNIS,2014,Pablo Carreno Busta,51,13.0,False,841
+TENNIS,2014,Nick Kyrgios,52,49.0,True,830
+TENNIS,2014,Vasek Pospisil,53,-21.0,False,830
+TENNIS,2014,Joao Sousa,54,-5.0,False,822
+TENNIS,2014,Simone Bolelli,55,46.0,True,810
+TENNIS,2014,Bernard Tomic,56,-5.0,False,797
+TENNIS,2014,Donald Young,57,39.0,False,796
+TENNIS,2014,Sergiy Stakhovsky,58,40.0,False,781
+TENNIS,2014,Jan-Lennard Struff,59,42.0,True,781
+TENNIS,2014,Federico Delbonis,60,-5.0,False,775
+TENNIS,2014,Diego Schwartzman,61,40.0,True,775
+TENNIS,2014,Juan Monaco,62,-20.0,False,770
+TENNIS,2014,Albert Ramos-Vinolas,63,20.0,False,761
+TENNIS,2014,Paolo Lorenzi,64,37.0,True,759
+TENNIS,2014,Thomaz Bellucci,65,36.0,True,753
+TENNIS,2014,Jiri Vesely,66,19.0,False,743
+TENNIS,2014,Teymuraz Gabashvili,67,9.0,False,730
+TENNIS,2014,Radek Stepanek,68,-24.0,False,715
+TENNIS,2014,Dusan Lajovic,69,32.0,True,711
+TENNIS,2014,Mikhail Kukushkin,70,-3.0,False,705
+TENNIS,2014,Nicolas Almagro,71,-58.0,False,700
+TENNIS,2014,Carlos Berlocq,72,-31.0,False,700
+TENNIS,2014,Jarkko Nieminen,73,-34.0,False,693
+TENNIS,2014,Andrey Golubev,74,8.0,False,691
+TENNIS,2014,Marinko Matosevic,75,-14.0,False,682
+TENNIS,2014,Malek Jaziri,76,25.0,True,676
+TENNIS,2014,Tommy Haas,77,-65.0,False,675
+TENNIS,2014,Victor Estrella Burgos,78,23.0,True,659
+TENNIS,2014,Peter Gojowczyk,79,22.0,True,641
+TENNIS,2014,Blaz Rola,80,21.0,True,632
+TENNIS,2014,Sam Groth,81,20.0,True,625
+TENNIS,2014,Andreas Haider-Maurer,82,19.0,True,621
+TENNIS,2014,Robin Haase,83,-40.0,False,620
+TENNIS,2014,Igor Sijsling,84,-14.0,False,619
+TENNIS,2014,Marcos Baghdatis,85,2.0,False,610
+TENNIS,2014,Ricardas Berankis,86,15.0,True,605
+TENNIS,2014,Edouard Roger-Vasselin,87,-35.0,False,600
+TENNIS,2014,Alejandro Falla,88,11.0,False,596
+TENNIS,2014,Dustin Brown,89,12.0,True,596
+TENNIS,2014,Joao Souza,90,11.0,True,593
+TENNIS,2014,Borna Coric,91,10.0,True,591
+TENNIS,2014,Alejandro Gonzalez,92,-1.0,False,582
+TENNIS,2014,Andrey Kuznetsov,93,8.0,True,580
+TENNIS,2014,Tatsuma Ito,94,7.0,True,576
+TENNIS,2014,Lukas Lacko,95,-14.0,False,576
+TENNIS,2014,Ivan Dodig,96,-63.0,False,575
+TENNIS,2014,Paul-Henri Mathieu,97,4.0,True,565
+TENNIS,2014,Tobias Kamke,98,-24.0,False,564
+TENNIS,2014,Dudi Sela,99,-26.0,False,560
+TENNIS,2014,Go Soeda,100,1.0,True,559
+PINBALL,2020,Raymond Davidson,1,0.0,False,1957.52
+PINBALL,2020,Johannes Ostermeier,2,0.0,False,1803.01
+PINBALL,2020,Eric Stone,3,6.0,False,1989.17
+PINBALL,2020,Daniele Celestino Acciari,4,0.0,False,1851.08
+PINBALL,2020,Keith Elwin,5,-2.0,False,1971.12
+PINBALL,2020,Peter Andersen,6,2.0,False,1702.45
+PINBALL,2020,Escher Lefkoff,7,13.0,False,1943.93
+PINBALL,2020,Colin Urban,8,35.0,False,1893.94
+PINBALL,2020,Cayle George,9,1.0,False,1905.99
+PINBALL,2020,Colin MacAlpine,10,3.0,False,1864.46
+PINBALL,2020,Julio Vicario Soriano,11,7.0,False,1797.68
+PINBALL,2020,Bowen Kerins,12,-7.0,False,1940.97
+PINBALL,2020,Robert Sutter,13,-2.0,False,1680.03
+PINBALL,2020,Steven Bowden,14,-8.0,False,1768.31
+PINBALL,2020,Aleksander Kaczmarczyk,15,6.0,False,2063.08
+PINBALL,2020,Trent Augenstein,16,-9.0,False,1753.47
+PINBALL,2020,Jim Belsito,17,6.0,False,1753.73
+PINBALL,2020,David Riel,18,14.0,False,1784.91
+PINBALL,2020,Franck Bona,19,-7.0,False,1579.13
+PINBALL,2020,Robert Gagno,20,-5.0,False,1804.38
+PINBALL,2020,Paul Englert,21,33.0,False,1670.26
+PINBALL,2020,Germain Mariolle,22,-6.0,False,1776.32
+PINBALL,2020,Joe Lemire,23,15.0,False,1794.17
+PINBALL,2020,Andy Rosa,24,6.0,False,1979.33
+PINBALL,2020,Zach Sharpe,25,-11.0,False,1745.48
+PINBALL,2020,Olli-Mikko Ojamies,26,27.0,False,1736.39
+PINBALL,2020,Cryss Stephens,27,-2.0,False,1735.54
+PINBALL,2020,Emil ED Dreiborg,28,73.0,True,1537.98
+PINBALL,2020,Levente Tregova,29,-12.0,False,1675.13
+PINBALL,2020,Josh Sharpe,30,12.0,False,1873.99
+PINBALL,2020,Mats Runsten,31,-3.0,False,1698.18
+PINBALL,2020,Karl DeAngelo,32,8.0,False,1900.52
+PINBALL,2020,Roberto Pedroni,33,-6.0,False,1812.27
+PINBALL,2020,Phil Birnbaum,34,5.0,False,1640.73
+PINBALL,2020,Jörgen Holm,35,-16.0,False,1587.22
+PINBALL,2020,Marcus Hugosson,36,12.0,False,1681.39
+PINBALL,2020,Luke Nahorniak,37,44.0,False,1744.01
+PINBALL,2020,Jason Werdrick,38,-14.0,False,1756.4
+PINBALL,2020,Andrei Massenkoff,39,8.0,False,1817.55
+PINBALL,2020,Albert Nomden,40,-18.0,False,1715.3
+PINBALL,2020,John Delzoppo,41,-7.0,False,1926.86
+PINBALL,2020,Jack Tadman,42,-9.0,False,1760.94
+PINBALL,2020,Alberto Santana,43,-6.0,False,1635.29
+PINBALL,2020,Bob Matthews,44,2.0,False,1677.05
+PINBALL,2020,Tobias Wagemann,45,7.0,False,1532.25
+PINBALL,2020,Adam Becker,46,-20.0,False,1787.9
+PINBALL,2020,Jason Lambert,47,13.0,False,1949.99
+PINBALL,2020,Jeff Teolis,48,38.0,False,1703.9
+PINBALL,2020,Markus Stix,49,-20.0,False,1677.31
+PINBALL,2020,Jonas Valström,50,-5.0,False,1613.88
+PINBALL,2020,Derek Price,51,50.0,True,1619.39
+PINBALL,2020,Martin Janczyk,52,7.0,False,1637.52
+PINBALL,2020,Johan Genberg,53,-17.0,False,1602.56
+PINBALL,2020,Ernö Rotter,54,-19.0,False,1681.76
+PINBALL,2020,Elliott Keith,55,16.0,False,1739.24
+PINBALL,2020,Stefan Herold,56,-12.0,False,1559.46
+PINBALL,2020,Andrew Rosa II,57,27.0,False,1879.75
+PINBALL,2020,Thomas Mästerman,58,10.0,False,1424.2
+PINBALL,2020,Phil Grimaldi,59,23.0,False,1777.67
+PINBALL,2020,Donavan Stepp,60,4.0,False,1786.55
+PINBALL,2020,Lonnie Langford,61,18.0,False,1806.43
+PINBALL,2020,Lewis Bevans,62,12.0,False,1767.41
+PINBALL,2020,Derek Thomson,63,15.0,False,1768.76
+PINBALL,2020,Peter Watt,64,2.0,False,2006.18
+PINBALL,2020,Roland Schwarz,65,-7.0,False,1611.91
+PINBALL,2020,Dave Stewart,66,-25.0,False,1721.74
+PINBALL,2020,Tom Graf,67,26.0,False,1475.78
+PINBALL,2020,Jordan Semrow,68,33.0,True,1517.22
+PINBALL,2020,Jerry Bernard,69,-19.0,False,1773.32
+PINBALL,2020,Flavio Baddaria,70,17.0,False,1651.25
+PINBALL,2020,Drew Cedolia,71,5.0,False,1770.53
+PINBALL,2020,Nico Wicke,72,-10.0,False,1639.29
+PINBALL,2020,Brian O'Neill,73,-24.0,False,1674.16
+PINBALL,2020,Will McKinney,74,-11.0,False,1656.96
+PINBALL,2020,Eric Strangeway,75,26.0,True,1563.25
+PINBALL,2020,Paul Jongma,76,25.0,True,1683.36
+PINBALL,2020,Alex Harmon,77,3.0,False,1890.64
+PINBALL,2020,Dirk Elzholz,78,10.0,False,1600.4
+PINBALL,2020,Craig Pullen,79,22.0,True,1691.89
+PINBALL,2020,Paul Jones AUS,80,-13.0,False,1697.56
+PINBALL,2020,Jens Flügge,81,-25.0,False,1618.82
+PINBALL,2020,Mark Pearson,82,19.0,True,1873.88
+PINBALL,2020,Jason Zahler,83,-26.0,False,1798.79
+PINBALL,2020,Mark van der Gugten,84,-23.0,False,1512.56
+PINBALL,2020,Benjamin Gräbeldinger,85,-12.0,False,1569.47
+PINBALL,2020,Greg DeFeo,86,-11.0,False,1672.06
+PINBALL,2020,Archibald Lefevre,87,14.0,True,1573.54
+PINBALL,2020,Adam McKinnie,88,-19.0,False,1630.03
+PINBALL,2020,Levi Nayman,89,-38.0,False,1698.89
+PINBALL,2020,Jon Replogle,90,-25.0,False,1842.19
+PINBALL,2020,Andrew Foster,91,10.0,True,1672.86
+PINBALL,2020,Mads Kristensen,92,-20.0,False,1640.26
+PINBALL,2020,Jared August,93,8.0,True,1707.01
+PINBALL,2020,Johnny Modica,94,-24.0,False,1656.99
+PINBALL,2020,John van der Wulp,95,-6.0,False,1601.55
+PINBALL,2020,Jan Anders Nilsson,96,5.0,True,1481.72
+PINBALL,2020,Rich Mallett,97,-20.0,False,1560.11
+PINBALL,2020,Martin Hotze,98,3.0,True,1608.3
+PINBALL,2020,Ryan Wanger,99,2.0,True,1772.44
+PINBALL,2020,Richard Rhodes,100,1.0,True,1818.81
+PINBALL,2019,Raymond Davidson,1,0.0,False,2070.91
+PINBALL,2019,Johannes Ostermeier,2,1.0,False,1817.72
+PINBALL,2019,Keith Elwin,3,-1.0,False,1937.46
+PINBALL,2019,Daniele Celestino Acciari,4,2.0,False,1880.16
+PINBALL,2019,Bowen Kerins,5,7.0,False,2007.98
+PINBALL,2019,Steven Bowden,6,7.0,False,1837.96
+PINBALL,2019,Trent Augenstein,7,-3.0,False,1826.37
+PINBALL,2019,Peter Andersen,8,41.0,False,1647.66
+PINBALL,2019,Eric Stone,9,-4.0,False,1968.62
+PINBALL,2019,Cayle George,10,-3.0,False,1813.09
+PINBALL,2019,Robert Sutter,11,17.0,False,1743.52
+PINBALL,2019,Franck Bona,12,3.0,False,1763.01
+PINBALL,2019,Colin MacAlpine,13,3.0,False,1911.71
+PINBALL,2019,Zach Sharpe,14,-6.0,False,1876.94
+PINBALL,2019,Robert Gagno,15,-5.0,False,1757.46
+PINBALL,2019,Germain Mariolle,16,1.0,False,1782.25
+PINBALL,2019,Levente Tregova,17,8.0,False,1669.42
+PINBALL,2019,Julio Vicario Soriano,18,-9.0,False,1704.07
+PINBALL,2019,Jörgen Holm,19,-8.0,False,1623.7
+PINBALL,2019,Escher Lefkoff,20,16.0,False,1955.51
+PINBALL,2019,Aleksander Kaczmarczyk,21,25.0,False,1944.77
+PINBALL,2019,Albert Nomden,22,-2.0,False,1621.31
+PINBALL,2019,Jim Belsito,23,-1.0,False,1897.05
+PINBALL,2019,Jason Werdrick,24,10.0,False,1789.05
+PINBALL,2019,Cryss Stephens,25,-11.0,False,1832.76
+PINBALL,2019,Adam Becker,26,-7.0,False,1822.96
+PINBALL,2019,Roberto Pedroni,27,11.0,False,1829.63
+PINBALL,2019,Mats Runsten,28,-7.0,False,1677.91
+PINBALL,2019,Markus Stix,29,16.0,False,1748.44
+PINBALL,2019,Andy Rosa,30,2.0,False,2000.02
+PINBALL,2019,Jorian Engelbrektsson,31,-7.0,False,1790.54
+PINBALL,2019,David Riel,32,-14.0,False,1705.48
+PINBALL,2019,Jack Tadman,33,8.0,False,1853.47
+PINBALL,2019,John Delzoppo,34,-4.0,False,1953.69
+PINBALL,2019,Ernö Rotter,35,-8.0,False,1545.83
+PINBALL,2019,Johan Genberg,36,-5.0,False,1686.09
+PINBALL,2019,Alberto Santana,37,6.0,False,1787.66
+PINBALL,2019,Joe Lemire,38,33.0,False,1898.76
+PINBALL,2019,Phil Birnbaum,39,-10.0,False,1683.3
+PINBALL,2019,Karl DeAngelo,40,-1.0,False,1866.24
+PINBALL,2019,Dave Stewart,41,-1.0,False,1605.3
+PINBALL,2019,Josh Sharpe,42,-19.0,False,1913.29
+PINBALL,2019,Colin Urban,43,13.0,False,1735.33
+PINBALL,2019,Stefan Herold,44,0.0,False,1540.69
+PINBALL,2019,Jonas Valström,45,5.0,False,1587.49
+PINBALL,2019,Bob Matthews,46,-4.0,False,1613.9
+PINBALL,2019,Andrei Massenkoff,47,-21.0,False,1852.02
+PINBALL,2019,Marcus Hugosson,48,-15.0,False,1615.12
+PINBALL,2019,Brian O'Neill,49,17.0,False,1786.32
+PINBALL,2019,Jerry Bernard,50,4.0,False,1747.07
+PINBALL,2019,Levi Nayman,51,-14.0,False,1734.19
+PINBALL,2019,Tobias Wagemann,52,26.0,False,1588.51
+PINBALL,2019,Olli-Mikko Ojamies,53,36.0,False,1607.38
+PINBALL,2019,Paul Englert,54,47.0,True,1635.59
+PINBALL,2019,Fred Richardson,55,5.0,False,1779.26
+PINBALL,2019,Jens Flügge,56,13.0,False,1592.91
+PINBALL,2019,Jason Zahler,57,23.0,False,1785.67
+PINBALL,2019,Roland Schwarz,58,9.0,False,1666.82
+PINBALL,2019,Martin Janczyk,59,42.0,True,1466.44
+PINBALL,2019,Jason Lambert,60,13.0,False,1740.71
+PINBALL,2019,Mark van der Gugten,61,-4.0,False,1532.63
+PINBALL,2019,Nico Wicke,62,39.0,True,1588.97
+PINBALL,2019,Will McKinney,63,22.0,False,1745.3
+PINBALL,2019,Donavan Stepp,64,-12.0,False,1896.95
+PINBALL,2019,Jon Replogle,65,-30.0,False,1741.7
+PINBALL,2019,Peter Watt,66,35.0,True,2040.59
+PINBALL,2019,Paul Jones AUS,67,-2.0,False,1751.14
+PINBALL,2019,Thomas Mästerman,68,-9.0,False,1616.29
+PINBALL,2019,Adam McKinnie,69,7.0,False,1783.46
+PINBALL,2019,Johnny Modica,70,-22.0,False,1708.95
+PINBALL,2019,Elliott Keith,71,30.0,True,1801.01
+PINBALL,2019,Mads Kristensen,72,0.0,False,1703.64
+PINBALL,2019,Benjamin Gräbeldinger,73,-26.0,False,1549.9
+PINBALL,2019,Lewis Bevans,74,27.0,True,1852.93
+PINBALL,2019,Greg DeFeo,75,-20.0,False,1784.43
+PINBALL,2019,Drew Cedolia,76,25.0,True,1865.98
+PINBALL,2019,Rich Mallett,77,-16.0,False,1553.86
+PINBALL,2019,Derek Thomson,78,23.0,True,1709.85
+PINBALL,2019,Lonnie Langford,79,22.0,True,1646.97
+PINBALL,2019,Alex Harmon,80,4.0,False,1662.33
+PINBALL,2019,Luke Nahorniak,81,2.0,False,1738.68
+PINBALL,2019,Phil Grimaldi,82,-19.0,False,1737.12
+PINBALL,2019,Derek Fugate,83,17.0,False,1691.15
+PINBALL,2019,Andrew Rosa II,84,-31.0,False,1816.08
+PINBALL,2019,Zac Wollons,85,14.0,False,1679.14
+PINBALL,2019,Jeff Teolis,86,-9.0,False,1832.71
+PINBALL,2019,Flavio Baddaria,87,1.0,False,1611.4
+PINBALL,2019,Dirk Elzholz,88,-20.0,False,1590.38
+PINBALL,2019,John van der Wulp,89,-3.0,False,1562.47
+PINBALL,2019,Mike Corbett WA,90,11.0,True,1677.48
+PINBALL,2019,Alvar Palm,91,0.0,False,1638.02
+PINBALL,2019,Maka Honig,92,9.0,True,1769.28
+PINBALL,2019,Tom Graf,93,8.0,True,1581.61
+PINBALL,2019,Mats Sahlberg,94,7.0,True,1549.5
+PINBALL,2019,David Dahl-Hansson,95,-16.0,False,1613.44
+PINBALL,2019,Gabriel Ortiz,96,5.0,True,1587.41
+PINBALL,2019,Robert Byers,97,-16.0,False,1845.53
+PINBALL,2019,Didier Dujardin,98,3.0,True,1494.51
+PINBALL,2019,Adam Lefkoff,99,-25.0,False,1879.24
+PINBALL,2019,Greg Poverelli,100,1.0,True,1649.31
+PINBALL,2018,Raymond Davidson,1,3.0,False,1943.82
+PINBALL,2018,Keith Elwin,2,1.0,False,1938.18
+PINBALL,2018,Johannes Ostermeier,3,59.0,False,1769.31
+PINBALL,2018,Trent Augenstein,4,3.0,False,1878.42
+PINBALL,2018,Eric Stone,5,59.0,False,2006.41
+PINBALL,2018,Daniele Celestino Acciari,6,0.0,False,1739.1
+PINBALL,2018,Cayle George,7,-5.0,False,1737.32
+PINBALL,2018,Zach Sharpe,8,-7.0,False,1921.67
+PINBALL,2018,Julio Vicario Soriano,9,16.0,False,1826.57
+PINBALL,2018,Robert Gagno,10,-2.0,False,1819.4
+PINBALL,2018,Jörgen Holm,11,-2.0,False,1678.36
+PINBALL,2018,Bowen Kerins,12,89.0,True,1911.98
+PINBALL,2018,Steven Bowden,13,-2.0,False,1829.74
+PINBALL,2018,Cryss Stephens,14,7.0,False,1905.67
+PINBALL,2018,Franck Bona,15,21.0,False,1658.77
+PINBALL,2018,Colin MacAlpine,16,31.0,False,1889.53
+PINBALL,2018,Germain Mariolle,17,7.0,False,1724.51
+PINBALL,2018,David Riel,18,-6.0,False,1761.28
+PINBALL,2018,Adam Becker,19,14.0,False,1950.26
+PINBALL,2018,Albert Nomden,20,19.0,False,1602.42
+PINBALL,2018,Mats Runsten,21,-8.0,False,1730.05
+PINBALL,2018,Jim Belsito,22,-8.0,False,1869.31
+PINBALL,2018,Josh Sharpe,23,-4.0,False,1980.14
+PINBALL,2018,Jorian Engelbrektsson,24,-19.0,False,1710.4
+PINBALL,2018,Levente Tregova,25,61.0,False,1739.57
+PINBALL,2018,Andrei Massenkoff,26,-11.0,False,1809.72
+PINBALL,2018,Ernö Rotter,27,7.0,False,1525.72
+PINBALL,2018,Robert Sutter,28,9.0,False,1806.62
+PINBALL,2018,Phil Birnbaum,29,11.0,False,1670.51
+PINBALL,2018,John Delzoppo,30,-7.0,False,1878.12
+PINBALL,2018,Johan Genberg,31,-4.0,False,1651.45
+PINBALL,2018,Andy Rosa,32,-16.0,False,1771.88
+PINBALL,2018,Marcus Hugosson,33,-5.0,False,1622.56
+PINBALL,2018,Jason Werdrick,34,-14.0,False,1717.11
+PINBALL,2018,Jon Replogle,35,-13.0,False,1679.9
+PINBALL,2018,Escher Lefkoff,36,2.0,False,1958.23
+PINBALL,2018,Levi Nayman,37,-5.0,False,1631.16
+PINBALL,2018,Roberto Pedroni,38,4.0,False,1717.09
+PINBALL,2018,Karl DeAngelo,39,-22.0,False,1774.27
+PINBALL,2018,Dave Stewart,40,-14.0,False,1744.97
+PINBALL,2018,Jack Tadman,41,60.0,True,1823.91
+PINBALL,2018,Bob Matthews,42,-7.0,False,1625.71
+PINBALL,2018,Alberto Santana,43,3.0,False,1717.99
+PINBALL,2018,Stefan Herold,44,57.0,True,1453.16
+PINBALL,2018,Markus Stix,45,-4.0,False,1696.62
+PINBALL,2018,Aleksander Kaczmarczyk,46,9.0,False,1716.39
+PINBALL,2018,Benjamin Gräbeldinger,47,54.0,True,1456.22
+PINBALL,2018,Johnny Modica,48,-17.0,False,1813.88
+PINBALL,2018,Peter Andersen,49,36.0,False,1747.81
+PINBALL,2018,Jonas Valström,50,34.0,False,1623.47
+PINBALL,2018,Kevin Birrell,51,-41.0,False,1599.0
+PINBALL,2018,Donavan Stepp,52,6.0,False,1791.12
+PINBALL,2018,Andrew Rosa II,53,24.0,False,1836.4
+PINBALL,2018,Jerry Bernard,54,-11.0,False,1831.93
+PINBALL,2018,Greg DeFeo,55,24.0,False,1687.51
+PINBALL,2018,Colin Urban,56,45.0,True,1840.73
+PINBALL,2018,Mark van der Gugten,57,44.0,True,1436.52
+PINBALL,2018,Chris Chinn,58,-8.0,False,1685.85
+PINBALL,2018,Thomas Mästerman,59,42.0,True,1612.32
+PINBALL,2018,Fred Richardson,60,20.0,False,1824.98
+PINBALL,2018,Rich Mallett,61,15.0,False,1533.14
+PINBALL,2018,Andrew Lee,62,6.0,False,1874.86
+PINBALL,2018,Phil Grimaldi,63,38.0,True,1755.38
+PINBALL,2018,Martin Hotze,64,7.0,False,1559.86
+PINBALL,2018,Paul Jones AUS,65,36.0,True,1848.88
+PINBALL,2018,Brian O'Neill,66,35.0,True,1682.92
+PINBALL,2018,Roland Schwarz,67,24.0,False,1608.18
+PINBALL,2018,Dirk Elzholz,68,-9.0,False,1469.81
+PINBALL,2018,Jens Flügge,69,32.0,True,1660.91
+PINBALL,2018,Peter Blakemore,70,31.0,True,1542.04
+PINBALL,2018,Joe Lemire,71,-23.0,False,1776.37
+PINBALL,2018,Mads Kristensen,72,29.0,True,1708.3
+PINBALL,2018,Jason Lambert,73,28.0,True,1777.49
+PINBALL,2018,Adam Lefkoff,74,-22.0,False,1831.32
+PINBALL,2018,Jan Anders Nilsson,75,-5.0,False,1480.68
+PINBALL,2018,Adam McKinnie,76,2.0,False,1761.75
+PINBALL,2018,Jeff Teolis,77,24.0,True,1792.57
+PINBALL,2018,Tobias Wagemann,78,17.0,False,1493.46
+PINBALL,2018,David Dahl-Hansson,79,22.0,True,1591.98
+PINBALL,2018,Jason Zahler,80,21.0,True,1789.56
+PINBALL,2018,Robert Byers,81,20.0,True,1704.76
+PINBALL,2018,Nick Zendejas,82,-19.0,False,1658.12
+PINBALL,2018,Luke Nahorniak,83,18.0,True,1785.0
+PINBALL,2018,Alex Harmon,84,-19.0,False,1765.79
+PINBALL,2018,Will McKinney,85,16.0,True,1811.26
+PINBALL,2018,John van der Wulp,86,15.0,True,1675.15
+PINBALL,2018,Fred Cochran,87,-18.0,False,1564.58
+PINBALL,2018,Flavio Baddaria,88,13.0,True,1602.54
+PINBALL,2018,Olli-Mikko Ojamies,89,-60.0,False,1599.79
+PINBALL,2018,Nicklas Lindahl,90,-29.0,False,1623.49
+PINBALL,2018,Alvar Palm,91,10.0,True,1644.75
+PINBALL,2018,Evan Bingham,92,9.0,True,1693.3
+PINBALL,2018,Tim Sexton,93,-49.0,False,1711.36
+PINBALL,2018,Rafael Masedo Rodríguez,94,7.0,True,1504.31
+PINBALL,2018,Todd Rafacz,95,6.0,True,1700.49
+PINBALL,2018,Cesare Datri,96,3.0,False,1612.21
+PINBALL,2018,Justin Bath,97,4.0,True,1672.29
+PINBALL,2018,Walt Lannis,98,3.0,True,1681.13
+PINBALL,2018,Zac Wollons,99,2.0,True,1620.25
+PINBALL,2018,Derek Fugate,100,-49.0,False,1640.08
+PINBALL,2017,Zach Sharpe,1,4.0,False,2049.45
+PINBALL,2017,Cayle George,2,9.0,False,1826.56
+PINBALL,2017,Keith Elwin,3,0.0,False,1980.15
+PINBALL,2017,Raymond Davidson,4,4.0,False,1892.78
+PINBALL,2017,Jorian Engelbrektsson,5,-4.0,False,1884.88
+PINBALL,2017,Daniele Celestino Acciari,6,-4.0,False,1769.73
+PINBALL,2017,Trent Augenstein,7,2.0,False,1728.22
+PINBALL,2017,Robert Gagno,8,2.0,False,1786.87
+PINBALL,2017,Jörgen Holm,9,-5.0,False,1756.81
+PINBALL,2017,Kevin Birrell,10,6.0,False,1795.64
+PINBALL,2017,Steven Bowden,11,-5.0,False,1767.88
+PINBALL,2017,David Riel,12,20.0,False,1693.67
+PINBALL,2017,Mats Runsten,13,-6.0,False,1709.51
+PINBALL,2017,Jim Belsito,14,1.0,False,1621.52
+PINBALL,2017,Andrei Massenkoff,15,15.0,False,1877.64
+PINBALL,2017,Andy Rosa,16,-3.0,False,1879.68
+PINBALL,2017,Karl DeAngelo,17,10.0,False,1886.49
+PINBALL,2017,Joshua Henderson,18,-6.0,False,1933.1
+PINBALL,2017,Josh Sharpe,19,2.0,False,1783.78
+PINBALL,2017,Jason Werdrick,20,-1.0,False,1782.06
+PINBALL,2017,Cryss Stephens,21,-7.0,False,1781.26
+PINBALL,2017,Jon Replogle,22,7.0,False,1815.85
+PINBALL,2017,John Delzoppo,23,26.0,False,1859.27
+PINBALL,2017,Germain Mariolle,24,49.0,False,1857.58
+PINBALL,2017,Julio Vicario Soriano,25,34.0,False,1698.94
+PINBALL,2017,Dave Stewart,26,2.0,False,1623.51
+PINBALL,2017,Johan Genberg,27,10.0,False,1551.12
+PINBALL,2017,Marcus Hugosson,28,-4.0,False,1571.89
+PINBALL,2017,Olli-Mikko Ojamies,29,-4.0,False,1691.48
+PINBALL,2017,Paul Jongma,30,-10.0,False,1579.57
+PINBALL,2017,Johnny Modica,31,35.0,False,1727.63
+PINBALL,2017,Levi Nayman,32,69.0,True,1664.75
+PINBALL,2017,Adam Becker,33,0.0,False,1821.65
+PINBALL,2017,Ernö Rotter,34,23.0,False,1677.38
+PINBALL,2017,Bob Matthews,35,11.0,False,1716.58
+PINBALL,2017,Franck Bona,36,14.0,False,1516.01
+PINBALL,2017,Robert Sutter,37,-15.0,False,1736.15
+PINBALL,2017,Escher Lefkoff,38,63.0,True,1748.77
+PINBALL,2017,Albert Nomden,39,-4.0,False,1616.66
+PINBALL,2017,Phil Birnbaum,40,61.0,True,1710.94
+PINBALL,2017,Markus Stix,41,-18.0,False,1690.0
+PINBALL,2017,Roberto Pedroni,42,-1.0,False,1861.31
+PINBALL,2017,Jerry Bernard,43,-3.0,False,1763.4
+PINBALL,2017,Tim Sexton,44,57.0,True,1721.91
+PINBALL,2017,Per Schwarzenberger,45,9.0,False,1732.98
+PINBALL,2017,Alberto Santana,46,55.0,True,1635.29
+PINBALL,2017,Colin MacAlpine,47,17.0,False,1875.96
+PINBALL,2017,Joe Lemire,48,17.0,False,1797.89
+PINBALL,2017,Erwin Deutschländer,49,52.0,True,1561.38
+PINBALL,2017,Chris Chinn,50,51.0,True,1575.89
+PINBALL,2017,Derek Fugate,51,45.0,False,1712.92
+PINBALL,2017,Adam Lefkoff,52,-9.0,False,1660.48
+PINBALL,2017,Kevin Stone,53,48.0,True,1685.77
+PINBALL,2017,Al Thomka,54,4.0,False,1710.32
+PINBALL,2017,Aleksander Kaczmarczyk,55,46.0,True,1700.98
+PINBALL,2017,Roy Wils,56,-38.0,False,1569.63
+PINBALL,2017,Eric Wagensonner,57,44.0,True,1605.86
+PINBALL,2017,Donavan Stepp,58,-24.0,False,1684.05
+PINBALL,2017,Dirk Elzholz,59,42.0,True,1606.32
+PINBALL,2017,Martin Ayub,60,-29.0,False,1588.52
+PINBALL,2017,Nicklas Lindahl,61,19.0,False,1582.38
+PINBALL,2017,Johannes Ostermeier,62,39.0,True,1539.31
+PINBALL,2017,Nick Zendejas,63,-8.0,False,1814.09
+PINBALL,2017,Eric Stone,64,37.0,True,1836.98
+PINBALL,2017,Alex Harmon,65,-20.0,False,1675.52
+PINBALL,2017,Tommy Bizzi,66,35.0,True,1623.74
+PINBALL,2017,Per Ahlenius,67,-19.0,False,1606.16
+PINBALL,2017,Andrew Lee,68,33.0,True,1711.61
+PINBALL,2017,Fred Cochran,69,32.0,True,1584.59
+PINBALL,2017,Jan Anders Nilsson,70,0.0,False,1580.87
+PINBALL,2017,Martin Hotze,71,22.0,False,1610.03
+PINBALL,2017,Maka Honig,72,-20.0,False,1623.64
+PINBALL,2017,Ben Granger,73,8.0,False,1613.32
+PINBALL,2017,Robin Lassonde,74,27.0,True,1682.8
+PINBALL,2017,David Mainwaring,75,26.0,True,1551.99
+PINBALL,2017,Rich Mallett,76,25.0,True,1583.49
+PINBALL,2017,Andrew Rosa II,77,15.0,False,1713.1
+PINBALL,2017,Adam McKinnie,78,-11.0,False,1738.57
+PINBALL,2017,Greg DeFeo,79,22.0,True,1694.56
+PINBALL,2017,Fred Richardson,80,21.0,True,1686.51
+PINBALL,2017,Sean Grant,81,-64.0,False,1776.64
+PINBALL,2017,Brian Shepherd,82,19.0,True,1739.49
+PINBALL,2017,Stefan Karlhuber,83,18.0,True,1540.88
+PINBALL,2017,Jonas Valström,84,13.0,False,1543.95
+PINBALL,2017,Peter Andersen,85,-29.0,False,1513.45
+PINBALL,2017,Levente Tregova,86,15.0,True,1644.34
+PINBALL,2017,Peter Franck,87,13.0,False,1481.36
+PINBALL,2017,Dave Hubbard,88,-20.0,False,1701.7
+PINBALL,2017,Justin Day,89,12.0,True,1596.73
+PINBALL,2017,Chris Frame,90,11.0,True,1667.54
+PINBALL,2017,Roland Schwarz,91,8.0,False,1574.0
+PINBALL,2017,Brian ONeill,92,9.0,True,1738.32
+PINBALL,2017,Andreas Harre,93,-54.0,False,1488.82
+PINBALL,2017,Lyman Sheats,94,-50.0,False,1479.24
+PINBALL,2017,Tobias Wagemann,95,6.0,True,1501.95
+PINBALL,2017,Michael Trepp,96,-58.0,False,1540.89
+PINBALL,2017,Mahesh Murthy,97,-15.0,False,1563.8
+PINBALL,2017,Greg Galanter,98,3.0,True,1703.09
+PINBALL,2017,Cesare Datri,99,2.0,True,1618.19
+PINBALL,2017,Don Johnson,100,1.0,True,1689.73
+PINBALL,2016,Jorian Engelbrektsson,1,0.0,False,1886.51
+PINBALL,2016,Daniele Celestino Acciari,2,2.0,False,1788.05
+PINBALL,2016,Keith Elwin,3,-1.0,False,2002.86
+PINBALL,2016,Jörgen Holm,4,5.0,False,1661.71
+PINBALL,2016,Zach Sharpe,5,-2.0,False,1953.81
+PINBALL,2016,Steven Bowden,6,1.0,False,1866.36
+PINBALL,2016,Mats Runsten,7,1.0,False,1751.59
+PINBALL,2016,Raymond Davidson,8,-2.0,False,1743.59
+PINBALL,2016,Trent Augenstein,9,1.0,False,1871.56
+PINBALL,2016,Robert Gagno,10,-5.0,False,1632.95
+PINBALL,2016,Cayle George,11,0.0,False,1695.56
+PINBALL,2016,Joshua Henderson,12,1.0,False,1909.24
+PINBALL,2016,Andy Rosa,13,2.0,False,1939.44
+PINBALL,2016,Cryss Stephens,14,7.0,False,1826.66
+PINBALL,2016,Jim Belsito,15,-3.0,False,1720.77
+PINBALL,2016,Kevin Birrell,16,2.0,False,1841.66
+PINBALL,2016,Sean Grant,17,9.0,False,1901.85
+PINBALL,2016,Roy Wils,18,-4.0,False,1501.42
+PINBALL,2016,Jason Werdrick,19,5.0,False,1849.48
+PINBALL,2016,Paul Jongma,20,10.0,False,1681.34
+PINBALL,2016,Josh Sharpe,21,-4.0,False,1881.43
+PINBALL,2016,Robert Sutter,22,-3.0,False,1772.59
+PINBALL,2016,Markus Stix,23,2.0,False,1765.59
+PINBALL,2016,Marcus Hugosson,24,24.0,False,1610.66
+PINBALL,2016,Olli-Mikko Ojamies,25,37.0,False,1740.47
+PINBALL,2016,Bowen Kerins,26,-10.0,False,1676.47
+PINBALL,2016,Karl DeAngelo,27,-5.0,False,1862.42
+PINBALL,2016,Dave Stewart,28,0.0,False,1660.42
+PINBALL,2016,Jon Replogle,29,-6.0,False,1707.37
+PINBALL,2016,Andrei Massenkoff,30,-10.0,False,1828.13
+PINBALL,2016,Martin Ayub,31,-2.0,False,1689.55
+PINBALL,2016,David Riel,32,14.0,False,1666.48
+PINBALL,2016,Adam Becker,33,-1.0,False,1887.73
+PINBALL,2016,Donavan Stepp,34,-1.0,False,1603.57
+PINBALL,2016,Albert Nomden,35,-4.0,False,1732.76
+PINBALL,2016,Francesco La Rocca,36,8.0,False,1697.59
+PINBALL,2016,Johan Genberg,37,14.0,False,1593.3
+PINBALL,2016,Michael Trepp,38,-11.0,False,1702.21
+PINBALL,2016,Andreas Harre,39,8.0,False,1503.76
+PINBALL,2016,Jerry Bernard,40,-3.0,False,1771.48
+PINBALL,2016,Roberto Pedroni,41,1.0,False,1749.36
+PINBALL,2016,Steve Zahler,42,-8.0,False,1662.21
+PINBALL,2016,Adam Lefkoff,43,-4.0,False,1798.78
+PINBALL,2016,Lyman Sheats,44,24.0,False,1749.74
+PINBALL,2016,Alex Harmon,45,21.0,False,1734.04
+PINBALL,2016,Bob Matthews,46,-10.0,False,1701.44
+PINBALL,2016,Fredrik Malmqvist,47,17.0,False,1576.18
+PINBALL,2016,Per Ahlenius,48,9.0,False,1633.9
+PINBALL,2016,John Delzoppo,49,0.0,False,1847.19
+PINBALL,2016,Franck Bona,50,2.0,False,1760.92
+PINBALL,2016,Chris Basler,51,-16.0,False,1707.29
+PINBALL,2016,Maka Honig,52,9.0,False,1600.62
+PINBALL,2016,Jochen Ludwig,53,22.0,False,1610.39
+PINBALL,2016,Per Schwarzenberger,54,45.0,False,1586.03
+PINBALL,2016,Nick Zendejas,55,-14.0,False,1680.26
+PINBALL,2016,Peter Andersen,56,45.0,True,1653.47
+PINBALL,2016,Ernö Rotter,57,30.0,False,1594.79
+PINBALL,2016,Al Thomka,58,-3.0,False,1778.91
+PINBALL,2016,Julio Vicario Soriano,59,0.0,False,1575.4
+PINBALL,2016,Helena Walter,60,36.0,False,1582.81
+PINBALL,2016,Greg Poverelli,61,40.0,True,1683.35
+PINBALL,2016,Craig Pullen,62,-8.0,False,1808.32
+PINBALL,2016,Krisztián Szalai,63,38.0,True,1828.37
+PINBALL,2016,Colin MacAlpine,64,-19.0,False,1650.2
+PINBALL,2016,Joe Lemire,65,32.0,False,1832.93
+PINBALL,2016,Johnny Modica,66,35.0,True,1770.36
+PINBALL,2016,Adam McKinnie,67,-29.0,False,1716.91
+PINBALL,2016,Dave Hubbard,68,33.0,True,1687.2
+PINBALL,2016,Dave Hegge,69,-13.0,False,1724.27
+PINBALL,2016,Jan Anders Nilsson,70,28.0,False,1462.68
+PINBALL,2016,Mads Kristensen,71,17.0,False,1618.21
+PINBALL,2016,Lieven Engelbeen,72,-29.0,False,1564.07
+PINBALL,2016,Germain Mariolle,73,28.0,True,1589.01
+PINBALL,2016,Jonas Johansson,74,-7.0,False,1512.63
+PINBALL,2016,Damien Charléty,75,8.0,False,1631.12
+PINBALL,2016,Art Dodd,76,-16.0,False,1673.98
+PINBALL,2016,Greg Mott,77,14.0,False,1590.28
+PINBALL,2016,Tim Hansen,78,-9.0,False,1727.65
+PINBALL,2016,Aaron Nelson,79,-29.0,False,1539.48
+PINBALL,2016,Nicklas Lindahl,80,21.0,True,1605.34
+PINBALL,2016,Ben Granger,81,20.0,True,1713.93
+PINBALL,2016,Mahesh Murthy,82,-10.0,False,1593.91
+PINBALL,2016,Chris Tabaka,83,-25.0,False,1564.73
+PINBALL,2016,Lukasz Romanowski,84,-21.0,False,1557.84
+PINBALL,2016,Joe Said,85,-15.0,False,1381.72
+PINBALL,2016,Garrett Hays,86,-21.0,False,1582.7
+PINBALL,2016,Tim Tournay,87,8.0,False,1482.36
+PINBALL,2016,Philippe Bocquet,88,-3.0,False,1531.05
+PINBALL,2016,Eden Stamm,89,-36.0,False,1560.42
+PINBALL,2016,Sanjay Shah,90,2.0,False,1682.5
+PINBALL,2016,Nico Wicke,91,10.0,True,1549.53
+PINBALL,2016,Andrew Rosa II,92,-11.0,False,1742.36
+PINBALL,2016,Martin Hotze,93,8.0,True,1618.96
+PINBALL,2016,David Dahl-Hansson,94,7.0,True,1569.27
+PINBALL,2016,Andreas Thorsén,95,6.0,True,1600.62
+PINBALL,2016,Derek Fugate,96,5.0,True,1647.13
+PINBALL,2016,Jonas Valström,97,4.0,True,1636.12
+PINBALL,2016,Peter Blakemore,98,-14.0,False,1542.36
+PINBALL,2016,Roland Schwarz,99,-17.0,False,1662.85
+PINBALL,2016,Peter Franck,100,1.0,True,1487.43
